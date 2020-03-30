@@ -1,0 +1,3945 @@
+msgid ""
+msgstr "Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP"
+
+msgctxt "Languages::description::start_selling"
+msgid "受付開始日"
+msgstr "受付開始日"
+
+msgctxt "Languages::description::specify_date"
+msgid "日付指定"
+msgstr "日付指定"
+
+msgctxt "Languages::description::specify_days"
+msgid "公演日の"
+msgstr "公演日の"
+
+msgctxt "Languages::description::days_before_event"
+msgid "日前"
+msgstr "日前"
+
+msgctxt "Languages::description::end_selling"
+msgid "受付終了日"
+msgstr "受付終了日"
+
+msgctxt "Languages::description::specify_hours"
+msgid "公演時間の"
+msgstr "公演時間の"
+
+msgctxt "Languages::description::hours"
+msgid "時間"
+msgstr "時間"
+
+msgctxt "Languages::description::after_event_is_started"
+msgid "後"
+msgstr "後"
+
+msgctxt "Languages::description::before_event_is_started"
+msgid "前"
+msgstr "前"
+
+msgctxt "Languages::description::start_scanning"
+msgid "読み取り開始日時"
+msgstr "読み取り開始日時"
+
+msgctxt "Languages::description::hours_before_event"
+msgid "時間前"
+msgstr "時間前"
+
+msgctxt "Languages::description::end_scanning"
+msgid "読み取り終了日時"
+msgstr "読み取り終了日時"
+
+msgctxt "Languages::description::show_event_schedule"
+msgid "公演スケジュールの表示"
+msgstr "公演スケジュールの表示"
+
+msgctxt "Languages::description::on"
+msgid "あり"
+msgstr "あり"
+
+msgctxt "Languages::description::off"
+msgid "なし"
+msgstr "なし"
+
+msgctxt "Languages::description::start_tour_period"
+msgid "公演期間（From）"
+msgstr "公演期間（From）"
+
+msgctxt "Languages::description::end_tour_period"
+msgid "公演期間（To）"
+msgstr "公演期間（To）"
+
+msgctxt "Languages::description::limit_number_ticket"
+msgid "最大申込回数"
+msgstr "最大申込回数"
+
+msgctxt "Languages::description::up_to_this_number"
+msgid "回まで"
+msgstr "回まで"
+
+msgctxt "Languages::description::only_a_few_ticket"
+msgid "残数設定"
+msgstr "残数設定"
+
+msgctxt "Languages::description::field_start_selling_type"
+msgid "受付開始日"
+msgstr "受付開始日"
+
+msgctxt "Languages::description::field_start_selling_specify_date"
+msgid "受付開始日（日付指定）"
+msgstr "受付開始日（日付指定）"
+
+msgctxt "Languages::description::field_start_selling_specify_time"
+msgid "日数指定"
+msgstr "日数指定"
+
+msgctxt "Languages::description::field_start_selling_day"
+msgid "受付開始日"
+msgstr "受付開始日"
+
+msgctxt "Languages::description::field_start_selling_time"
+msgid "受付開始時間"
+msgstr "受付開始時間"
+
+msgctxt "Languages::description::field_end_selling_type"
+msgid "受付終了日"
+msgstr "受付終了日"
+
+msgctxt "Languages::description::field_end_selling_specify_date"
+msgid "受付終了日（日付指定）"
+msgstr "受付終了日（日付指定）"
+
+msgctxt "Languages::description::field_end_selling_specify_time"
+msgid "日数指定"
+msgstr "日数指定"
+
+msgctxt "Languages::description::field_end_selling_hours"
+msgid "受付終了時間"
+msgstr "受付終了時間"
+
+msgctxt "Languages::description::field_end_selling_hours_type"
+msgid "受付終了時間"
+msgstr "受付終了時間"
+
+msgctxt "Languages::description::field_start_scanning_type"
+msgid "読み取り開始日時"
+msgstr "読み取り開始日時"
+
+msgctxt "Languages::description::field_start_scanning_specify_date"
+msgid "読み取り開始日（日付指定）"
+msgstr "読み取り開始日（日付指定）"
+
+msgctxt "Languages::description::field_start_scanning_specify_time"
+msgid "日数指定"
+msgstr "日数指定"
+
+msgctxt "Languages::description::field_start_scanning_hours"
+msgid "読み取り開始時間"
+msgstr "読み取り開始時間"
+
+msgctxt "Languages::description::field_end_scanning_type"
+msgid "読み取り終了日時"
+msgstr "読み取り終了日時"
+
+msgctxt "Languages::description::field_end_scanning_specify_date"
+msgid "読み取り終了日（日付指定）"
+msgstr "読み取り終了日（日付指定）"
+
+msgctxt "Languages::description::field_end_scanning_specify_time"
+msgid "日数指定"
+msgstr "日数指定"
+
+msgctxt "Languages::description::field_end_scanning_hours"
+msgid "読み取り終了時間"
+msgstr "読み取り終了時間"
+
+msgctxt "Languages::description::field_end_scanning_hours_type"
+msgid "読み取り終了時間"
+msgstr "読み取り終了時間"
+
+msgctxt "Languages::description::field_start_tour_period"
+msgid "公演期間（From）"
+msgstr "公演期間（From）"
+
+msgctxt "Languages::description::field_end_tour_period"
+msgid "公演期間（To）"
+msgstr "公演期間（To）"
+
+msgctxt "Languages::description::field_show_event_schedule"
+msgid "公演スケジュールの表示"
+msgstr "公演スケジュールの表示"
+
+msgctxt "Languages::description::field_limit_number_ticket"
+msgid "最大申込回数"
+msgstr "最大申込回数"
+
+msgctxt "Languages::description::field_only_a_few_ticket"
+msgid "残数設定"
+msgstr "残数設定"
+
+msgctxt "Languages::description::field_start_selling"
+msgid "受付開始日"
+msgstr "受付開始日"
+
+msgctxt "Languages::description::field_end_selling"
+msgid "受付終了日"
+msgstr "受付終了日"
+
+msgctxt "Languages::description::field_start_scanning"
+msgid "読み取り開始日時"
+msgstr "読み取り開始日時"
+
+msgctxt "Languages::description::field_end_scanning"
+msgid "読み取り終了日時"
+msgstr "読み取り終了日時"
+
+msgctxt "Languages::description::number_ticket"
+msgid "枚"
+msgstr "枚"
+
+msgctxt "Languages::description::tour_period"
+msgid "販売公演期間"
+msgstr "販売公演期間"
+
+msgctxt "Languages::description::holiday"
+msgid "祝日"
+msgstr "祝日"
+
+msgctxt "Languages::description::door"
+msgid "当日券"
+msgstr "当日券"
+
+msgctxt "Languages::description::price"
+msgid "料金"
+msgstr "料金"
+
+msgctxt "Languages::description::Notes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "Languages::description::What's group tickets"
+msgid "What's group tickets"
+msgstr "What's group tickets"
+
+msgctxt "Languages::description::How to play"
+msgid "How to play"
+msgstr "How to play"
+
+msgctxt "Languages::description::Time-limit"
+msgid "Time-limit"
+msgstr "Time-limit"
+
+msgctxt "Languages::description::Story"
+msgid "Story"
+msgstr "Story"
+
+msgctxt "Languages::description::Sales catch"
+msgid "Sales catch"
+msgstr "Sales catch"
+
+msgctxt "Languages::description::About this event"
+msgid "About this event"
+msgstr "About this event"
+
+msgctxt "Languages::description::Tab Price"
+msgid "Tab Price"
+msgstr "Tab Price"
+
+msgctxt "Languages::description::Tab Date"
+msgid "Tab Date"
+msgstr "Tab Date"
+
+msgctxt "Languages::description::Tab How To Play"
+msgid "Tab How To Play"
+msgstr "Tab How To Play"
+
+msgctxt "Languages::description::Tab Story"
+msgid "Tab Story"
+msgstr "Tab Story"
+
+msgctxt "Languages::description::Tab FAQ"
+msgid "Tab FAQ"
+msgstr "Tab FAQ"
+
+msgctxt "Languages::description::Overview"
+msgid "Overview"
+msgstr "Overview"
+
+msgctxt "Languages::description::Text"
+msgid "Text"
+msgstr "Text"
+
+msgctxt "Languages::description::no_data_available"
+msgid "有効なデータがありません"
+msgstr "有効なデータがありません"
+
+msgctxt "Languages::description::change_member_info"
+msgid "会員情報変更"
+msgstr "会員情報変更"
+
+msgctxt "Languages::description::available"
+msgid "空きあり"
+msgstr "空きあり"
+
+msgctxt "Languages::description::only_a_few_left"
+msgid "残りわずか"
+msgstr "残りわずか"
+
+msgctxt "Languages::description::priviledge"
+msgid "特典"
+msgstr "特典"
+
+msgctxt "Languages::description::number_of_ppl_per_team_how_to"
+msgid "チーム人数"
+msgstr "チーム人数"
+
+msgctxt "Languages::description::number_of_ppl_per_team_story"
+msgid "チーム人数"
+msgstr "チーム人数"
+
+msgctxt "Languages::description::ticket_sales"
+msgid "チケット販売"
+msgstr "チケット販売"
+
+msgctxt "Languages::description::field_start_selling_specify_hour"
+msgid "受付開始日（日付指定）の時間"
+msgstr "受付開始日（日付指定）の時間"
+
+msgctxt "Languages::description::field_start_selling_specify_minute"
+msgid "受付開始日（日付指定）の分"
+msgstr "受付開始日（日付指定）の分"
+
+msgctxt "Languages::description::field_start_selling_hour"
+msgid "受付開始日（日数指定）の時間"
+msgstr "受付開始日（日数指定）の時間"
+
+msgctxt "Languages::description::field_start_selling_minute"
+msgid "受付開始日（日数指定）の分"
+msgstr "受付開始日（日数指定）の分"
+
+msgctxt "Languages::description::field_end_selling_specify_hour"
+msgid "受付終了日（日付指定）の時間"
+msgstr "受付終了日（日付指定）の時間"
+
+msgctxt "Languages::description::field_end_selling_specify_minute"
+msgid "受付終了日（日付指定）の分"
+msgstr "受付終了日（日付指定）の分"
+
+msgctxt "Languages::description::field_start_scanning_specify_hour"
+msgid "読み取り開始日（日数指定）の時間"
+msgstr "読み取り開始日（日数指定）の時間"
+
+msgctxt "Languages::description::field_start_scanning_specify_minute"
+msgid "読み取り開始日（日数指定）の分"
+msgstr "読み取り開始日（日数指定）の分"
+
+msgctxt "Languages::description::field_end_scanning_specify_hour"
+msgid "読み取り終了日（日数指定）の時間"
+msgstr "読み取り終了日（日数指定）の時間"
+
+msgctxt "Languages::description::field_end_scanning_specify_minute"
+msgid "読み取り終了日（日数指定）の分"
+msgstr "読み取り終了日（日数指定）の分"
+
+msgctxt "Languages::description::release_info_date"
+msgid "情報公開日時"
+msgstr "情報公開日時"
+
+msgctxt "Languages::description::field_release_info_date"
+msgid "情報公開日時の日にち"
+msgstr "情報公開日時の日にち"
+
+msgctxt "Languages::description::field_release_info_hour"
+msgid "情報公開日時の時間"
+msgstr "情報公開日時の時間"
+
+msgctxt "Languages::description::field_release_info_minute"
+msgid "情報公開日時の分"
+msgstr "情報公開日時の分"
+
+msgctxt "Languages::description::field_position"
+msgid "ポジション"
+msgstr "ポジション"
+
+msgctxt "Languages::description::jp_availability"
+msgid "残席"
+msgstr "残席"
+
+msgctxt "Languages::description::search_tour"
+msgid "公演検索"
+msgstr "公演検索"
+
+msgctxt "Languages::description::get_social"
+msgid "TMC公式SNSで<br/>最新情報をチェック！"
+msgstr "TMC公式SNSで<br/>最新情報をチェック！"
+
+msgctxt "Languages::description::last"
+msgid "Last"
+msgstr "Last"
+
+msgctxt "Languages::description::first"
+msgid "First"
+msgstr "First"
+
+msgctxt "Languages::description::all"
+msgid "全て"
+msgstr "全て"
+
+msgctxt "Languages::description::coming_soon"
+msgid "もうすぐ開催"
+msgstr "もうすぐ開催"
+
+msgctxt "Languages::description::open_now"
+msgid "開催中"
+msgstr "開催中"
+
+msgctxt "Languages::description::add_event_time"
+msgid "公演時間追加"
+msgstr "公演時間追加"
+
+msgctxt "Languages::description::edit_event_time"
+msgid "公演時間編集"
+msgstr "公演時間編集"
+
+msgctxt "Languages::description::edit"
+msgid "編集"
+msgstr "編集"
+
+msgctxt "Languages::description::create_schedule"
+msgid "スケジュール作成"
+msgstr "スケジュール作成"
+
+msgctxt "Languages::description::de_active"
+msgid "非活性"
+msgstr "非活性"
+
+msgctxt "Languages::description::edit_basic_info"
+msgid "基本情報編集"
+msgstr "基本情報編集"
+
+msgctxt "Languages::description::add_event"
+msgid "公演追加"
+msgstr "公演追加"
+
+msgctxt "Languages::description::venue_name"
+msgid "会場名"
+msgstr "会場名"
+
+msgctxt "Languages::description::event_term"
+msgid "公演期間"
+msgstr "公演期間"
+
+msgctxt "Languages::description::event_day_week_date"
+msgid "公演日（平日）"
+msgstr "公演日（平日）"
+
+msgctxt "Languages::description::event_time_holiday"
+msgid "公演時間（祝日）"
+msgstr "公演時間（祝日）"
+
+msgctxt "Languages::description::event_day_holiday"
+msgid "公演日（祝日）"
+msgstr "公演日（祝日）"
+
+msgctxt "Languages::description::event_time_week_day"
+msgid "公演時間（平日）"
+msgstr "公演時間（平日）"
+
+msgctxt "Languages::description::seat_type"
+msgid "券種"
+msgstr "券種"
+
+msgctxt "Languages::description::event_schedule"
+msgid "公演スケジュール"
+msgstr "公演スケジュール"
+
+msgctxt "Languages::description::basic_info"
+msgid "基本情報"
+msgstr "基本情報"
+
+msgctxt "Languages::description::add_seat_type"
+msgid "席種追加"
+msgstr "席種追加"
+
+msgctxt "Languages::description::event_date"
+msgid "公演日"
+msgstr "公演日"
+
+msgctxt "Languages::description::stock"
+msgid "在庫"
+msgstr "在庫"
+
+msgctxt "Languages::description::pre_tickets"
+msgid "枚"
+msgstr "枚"
+
+msgctxt "Languages::description::edit_seat_type"
+msgid "席種編集"
+msgstr "席種編集"
+
+msgctxt "Languages::description::reason"
+msgid "理由"
+msgstr "理由"
+
+msgctxt "Languages::description::new_selling"
+msgid "販売区分追加"
+msgstr "販売区分追加"
+
+msgctxt "Languages::description::name"
+msgid "名前"
+msgstr "名前"
+
+msgctxt "Languages::description::after_the_event"
+msgid "後"
+msgstr "後"
+
+msgctxt "Languages::description::before_the_event"
+msgid "前"
+msgstr "前"
+
+msgctxt "Languages::description::selling_class"
+msgid "販売区分"
+msgstr "販売区分"
+
+msgctxt "Languages::description::yen"
+msgid "円"
+msgstr "円"
+
+msgctxt "Languages::description::specity_date"
+msgid "日付指定"
+msgstr "日付指定"
+
+msgctxt "Languages::description::event_period"
+msgid "公演期間"
+msgstr "公演期間"
+
+msgctxt "Languages::description::select_date"
+msgid "日付選択"
+msgstr "日付選択"
+
+msgctxt "Languages::description::mon"
+msgid "月"
+msgstr "月"
+
+msgctxt "Languages::description::tue"
+msgid "火"
+msgstr "火"
+
+msgctxt "Languages::description::wed"
+msgid "水"
+msgstr "水"
+
+msgctxt "Languages::description::thu"
+msgid "木"
+msgstr "木"
+
+msgctxt "Languages::description::fri"
+msgid "金"
+msgstr "金"
+
+msgctxt "Languages::description::sat"
+msgid "土"
+msgstr "土"
+
+msgctxt "Languages::description::sun"
+msgid "日"
+msgstr "日"
+
+msgctxt "Languages::description::holidays"
+msgid "祝日"
+msgstr "祝日"
+
+msgctxt "Languages::description::previous_month"
+msgid "前の月"
+msgstr "前の月"
+
+msgctxt "Languages::description::next_month"
+msgid "次の月"
+msgstr "次の月"
+
+msgctxt "Languages::description::venue"
+msgid "ブース名"
+msgstr "ブース名"
+
+msgctxt "Languages::description::update_event_time"
+msgid "公演時間更新"
+msgstr "公演時間更新"
+
+msgctxt "Languages::description::booth"
+msgid "ブース"
+msgstr "ブース"
+
+msgctxt "Languages::description::date"
+msgid "日付"
+msgstr "日付"
+
+msgctxt "Languages::description::delete_all"
+msgid "すべて削除"
+msgstr "すべて削除"
+
+msgctxt "Languages::description::limit_number_for_application"
+msgid "最大申込回数"
+msgstr "最大申込回数"
+
+msgctxt "Languages::description::start_reception_on"
+msgid "受付開始日"
+msgstr "受付開始日"
+
+msgctxt "Languages::description::event"
+msgid "公演"
+msgstr "公演"
+
+msgctxt "Languages::description::events"
+msgid "公演"
+msgstr "公演"
+
+msgctxt "Languages::description::specify_days_and_time"
+msgid "公演日の"
+msgstr "公演日の"
+
+msgctxt "Languages::description::selling_to"
+msgid "販売先"
+msgstr "販売先"
+
+msgctxt "Languages::description::normal_member"
+msgid "通常"
+msgstr "通常"
+
+msgctxt "Languages::description::NAKED_fc"
+msgid "団員先行"
+msgstr "団員先行"
+
+msgctxt "Languages::description::day_before_the_event"
+msgid "日前"
+msgstr "日前"
+
+msgctxt "Languages::description::end_reception_on"
+msgid "受付終了日"
+msgstr "受付終了日"
+
+msgctxt "Languages::description::quality_step"
+msgid "販売単位"
+msgstr "販売単位"
+
+msgctxt "Languages::description::max_application_times"
+msgid "最大申込回数"
+msgstr "最大申込回数"
+
+msgctxt "Languages::description::group_ticket"
+msgid "１枚あたりで減少する在庫数"
+msgstr "１枚あたりで減少する在庫数"
+
+msgctxt "Languages::description::no_events"
+msgid "公演がありません"
+msgstr "公演がありません"
+
+msgctxt "Languages::description::seat_type_was_sold"
+msgid "すでにオーダーのある券種です"
+msgstr "すでにオーダーのある券種です"
+
+msgctxt "Languages::description::times"
+msgid "回まで"
+msgstr "回まで"
+
+msgctxt "Languages::description::cant_edit_pre_date"
+msgid "過去の公演は編集できません"
+msgstr "過去の公演は編集できません"
+
+msgctxt "Languages::description::format_date_not_correct"
+msgid "日付の形式が間違っています"
+msgstr "日付の形式が間違っています"
+
+msgctxt "Languages::description::add_content"
+msgid "コンテンツ追加"
+msgstr "コンテンツ追加"
+
+msgctxt "Languages::description::add_image"
+msgid "画像を追加"
+msgstr "画像を追加"
+
+msgctxt "Languages::description::add_monitor"
+msgid "モニター追加"
+msgstr "モニター追加"
+
+msgctxt "Languages::description::edit_monitor"
+msgid "モニター編集"
+msgstr "モニター編集"
+
+msgctxt "Languages::description::layout_1_image_text"
+msgid "レイアウト1（テキスト＋画像）"
+msgstr "レイアウト1（テキスト＋画像）"
+
+msgctxt "Languages::description::layout_2_only_movie"
+msgid "レイアウト2（動画のみ）"
+msgstr "レイアウト2（動画のみ）"
+
+msgctxt "Languages::description::layout_3_only_text"
+msgid "レイアウト3（テキストのみ）"
+msgstr "レイアウト3（テキストのみ）"
+
+msgctxt "Languages::description::layout_4_slide_of_image"
+msgid "レイアウト4（画像スライド）"
+msgstr "レイアウト4（画像スライド）"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "興行を選択してください"
+msgstr "興行を選択してください"
+
+msgctxt "Languages::description::select_tour"
+msgid "興行選択"
+msgstr "興行選択"
+
+msgctxt "Languages::description::display_order"
+msgid "表示順"
+msgstr "表示順"
+
+msgctxt "Languages::description::manage_monitor"
+msgid "モニター管理"
+msgstr "モニター管理"
+
+msgctxt "Languages::description::movie"
+msgid "動画"
+msgstr "動画"
+
+msgctxt "Languages::description::monitor"
+msgid "モニター"
+msgstr "モニター"
+
+msgctxt "Languages::description::member_login_success"
+msgid "ログイン成功"
+msgstr "ログイン成功"
+
+msgctxt "Languages::description::member_logout"
+msgid "ログアウト"
+msgstr "ログアウト"
+
+msgctxt "Languages::description::member_logout_success"
+msgid "ログアウト成功"
+msgstr "ログアウト成功"
+
+msgctxt "Languages::description::logout_from_app"
+msgid "ログアウトする"
+msgstr "ログアウトする"
+
+msgctxt "Languages::description::logout"
+msgid "ログアウト"
+msgstr "ログアウト"
+
+msgctxt "Languages::description::change_basic_info"
+msgid "基本情報を変更する"
+msgstr "基本情報を変更する"
+
+msgctxt "Languages::description::change_email_address"
+msgid "メールアドレスを変更する"
+msgstr "メールアドレスを変更する"
+
+msgctxt "Languages::description::change_password"
+msgid "パスワードを変更する"
+msgstr "パスワードを変更する"
+
+msgctxt "Languages::description::forgot_password"
+msgid "パスワードご不明の方（又はパスワード未設定の方）"
+msgstr "パスワードご不明の方（又はパスワード未設定の方）"
+
+msgctxt "Languages::description::change_linked_service_registration"
+msgid "提携サービス登録を変更する"
+msgstr "提携サービス登録を変更する"
+
+msgctxt "Languages::description::withdraw"
+msgid "退会する"
+msgstr "退会する"
+
+msgctxt "Languages::description::member_info"
+msgid "メンバー情報"
+msgstr "メンバー情報"
+
+msgctxt "Languages::description::basic_name"
+msgid "名前"
+msgstr "名前"
+
+msgctxt "Languages::description::basic_phone"
+msgid "電話番号"
+msgstr "電話番号"
+
+msgctxt "Languages::description::basic_address"
+msgid "住所"
+msgstr "住所"
+
+msgctxt "Languages::description::basic_etc"
+msgid "等"
+msgstr "等"
+
+msgctxt "Languages::description::basic_connect"
+msgid "・"
+msgstr "・"
+
+msgctxt "Languages::description::you_can_easily_login_with_your_id"
+msgid "お持ちのIDで簡単にログインができます!"
+msgstr "お持ちのIDで簡単にログインができます!"
+
+msgctxt "Languages::description::tmc_e_member"
+msgid "イープラス会員"
+msgstr "イープラス会員"
+
+msgctxt "Languages::description::login_register"
+msgid "ログイン/会員登録"
+msgstr "ログイン/会員登録"
+
+msgctxt "Languages::description::note_login_fun_club"
+msgid "<span class="br-xs">NAKEDが運営する公式ファンクラブ</span>「少年探偵スクラップ団」の会員登録をされている方。"
+msgstr "<span class="br-xs">NAKEDが運営する公式ファンクラブ</span>「少年探偵スクラップ団」の会員登録をされている方。"
+
+msgctxt "Languages::description::cancel_login"
+msgid "キャンセル"
+msgstr "キャンセル"
+
+msgctxt "Languages::description::register_new_link_members"
+msgid "新規会員登録"
+msgstr "新規会員登録"
+
+msgctxt "Languages::description::note_register_new_link_members"
+msgid "いずれのログインIDもお持ちでない方は会員登録を行った上で下図のSTEPでログインしてください。<br/>e+（イープラス）会員の方は「OCEAN BY NAKED」とIDの連携ができます。"
+msgstr "いずれのログインIDもお持ちでない方は会員登録を行った上で下図のSTEPでログインしてください。<br/>e+（イープラス）会員の方は「OCEAN BY NAKED」とIDの連携ができます。"
+
+msgctxt "Languages::description::register_new"
+msgid "新規会員登録"
+msgstr "新規会員登録"
+
+msgctxt "Languages::description::register_guide1"
+msgid "新規会員登録"
+msgstr "新規会員登録"
+
+msgctxt "Languages::description::register_guide1_note"
+msgid "「新規会員登録」ボタンをクリック。"
+msgstr "「新規会員登録」ボタンをクリック。"
+
+msgctxt "Languages::description::register_guide3"
+msgid "このぺ一ジに戻り、下記ボ夕ンからログインしてください。"
+msgstr "このぺ一ジに戻り、下記ボ夕ンからログインしてください。"
+
+msgctxt "Languages::description::link_login_eplus"
+msgid "e+ (イープラス) IDと連携する"
+msgstr "e+ (イープラス) IDと連携する"
+
+msgctxt "Languages::description::note_login_suku"
+msgid "<span class="br-xs">NAKEDが運営するチケット販売サービス</span>「スクチケ」の会員登録をされている方。"
+msgstr "<span class="br-xs">NAKEDが運営するチケット販売サービス</span>「スクチケ」の会員登録をされている方。"
+
+msgctxt "Languages::description::note_do_not_know_id_login"
+msgid "新規会員登録はこちら"
+msgstr "新規会員登録はこちら"
+
+msgctxt "Languages::description::note_login"
+msgid "「イープラス」IDをお持ちの方"
+msgstr "「イープラス」IDをお持ちの方"
+
+msgctxt "Languages::description::note_login_eplus"
+msgid "e+会員の方は、初回のみ「OCEAN BY NAKED」と</br>ID連携をしてください。"
+msgstr "e+会員の方は、初回のみ「OCEAN BY NAKED」と</br>ID連携をしてください。"
+
+msgctxt "Languages::description::for_the_first_time_users"
+msgid "はじめての方"
+msgstr "はじめての方"
+
+msgctxt "Languages::description::register_guide2"
+msgid "イープラスの会員登録画面が開きます。<br/>利用規約に同意の上、お進みください。<br></br><strong>e+（イープラス）会員の方</strong><br/>e+でお使いのIDとパワードでログインすると<br/>「OCEAN BY NAKED」とIDの連携ができます。<br></br><strong>e+会員ではない方</strong><br/>お客様情報を入力して会員登録を完了してください。"
+msgstr "イープラスの会員登録画面が開きます。<br/>利用規約に同意の上、お進みください。<br></br><strong>e+（イープラス）会員の方</strong><br/>e+でお使いのIDとパワードでログインすると<br/>「OCEAN BY NAKED」とIDの連携ができます。<br></br><strong>e+会員ではない方</strong><br/>お客様情報を入力して会員登録を完了してください。"
+
+msgctxt "Languages::description::member_register_mobile_phone"
+msgid "携帯電話番号登録"
+msgstr "携帯電話番号登録"
+
+msgctxt "Languages::description::member_consent_register_eplus"
+msgid "外部組織同意画面"
+msgstr "外部組織同意画面"
+
+msgctxt "Languages::description::register_mobile_phone_number"
+msgid "携帯電話番号登録"
+msgstr "携帯電話番号登録"
+
+msgctxt "Languages::description::note_register_mobile_phone_number"
+msgid "e+会員情報を作成するには携帯電話番号の登録が必要です。"
+msgstr "e+会員情報を作成するには携帯電話番号の登録が必要です。"
+
+msgctxt "Languages::description::mobile_phone_number"
+msgid "携帯電話番号"
+msgstr "携帯電話番号"
+
+msgctxt "Languages::description::default_register"
+msgid "登録"
+msgstr "登録"
+
+msgctxt "Languages::description::field_mobile_phone_number"
+msgid "携帯電話番号"
+msgstr "携帯電話番号"
+
+msgctxt "Languages::description::logout_1"
+msgid "ログアウトする"
+msgstr "ログアウトする"
+
+msgctxt "Languages::description::logout_2"
+msgid "ログアウト"
+msgstr "ログアウト"
+
+msgctxt "Languages::description::member_advance"
+msgid "団員向け"
+msgstr "団員向け"
+
+msgctxt "Languages::description::cart_attentions"
+msgid "!!注意!! チケットは支払い完了後に確保されます"
+msgstr "!!注意!! チケットは支払い完了後に確保されます"
+
+msgctxt "Languages::description::total_cost"
+msgid "合計金額"
+msgstr "合計金額"
+
+msgctxt "Languages::description::including_charge"
+msgid "* Service charge included."
+msgstr "* Service charge included."
+
+msgctxt "Languages::description::advanced_checkout_seat"
+msgid "枚"
+msgstr "枚"
+
+msgctxt "Languages::description::print"
+msgid "印刷"
+msgstr "印刷"
+
+msgctxt "Languages::description::booth_name"
+msgid "エリア名"
+msgstr "エリア名"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "<b>[product]</b>は<b>[ordered]</b>回までしか申し込みできません。申し込み回数の上限に達しました。"
+msgstr "<b>[product]</b>は<b>[ordered]</b>回までしか申し込みできません。申し込み回数の上限に達しました。"
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "<b>[product]</b>は<b>[quantity_step]</b>枚ずつでのみ購入できます。"
+msgstr "<b>[product]</b>は<b>[quantity_step]</b>枚ずつでのみ購入できます。"
+
+msgctxt "Languages::description::category_title"
+msgid "カテゴリ一覧"
+msgstr "カテゴリ一覧"
+
+msgctxt "Languages::description::complete_title"
+msgid "手続完了"
+msgstr "手続完了"
+
+msgctxt "Languages::description::order_history_title"
+msgid "QRチケットを表示するには<span class='highlight'>#番号</span>を押してください"
+msgstr "QRチケットを表示するには<span class='highlight'>#番号</span>を押してください"
+
+msgctxt "Languages::description::order_history"
+msgid "オーダー履歴"
+msgstr "オーダー履歴"
+
+msgctxt "Languages::description::order_detail_title"
+msgid "注文情報"
+msgstr "注文情報"
+
+msgctxt "Languages::description::tab_multi_field"
+msgid "商品タブ複数行"
+msgstr "商品タブ複数行"
+
+msgctxt "Languages::description::add_tab_row"
+msgid "行追加"
+msgstr "行追加"
+
+msgctxt "Languages::description::jp_back_in_stock_add_email"
+msgid "入荷通知メールの追加"
+msgstr "入荷通知メールの追加"
+
+msgctxt "Languages::description::schedule_no_result"
+msgid "公演がありません<br/>他の日で探してください"
+msgstr "公演がありません<br/>他の日で探してください"
+
+msgctxt "Languages::description::end_of_sale"
+msgid "販売終了"
+msgstr "販売終了"
+
+msgctxt "Languages::description::center"
+msgid "中央"
+msgstr "中央"
+
+msgctxt "Languages::description::login_fail"
+msgid "ログイン失敗"
+msgstr "ログイン失敗"
+
+msgctxt "Languages::description::coupon_title_share"
+msgid "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app"
+msgstr "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app"
+
+msgctxt "Languages::description::coupon_title_invite"
+msgid "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app \n招待コード [invitation_code]"
+msgstr "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app \n招待コード [invitation_code]"
+
+msgctxt "Languages::description::coupon_how_to_use"
+msgid "使い方"
+msgstr "使い方"
+
+msgctxt "Languages::description::coupon_download_app"
+msgid "アプリダウンロード"
+msgstr "アプリダウンロード"
+
+msgctxt "Languages::description::coupon_share_sns"
+msgid "アプリシェア"
+msgstr "アプリシェア"
+
+msgctxt "Languages::description::coupon_user_invited"
+msgid "招待コード入力"
+msgstr "招待コード入力"
+
+msgctxt "Languages::description::coupon_invited_user"
+msgid "友達を招待"
+msgstr "友達を招待"
+
+msgctxt "Languages::description::promotion_template_delivery_timing"
+msgid "クーポン配信タイミング"
+msgstr "クーポン配信タイミング"
+
+msgctxt "Languages::description::promotion_template_delivery_period"
+msgid "配信期間"
+msgstr "配信期間"
+
+msgctxt "Languages::description::promotion_template_available_time"
+msgid "利用期間"
+msgstr "利用期間"
+
+msgctxt "Languages::description::coupon_status"
+msgid "ステータス"
+msgstr "ステータス"
+
+msgctxt "Languages::description::promotion_template"
+msgid "キャンペーン（クーポン）画面"
+msgstr "キャンペーン（クーポン）画面"
+
+msgctxt "Languages::description::promotion_template_menu_description"
+msgid "プロモーション設定メニュー説明"
+msgstr "プロモーション設定メニュー説明"
+
+msgctxt "Languages::description::promotions"
+msgid "クーポン一覧"
+msgstr "クーポン一覧"
+
+msgctxt "Languages::description::currency_deleted"
+msgid "クーポンが削除されました"
+msgstr "クーポンが削除されました"
+
+msgctxt "Languages::description::successful"
+msgid "お知らせ"
+msgstr "お知らせ"
+
+msgctxt "Languages::description::coupon_type"
+msgid "クーポンタイプ"
+msgstr "クーポンタイプ"
+
+msgctxt "Languages::description::coupon_add_title"
+msgid "クーポン追加画面"
+msgstr "クーポン追加画面"
+
+msgctxt "Languages::description::coupon_yen"
+msgid "円"
+msgstr "円"
+
+msgctxt "Languages::description::coupon_detailed_description"
+msgid "説明"
+msgstr "説明"
+
+msgctxt "Languages::description::use_avail_period"
+msgid "利用期間を設定"
+msgstr "利用期間を設定"
+
+msgctxt "Languages::description::coupon_edit_title"
+msgid "クーポン編集画面"
+msgstr "クーポン編集画面"
+
+msgctxt "Languages::description::coupon_use_avail_period"
+msgid "利用期間を設定"
+msgstr "利用期間を設定"
+
+msgctxt "Languages::description::coupon_condition"
+msgid "利用条件"
+msgstr "利用条件"
+
+msgctxt "Languages::description::coupon_notes"
+msgid "注意事項"
+msgstr "注意事項"
+
+msgctxt "Languages::description::coupon_bonus"
+msgid "クーポン内容"
+msgstr "クーポン内容"
+
+msgctxt "Languages::description::coupon_discount_amount"
+msgid "割引金額"
+msgstr "割引金額"
+
+msgctxt "Languages::description::promotion_template_delivery_time"
+msgid "配信期間を設定"
+msgstr "配信期間を設定"
+
+msgctxt "Languages::description::promotion_delivery_from"
+msgid "配信開始日"
+msgstr "配信開始日"
+
+msgctxt "Languages::description::promotion_delivery_to"
+msgid "配信終了日"
+msgstr "配信終了日"
+
+msgctxt "Languages::description::coupon_bonus_cash_back"
+msgid "キャッシュバック"
+msgstr "キャッシュバック"
+
+msgctxt "Languages::description::coupon_bonus_drink_good_present"
+msgid "ドリンク/グッズプレゼント"
+msgstr "ドリンク/グッズプレゼント"
+
+msgctxt "Languages::description::coupon_avail_from"
+msgid "利用開始日"
+msgstr "利用開始日"
+
+msgctxt "Languages::description::coupon_avail_to"
+msgid "利用終了日"
+msgstr "利用終了日"
+
+msgctxt "Languages::description::coming_soon_event"
+msgid "準備中"
+msgstr "準備中"
+
+msgctxt "Languages::description::text_combination_out_of_stock"
+msgid "[product]は在庫切れです"
+msgstr "[product]は在庫切れです"
+
+msgctxt "Languages::description::custom_guidance_mail"
+msgid "商品別案内メール"
+msgstr "商品別案内メール"
+
+msgctxt "Languages::description::product_national_resident_forbiden"
+msgid "外国人のための専用受付です。該当ではない方は、<a href="http://eplus.jp" target="_blank">イープラス</a>をご利用ください。<br>"
+msgstr "外国人のための専用受付です。該当ではない方は、<a href="http://eplus.jp" target="_blank">イープラス</a>をご利用ください。<br>"
+
+msgctxt "Languages::description::select_gender"
+msgid "性別を選択してください"
+msgstr "性別を選択してください"
+
+msgctxt "Languages::description::select_prefecture_code"
+msgid "都道府県を選択してください"
+msgstr "都道府県を選択してください"
+
+msgctxt "Languages::description::male"
+msgid "男性"
+msgstr "男性"
+
+msgctxt "Languages::description::female"
+msgid "女性"
+msgstr "女性"
+
+msgctxt "Languages::description::footer_1_1"
+msgid "トピックス"
+msgstr "トピックス"
+
+msgctxt "Languages::description::footer_1_2"
+msgid "イベント"
+msgstr "イベント"
+
+msgctxt "Languages::description::footer_1_3"
+msgid "フロアマップ"
+msgstr "フロアマップ"
+
+msgctxt "Languages::description::footer_1_4"
+msgid "フード"
+msgstr "フード"
+
+msgctxt "Languages::description::footer_1_5"
+msgid "グッズ"
+msgstr "グッズ"
+
+msgctxt "Languages::description::footer_2_1"
+msgid "楽しみ方"
+msgstr "楽しみ方"
+
+msgctxt "Languages::description::footer_2_2"
+msgid "OCEAN BY NAKEDとは"
+msgstr "OCEAN BY NAKEDとは"
+
+msgctxt "Languages::description::footer_2_3"
+msgid "くまっキーとは"
+msgstr "くまっキーとは"
+
+msgctxt "Languages::description::footer_2_4"
+msgid "アクセス"
+msgstr "アクセス"
+
+msgctxt "Languages::description::footer_2_5"
+msgid "注意事項"
+msgstr "注意事項"
+
+msgctxt "Languages::description::footer_3_1"
+msgid "利用制限"
+msgstr "利用制限"
+
+msgctxt "Languages::description::footer_3_2"
+msgid "よくある質問"
+msgstr "よくある質問"
+
+msgctxt "Languages::description::footer_3_3"
+msgid "貸切プラン"
+msgstr "貸切プラン"
+
+msgctxt "Languages::description::footer_3_4"
+msgid "プレスリリース"
+msgstr "プレスリリース"
+
+msgctxt "Languages::description::footer_3_5"
+msgid "NAKEDメールマガジン"
+msgstr "NAKEDメールマガジン"
+
+msgctxt "Languages::description::footer_4_1"
+msgid "プライバシーポリシー"
+msgstr "プライバシーポリシー"
+
+msgctxt "Languages::description::footer_4_2"
+msgid "特定商取引法に基づく表示"
+msgstr "特定商取引法に基づく表示"
+
+msgctxt "Languages::description::footer_4_3"
+msgid "採用情報"
+msgstr "採用情報"
+
+msgctxt "Languages::description::footer_4_4"
+msgid "お問い合わせ"
+msgstr "お問い合わせ"
+
+msgctxt "Languages::description::top_menu_1"
+msgid "トップページ"
+msgstr "トップページ"
+
+msgctxt "Languages::description::top_menu_2"
+msgid "トピックス"
+msgstr "トピックス"
+
+msgctxt "Languages::description::top_menu_3"
+msgid "イベント一覧"
+msgstr "イベント一覧"
+
+msgctxt "Languages::description::top_menu_4"
+msgid "フロアマップ"
+msgstr "フロアマップ"
+
+msgctxt "Languages::description::top_menu_5"
+msgid "アクセス"
+msgstr "アクセス"
+
+msgctxt "Languages::description::top_menu_6"
+msgid "フード"
+msgstr "フード"
+
+msgctxt "Languages::description::top_menu_7"
+msgid "グッズ"
+msgstr "グッズ"
+
+msgctxt "Languages::description::top_menu_8"
+msgid "よくある質問"
+msgstr "よくある質問"
+
+msgctxt "Languages::description::tmc_app"
+msgid "アプリについて"
+msgstr "アプリについて"
+
+msgctxt "Languages::description::buy_ticket"
+msgid "チケットを買う"
+msgstr "チケットを買う"
+
+msgctxt "Languages::description::consent_for_connecting"
+msgid "OCEAN BY NAKED会員作成同意"
+msgstr "OCEAN BY NAKED会員作成同意"
+
+msgctxt "Languages::description::member_info_will_be_created"
+msgid "以下の規約に合意して会員登録を完了させてください。"
+msgstr "以下の規約に合意して会員登録を完了させてください。"
+
+msgctxt "Languages::description::successful_connect_e_plus"
+msgid "OCEAN BY NAKEDアカウントと連携されました"
+msgstr "OCEAN BY NAKEDアカウントと連携されました"
+
+msgctxt "Languages::description::register_for_a_membership"
+msgid "会員情報登録"
+msgstr "会員情報登録"
+
+msgctxt "Languages::description::please_register_e_plus"
+msgid "OCEAN BY NAKEDの会員情報を作成するには以下の会員情報の登録が必要です"
+msgstr "OCEAN BY NAKEDの会員情報を作成するには以下の会員情報の登録が必要です"
+
+msgctxt "Languages::description::agree"
+msgid "同意する"
+msgstr "同意する"
+
+msgctxt "Languages::description::email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "Languages::description::b_phone"
+msgid "電話番号"
+msgstr "電話番号"
+
+msgctxt "Languages::description::b_firstname"
+msgid "名"
+msgstr "名"
+
+msgctxt "Languages::description::b_lastname"
+msgid "姓"
+msgstr "姓"
+
+msgctxt "Languages::description::b_first_kana_name"
+msgid "名前フリガナ（名）"
+msgstr "名前フリガナ（名）"
+
+msgctxt "Languages::description::b_last_kana_name"
+msgid "名前フリガナ（姓）"
+msgstr "名前フリガナ（姓）"
+
+msgctxt "Languages::description::b_zipcode"
+msgid "郵便番号"
+msgstr "郵便番号"
+
+msgctxt "Languages::description::b_prefecture_code"
+msgid "都道府県"
+msgstr "都道府県"
+
+msgctxt "Languages::description::b_birth_year"
+msgid "生年"
+msgstr "生年"
+
+msgctxt "Languages::description::b_gender"
+msgid "性別"
+msgstr "性別"
+
+msgctxt "Languages::description::order_id"
+msgid "注文ID"
+msgstr "注文ID"
+
+msgctxt "Languages::description::description"
+msgid "説明"
+msgstr "説明"
+
+msgctxt "Languages::description::jp_cc_method"
+msgid "支払方法"
+msgstr "支払方法"
+
+msgctxt "Languages::description::jp_cc_onetime"
+msgid "一括払い"
+msgstr "一括払い"
+
+msgctxt "Languages::description::connect_fail"
+msgid "接続に失敗しました"
+msgstr "接続に失敗しました"
+
+msgctxt "Languages::description::note_login_description"
+msgid "購入には「イープラス」のIDが必要です"
+msgstr "購入には「イープラス」のIDが必要です"
+
+msgctxt "Languages::description::register_new_guide1"
+msgid "「イープラス」IDをお持ちでない方"
+msgstr "「イープラス」IDをお持ちでない方"
+
+msgctxt "Languages::description::register_new_guide2"
+msgid "※既にe+（イープラス）会員の方は「e+ログイン画面へ進む」をクリックしてログインすると「TMC」の会員登録が完了します。"
+msgstr "※既にe+（イープラス）会員の方は「e+ログイン画面へ進む」をクリックしてログインすると「TMC」の会員登録が完了します。"
+
+msgctxt "Languages::description::register_new_guide3_1"
+msgid "登録が完了後"
+msgstr "登録が完了後"
+
+msgctxt "Languages::description::register_new_guide3_2"
+msgid "よりログインしてください"
+msgstr "よりログインしてください"
+
+msgctxt "Languages::description::footer_5_1"
+msgid "特定商取引法に基づく表示"
+msgstr "特定商取引法に基づく表示"
+
+msgctxt "Languages::description::footer_5_2"
+msgid "チケットに関するFAQとお問い合わせ"
+msgstr "チケットに関するFAQとお問い合わせ"
+
+msgctxt "Languages::description::footer_5_3"
+msgid "利用規約"
+msgstr "利用規約"
+
+msgctxt "Languages::description::footer_5_4"
+msgid "推薦環境"
+msgstr "推薦環境"
+
+msgctxt "Languages::description::fan_club"
+msgid "団員向け"
+msgstr "団員向け"
+
+msgctxt "Languages::description::title_print_invoice"
+msgid "注文確認書印刷"
+msgstr "注文確認書印刷"
+
+msgctxt "Languages::description::coming_soon_fan_club"
+msgid "準備中"
+msgstr "準備中"
+
+msgctxt "Languages::description::general"
+msgid "基本設定"
+msgstr "基本設定"
+
+msgctxt "Languages::description::elm_connection_information"
+msgid "接続設定"
+msgstr "接続設定"
+
+msgctxt "Languages::description::merchant_id"
+msgid "マーチャントID"
+msgstr "マーチャントID"
+
+msgctxt "Languages::description::merchant_pass"
+msgid "マーチャントパスワード"
+msgstr "マーチャントパスワード"
+
+msgctxt "Languages::description::tenant_id"
+msgid "店舗コード（オプション）"
+msgstr "店舗コード（オプション）"
+
+msgctxt "Languages::description::pending_status"
+msgid "正常入金が行われなかった注文に割り当てる注文ステータス"
+msgstr "正常入金が行われなかった注文に割り当てる注文ステータス"
+
+msgctxt "Languages::description::jp_sln_cc_1auth"
+msgid "与信"
+msgstr "与信"
+
+msgctxt "Languages::description::jp_sln_cc_1gathering"
+msgid "与信売上計上"
+msgstr "与信売上計上"
+
+msgctxt "Languages::description::jp_sln_cc_approve_no"
+msgid "承認番号"
+msgstr "承認番号"
+
+msgctxt "Languages::description::jp_sln_cc_auth"
+msgid "与信"
+msgstr "与信"
+
+msgctxt "Languages::description::jp_sln_cc_auth_amount"
+msgid "与信金額"
+msgstr "与信金額"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel"
+msgid "与信取消"
+msgstr "与信取消"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_error"
+msgid "クレジット与信取消エラー"
+msgstr "クレジット与信取消エラー"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_failed"
+msgid "注文番号 [oid] は与信取消できませんでした。"
+msgstr "注文番号 [oid] は与信取消できませんでした。"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancelled"
+msgid "与信を取り消しました。"
+msgstr "与信を取り消しました。"
+
+msgctxt "Languages::description::jp_sln_cc_auth_ng"
+msgid "与信NG"
+msgstr "与信NG"
+
+msgctxt "Languages::description::jp_sln_cc_auth_only"
+msgid "与信のみ"
+msgstr "与信のみ"
+
+msgctxt "Languages::description::jp_sln_cc_bonus"
+msgid "ボーナス一括払い"
+msgstr "ボーナス一括払い"
+
+msgctxt "Languages::description::jp_sln_cc_capture"
+msgid "売上計上"
+msgstr "売上計上"
+
+msgctxt "Languages::description::jp_sln_cc_change"
+msgid "利用額変更"
+msgstr "利用額変更"
+
+msgctxt "Languages::description::jp_sln_cc_check"
+msgid "カードチェック"
+msgstr "カードチェック"
+
+msgctxt "Languages::description::jp_sln_cc_company_code"
+msgid "カード会社コード"
+msgstr "カード会社コード"
+
+msgctxt "Languages::description::jp_sln_cc_data_not_exists"
+msgid "ご指定の処理を実行できる注文がありませんでした。"
+msgstr "ご指定の処理を実行できる注文がありませんでした。"
+
+msgctxt "Languages::description::jp_sln_cc_delete"
+msgid "取消"
+msgstr "取消"
+
+msgctxt "Languages::description::jp_sln_cc_error"
+msgid "クレジットカード決済エラー"
+msgstr "クレジットカード決済エラー"
+
+msgctxt "Languages::description::jp_sln_cc_error_code"
+msgid "エラーコード"
+msgstr "エラーコード"
+
+msgctxt "Languages::description::jp_sln_cc_failed"
+msgid "クレジットカードによる決済に失敗しました。<br />再度カード情報を入力いただくか他の支払方法を選択してご注文ください。"
+msgstr "クレジットカードによる決済に失敗しました。<br />再度カード情報を入力いただくか他の支払方法を選択してご注文ください。"
+
+msgctxt "Languages::description::jp_sln_cc_gathering"
+msgid "与信売上計上"
+msgstr "与信売上計上"
+
+msgctxt "Languages::description::jp_sln_cc_invalid"
+msgid "入力されたカード情報が正しくありません。<br />再度カード情報を入力いただくか他の支払方法を選択してご注文ください。"
+msgstr "入力されたカード情報が正しくありません。<br />再度カード情報を入力いただくか他の支払方法を選択してご注文ください。"
+
+msgctxt "Languages::description::jp_sln_cc_manager"
+msgid "クレジット請求管理"
+msgstr "クレジット請求管理"
+
+msgctxt "Languages::description::jp_sln_cc_notice"
+msgid "ソニーペイメントサービス（カード決済）に関する設定情報を入力してください。"
+msgstr "ソニーペイメントサービス（カード決済）に関する設定情報を入力してください。"
+
+msgctxt "Languages::description::jp_sln_cc_payment_settings"
+msgid "カード決済設定"
+msgstr "カード決済設定"
+
+msgctxt "Languages::description::jp_sln_cc_process_type"
+msgid "決済データの処理方法"
+msgstr "決済データの処理方法"
+
+msgctxt "Languages::description::jp_sln_cc_reauth"
+msgid "再オーソリ"
+msgstr "再オーソリ"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info"
+msgid "クレジットカード情報お預かり機能"
+msgstr "クレジットカード情報お預かり機能"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info_use"
+msgid "次回以降のお買い物でこのカード情報を使用する"
+msgstr "次回以降のお買い物でこのカード情報を使用する"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel"
+msgid "売上取消"
+msgstr "売上取消"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_error"
+msgid "クレジット売上取消エラー"
+msgstr "クレジット売上取消エラー"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_failed"
+msgid "注文番号 [oid] は売上取消できませんでした。"
+msgstr "注文番号 [oid] は売上取消できませんでした。"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancelled"
+msgid "売上を取り消しました。"
+msgstr "売上を取り消しました。"
+
+msgctxt "Languages::description::jp_sln_cc_sales_completed"
+msgid "請求を確定しました。"
+msgstr "請求を確定しました。"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm"
+msgid "売上計上"
+msgstr "売上計上"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_error"
+msgid "クレジット売上計上エラー"
+msgstr "クレジット売上計上エラー"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_failed"
+msgid "注文番号 [oid] は売上計上できませんでした。"
+msgstr "注文番号 [oid] は売上計上できませんでした。"
+
+msgctxt "Languages::description::jp_sln_cc_search"
+msgid "取引参照"
+msgstr "取引参照"
+
+msgctxt "Languages::description::jp_sln_cc_status"
+msgid "請求ステータス"
+msgstr "請求ステータス"
+
+msgctxt "Languages::description::jp_sln_cc_use_cvv"
+msgid "セキュリティコード(CVV2)を使用"
+msgstr "セキュリティコード(CVV2)を使用"
+
+msgctxt "Languages::description::jp_sln_cc_what_is_security_code"
+msgid "セキュリティコードとは"
+msgstr "セキュリティコードとは"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_card_info"
+msgid "カード情報の削除"
+msgstr "カード情報の削除"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_failed"
+msgid "クレジットカード情報の削除に失敗しました。<br />お手数ですが再度お試しいただくか当ショップまでご連絡をお願いいたします。"
+msgstr "クレジットカード情報の削除に失敗しました。<br />お手数ですが再度お試しいただくか当ショップまでご連絡をお願いいたします。"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_success"
+msgid "クレジットカード情報を削除しました。"
+msgstr "クレジットカード情報を削除しました。"
+
+msgctxt "Languages::description::jp_sln_ccreg_error"
+msgid "クレジットカード情報登録エラー"
+msgstr "クレジットカード情報登録エラー"
+
+msgctxt "Languages::description::jp_sln_ccreg_error_code"
+msgid "エラーコード"
+msgstr "エラーコード"
+
+msgctxt "Languages::description::jp_sln_ccreg_no_card_info"
+msgid "カード情報は登録されていません"
+msgstr "カード情報は登録されていません"
+
+msgctxt "Languages::description::jp_sln_ccreg_notice"
+msgid "ソニーペイメントサービス（登録済みカード決済）に関する設定情報を入力してください。"
+msgstr "ソニーペイメントサービス（登録済みカード決済）に関する設定情報を入力してください。"
+
+msgctxt "Languages::description::jp_sln_ccreg_register_failed"
+msgid "クレジットカード情報の登録に失敗しました。"
+msgstr "クレジットカード情報の登録に失敗しました。"
+
+msgctxt "Languages::description::jp_sln_ccreg_register_success"
+msgid "クレジットカード情報を登録しました。"
+msgstr "クレジットカード情報を登録しました。"
+
+msgctxt "Languages::description::jp_sln_ccreg_registered_card"
+msgid "登録済みカード情報"
+msgstr "登録済みカード情報"
+
+msgctxt "Languages::description::jp_sln_connections_settings"
+msgid "接続設定"
+msgstr "接続設定"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_atm"
+msgid "Pay-easy（ATM）"
+msgstr "Pay-easy（ATM）"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_cck"
+msgid "サークルK"
+msgstr "サークルK"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_day"
+msgid "デイリーヤマザキ"
+msgstr "デイリーヤマザキ"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_ebk"
+msgid "楽天銀行"
+msgstr "楽天銀行"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_edy"
+msgid "Edy"
+msgstr "Edy"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fam"
+msgid "ファミリーマート"
+msgstr "ファミリーマート"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fff"
+msgid "スリーエフ"
+msgstr "スリーエフ"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jib"
+msgid "じぶん銀行"
+msgstr "じぶん銀行"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jnb"
+msgid "ジャパンネット銀行"
+msgstr "ジャパンネット銀行"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lnk"
+msgid "Pay-easy（情報リンク）"
+msgstr "Pay-easy（情報リンク）"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lsn"
+msgid "ローソン"
+msgstr "ローソン"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_mns"
+msgid "ミニストップ"
+msgstr "ミニストップ"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_onl"
+msgid "Pay-easy（オンライン）"
+msgstr "Pay-easy（オンライン）"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sak"
+msgid "サンクス"
+msgstr "サンクス"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_scm"
+msgid "セイコーマート"
+msgstr "セイコーマート"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sev"
+msgid "セブンイレブン"
+msgstr "セブンイレブン"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_snb"
+msgid "住信SBIネット銀行"
+msgstr "住信SBIネット銀行"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sui"
+msgid "Suica"
+msgstr "Suica"
+
+msgctxt "Languages::description::jp_sln_daiko_cvsname"
+msgid "収納機関"
+msgstr "収納機関"
+
+msgctxt "Languages::description::jp_sln_daiko_deleted"
+msgid "オンライン収納代行データを削除しました。"
+msgstr "オンライン収納代行データを削除しました。"
+
+msgctxt "Languages::description::jp_sln_daiko_error"
+msgid "オンライン収納代行エラー"
+msgstr "オンライン収納代行エラー"
+
+msgctxt "Languages::description::jp_sln_daiko_error_code"
+msgid "エラーコード"
+msgstr "エラーコード"
+
+msgctxt "Languages::description::jp_sln_daiko_failed"
+msgid "オンライン収納代行による決済に失敗しました。<br />再度手続きいただくか他の支払方法を選択してご注文ください。"
+msgstr "オンライン収納代行による決済に失敗しました。<br />再度手続きいただくか他の支払方法を選択してご注文ください。"
+
+msgctxt "Languages::description::jp_sln_daiko_info"
+msgid "【オンライン収納代行について】"
+msgstr "【オンライン収納代行について】"
+
+msgctxt "Languages::description::jp_sln_daiko_instruction"
+msgid "お支払いが完了していない場合は、以下のURLにアクセスして支払方法を確認のうえ、お手続きをお願いいたします。"
+msgstr "お支払いが完了していない場合は、以下のURLにアクセスして支払方法を確認のうえ、お手続きをお願いいたします。"
+
+msgctxt "Languages::description::jp_sln_daiko_invalid"
+msgid "オンライン収納代行への接続に失敗しました。<br />他の支払方法を選択いただくかお手数ですがショップまでお問い合わせください。"
+msgstr "オンライン収納代行への接続に失敗しました。<br />他の支払方法を選択いただくかお手数ですがショップまでお問い合わせください。"
+
+msgctxt "Languages::description::jp_sln_daiko_kessai_number"
+msgid "決済番号"
+msgstr "決済番号"
+
+msgctxt "Languages::description::jp_sln_daiko_not_changeable"
+msgid "代行収納データがすでに変更または削除されているため処理を実行できません。"
+msgstr "代行収納データがすでに変更または削除されているため処理を実行できません。"
+
+msgctxt "Languages::description::jp_sln_daiko_notice"
+msgid "ソニーペイメントサービス（オンライン収納代行サービス）に関する設定情報を入力してください。"
+msgstr "ソニーペイメントサービス（オンライン収納代行サービス）に関する設定情報を入力してください。"
+
+msgctxt "Languages::description::jp_sln_daiko_nyukindate"
+msgid "入金日時"
+msgstr "入金日時"
+
+msgctxt "Languages::description::jp_sln_daiko_paid_amount"
+msgid "支払金額"
+msgstr "支払金額"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit"
+msgid "支払期限"
+msgstr "支払期限"
+
+msgctxt "Languages::description::jp_sln_daiko_order_note"
+msgid "下記URLよりコンビニ支払いに必要な番号を確認して期限内にお支払いください。"
+msgstr "下記URLよりコンビニ支払いに必要な番号を確認して期限内にお支払いください。"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_note"
+msgid "（期限を過ぎますとお申込みをキャンセルさせていただきます）"
+msgstr "（期限を過ぎますとお申込みをキャンセルさせていただきます）"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_prefix"
+msgid "注文日の"
+msgstr "注文日の"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_suffix"
+msgid "日後"
+msgstr "日後"
+
+msgctxt "Languages::description::jp_sln_daiko_payment_settings"
+msgid "オンライン収納代行サービス設定"
+msgstr "オンライン収納代行サービス設定"
+
+msgctxt "Languages::description::jp_sln_daiko_recvnum"
+msgid "受付番号"
+msgstr "受付番号"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp"
+msgid "印紙"
+msgstr "印紙"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_no"
+msgid "印紙なし"
+msgstr "印紙なし"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_yes"
+msgid "印紙あり"
+msgstr "印紙あり"
+
+msgctxt "Languages::description::jp_sln_daiko_tenant_code"
+msgid "店舗コード"
+msgstr "店舗コード"
+
+msgctxt "Languages::description::jp_sln_security_code"
+msgid "セキュリティコード"
+msgstr "セキュリティコード"
+
+msgctxt "Languages::description::jp_sln_security_code_is_empty"
+msgid "セキュリティコードが入力されていません"
+msgstr "セキュリティコードが入力されていません"
+
+msgctxt "Languages::description::jp_sln_transaction_date"
+msgid "取引日付"
+msgstr "取引日付"
+
+msgctxt "Languages::description::jp_sln_transaction_id"
+msgid "処理通番"
+msgstr "処理通番"
+
+msgctxt "Languages::description::in_stock"
+msgid "◎残席あり"
+msgstr "◎残席あり"
+
+msgctxt "Languages::description::sold_out"
+msgid "売り切れ"
+msgstr "売り切れ"
+
+msgctxt "Languages::description::option_name_0"
+msgid "会場名"
+msgstr "会場名"
+
+msgctxt "Languages::description::option_name_1"
+msgid "公演日"
+msgstr "公演日"
+
+msgctxt "Languages::description::event_time_seat_type"
+msgid "公演時間"
+msgstr "公演時間"
+
+msgctxt "Languages::description::option_name_2"
+msgid "購入内容"
+msgstr "購入内容"
+
+msgctxt "Languages::description::text_out_of_stock"
+msgid "×残席なし"
+msgstr "×残席なし"
+
+msgctxt "Languages::description::placeholder_b_firstname"
+msgid "太郎"
+msgstr "太郎"
+
+msgctxt "Languages::description::placeholder_b_lastname"
+msgid "例：山田"
+msgstr "例：山田"
+
+msgctxt "Languages::description::placeholder_b_last_kana_name"
+msgid "例：ヤマダ"
+msgstr "例：ヤマダ"
+
+msgctxt "Languages::description::placeholder_b_first_kana_name"
+msgid "タロウ"
+msgstr "タロウ"
+
+msgctxt "Languages::description::placeholder_b_birth_year"
+msgid "1900"
+msgstr "1900"
+
+msgctxt "Languages::description::placeholder_email"
+msgid "tarou@example.com"
+msgstr "tarou@example.com"
+
+msgctxt "Languages::description::placeholder_b_phone"
+msgid "090********"
+msgstr "090********"
+
+msgctxt "Languages::description::placeholder_b_zipcode"
+msgid "例：1506005"
+msgstr "例：1506005"
+
+msgctxt "Languages::description::promoter_export_order_list"
+msgid "オーダーリストをエクスポート"
+msgstr "オーダーリストをエクスポート"
+
+msgctxt "Languages::description::status_update"
+msgid "ステータス更新日時"
+msgstr "ステータス更新日時"
+
+msgctxt "Languages::description::sbps_memo"
+msgid "SBPS memo"
+msgstr "SBPS memo"
+
+msgctxt "Languages::description::skip_connect"
+msgid "スキップして登録を完了する"
+msgstr "スキップして登録を完了する"
+
+msgctxt "Languages::description::return_connect"
+msgid "登録画面に戻る"
+msgstr "登録画面に戻る"
+
+msgctxt "Languages::description::warning_no_available_ticket"
+msgid "購入出来るチケットがありません"
+msgstr "購入出来るチケットがありません"
+
+msgctxt "Languages::description::description_start_selling_specify_date"
+msgid "指定した日時に受付が開始されます"
+msgstr "指定した日時に受付が開始されます"
+
+msgctxt "Languages::description::description_start_selling_specify_days"
+msgid "公演時間からここで指定する日にち前の指定時間に受付が開始されます</br>例：0日前 00:00で設定した場合は公演日当日に受付開始"
+msgstr "公演時間からここで指定する日にち前の指定時間に受付が開始されます</br>例：0日前 00:00で設定した場合は公演日当日に受付開始"
+
+msgctxt "Languages::description::description_end_selling_specify_date"
+msgid "指定した日時に受付が終了します"
+msgstr "指定した日時に受付が終了します"
+
+msgctxt "Languages::description::description_end_selling_specify_hours"
+msgid "公演時間からここで指定する日にち時間前（後）で受付が終了します</br>例：0時間前で設定した場合は公演時間に受付終了"
+msgstr "公演時間からここで指定する日にち時間前（後）で受付が終了します</br>例：0時間前で設定した場合は公演時間に受付終了"
+
+msgctxt "Languages::description::advanced_product_payment_invalid"
+msgid "無効な支払い情報です"
+msgstr "無効な支払い情報です"
+
+msgctxt "Languages::description::advanced_product_out_of_start_selling"
+msgid "[product]は現在販売していません"
+msgstr "[product]は現在販売していません"
+
+msgctxt "Languages::description::advanced_product_out_of_end_selling"
+msgid "[product]は販売期間が終了しています"
+msgstr "[product]は販売期間が終了しています"
+
+msgctxt "Languages::description::advanced_product_price_is_changed"
+msgid "[product]の価格が変更されました"
+msgstr "[product]の価格が変更されました"
+
+msgctxt "Languages::description::advanced_product_group_ticket_is_changed"
+msgid "[product]のグループチケット枚数が変更されました"
+msgstr "[product]のグループチケット枚数が変更されました"
+
+msgctxt "Languages::description::advanced_product_item_is_changed"
+msgid "[product]の詳細情報（公演時間や席種など）が変更されました"
+msgstr "[product]の詳細情報（公演時間や席種など）が変更されました"
+
+msgctxt "Languages::description::my_account"
+msgid "マイアカウント"
+msgstr "マイアカウント"
+
+msgctxt "Languages::description::account_type_tmc"
+msgid "OCEAN BY NAKED"
+msgstr "OCEAN BY NAKED"
+
+msgctxt "Languages::description::account_type_danin"
+msgid "NAKED団"
+msgstr "NAKED団"
+
+msgctxt "Languages::description::account_type_suku"
+msgid "スクチケ"
+msgstr "スクチケ"
+
+msgctxt "Languages::description::account_type_text_2"
+msgid "ログイン中"
+msgstr "ログイン中"
+
+msgctxt "Languages::description::account_type_member_info_danin"
+msgid "NAKED FUN CLUB　少年探偵NAKED団"
+msgstr "NAKED FUN CLUB　少年探偵NAKED団"
+
+msgctxt "Languages::description::account_type_member_info_suku"
+msgid "スクラップチケット(スクチケ)"
+msgstr "スクラップチケット(スクチケ)"
+
+msgctxt "Languages::description::members"
+msgid "会員"
+msgstr "会員"
+
+msgctxt "Languages::description::manage_member"
+msgid "会員管理"
+msgstr "会員管理"
+
+msgctxt "Languages::description::eplus_id"
+msgid "イープラスID"
+msgstr "イープラスID"
+
+msgctxt "Languages::description::external_id"
+msgid "外部組織ID"
+msgstr "外部組織ID"
+
+msgctxt "Languages::description::external_type"
+msgid "外部組織名"
+msgstr "外部組織名"
+
+msgctxt "Languages::description::suku_ticket"
+msgid "スクチケ会員"
+msgstr "スクチケ会員"
+
+msgctxt "Languages::description::NAKED_fun_club"
+msgid "少年探偵NAKED団会員"
+msgstr "少年探偵NAKED団会員"
+
+msgctxt "Languages::description::total_number_of_ticket"
+msgid "合計枚数"
+msgstr "合計枚数"
+
+msgctxt "Languages::description::tickets"
+msgid "枚"
+msgstr "枚"
+
+msgctxt "Languages::description::warning_proceed_to_checkout"
+msgid "全部で[total_number_of_product]公演[total_number_of_ticket]枚のチケットを購入します。購入後のキャンセルはできません。"
+msgstr "全部で[total_number_of_product]公演[total_number_of_ticket]枚のチケットを購入します。購入後のキャンセルはできません。"
+
+msgctxt "Languages::description::advanced_product_product_not_found"
+msgid "商品が見つかりません"
+msgstr "商品が見つかりません"
+
+msgctxt "Languages::description::notification"
+msgid "通知"
+msgstr "通知"
+
+msgctxt "Languages::description::add_notification"
+msgid "通知を追加"
+msgstr "通知を追加"
+
+msgctxt "Languages::description::add_contents_screen"
+msgid "通知追加画面"
+msgstr "通知追加画面"
+
+msgctxt "Languages::description::message_to_send"
+msgid "配信メッセージ"
+msgstr "配信メッセージ"
+
+msgctxt "Languages::description::schedule"
+msgid "配信タイミング"
+msgstr "配信タイミング"
+
+msgctxt "Languages::description::deep_link"
+msgid "ディープリンク"
+msgstr "ディープリンク"
+
+msgctxt "Languages::description::admin_account_email"
+msgid "管理者アカウントのメールアドレス"
+msgstr "管理者アカウントのメールアドレス"
+
+msgctxt "Languages::description::immediate"
+msgid "即時"
+msgstr "即時"
+
+msgctxt "Languages::description::specify_time"
+msgid "時刻指定"
+msgstr "時刻指定"
+
+msgctxt "Languages::description::test_delivery"
+msgid "テスト配信"
+msgstr "テスト配信"
+
+msgctxt "Languages::description::description_deeplink"
+msgid "ディープリンク入力パターン <br/>　ニュース：/news/{ニュースID} <br/>　クーポン：/coupon/{クーポン設定ID} <br/>　個別興行：/event/{興行ID} <br/>※{}を該当のIDに変えて入力してください <br/>例）ID001のニュースを配信したい場合「/news/001」を入力"
+msgstr "ディープリンク入力パターン <br/>　ニュース：/news/{ニュースID} <br/>　クーポン：/coupon/{クーポン設定ID} <br/>　個別興行：/event/{興行ID} <br/>※{}を該当のIDに変えて入力してください <br/>例）ID001のニュースを配信したい場合「/news/001」を入力"
+
+msgctxt "Languages::description::status_notification_not_send"
+msgid "未送信"
+msgstr "未送信"
+
+msgctxt "Languages::description::status_notification_scheduled"
+msgid "配信予約済み"
+msgstr "配信予約済み"
+
+msgctxt "Languages::description::status_notification_cancel"
+msgid "キャンセル"
+msgstr "キャンセル"
+
+msgctxt "Languages::description::status_notification_completed"
+msgid "送信完了"
+msgstr "送信完了"
+
+msgctxt "Languages::description::status_notification_processing"
+msgid "処理中"
+msgstr "処理中"
+
+msgctxt "Languages::description::edit_detail"
+msgid "編集"
+msgstr "編集"
+
+msgctxt "Languages::description::delete_notification"
+msgid "削除"
+msgstr "削除"
+
+msgctxt "Languages::description::invitation_code"
+msgid "招待コード"
+msgstr "招待コード"
+
+msgctxt "Languages::description::coupon_config_id"
+msgid "クーポン設定ID"
+msgstr "クーポン設定ID"
+
+msgctxt "Languages::description::coupon_delivery_time_invalid"
+msgid "無効な配信期間です"
+msgstr "無効な配信期間です"
+
+msgctxt "Languages::description::coupon_avail_time_invalid"
+msgid "無効な利用期間です"
+msgstr "無効な利用期間です"
+
+msgctxt "Languages::description::coupon_delivery_timing_invalid"
+msgid "無効なクーポン配信タイミングです"
+msgstr "無効なクーポン配信タイミングです"
+
+msgctxt "Languages::description::coupon_bonuses_invalid"
+msgid "無効なクーポン内容です"
+msgstr "無効なクーポン内容です"
+
+msgctxt "Languages::description::coupon_status_invalid"
+msgid "無効なステータスです"
+msgstr "無効なステータスです"
+
+msgctxt "Languages::description::coupon_is_used"
+msgid "coupon_is_used"
+msgstr "coupon_is_used"
+
+msgctxt "Languages::description::advanced_product_only_sell_for_danin"
+msgid "advanced_product_only_sell_for_danin"
+msgstr "advanced_product_only_sell_for_danin"
+
+msgctxt "Languages::description::pos_jp_sln_cc_failed"
+msgid "クレジットカードによる決済に失敗しました。<br />再度カード情報を入力いただくか<br />他の支払方法を選択してご注文ください。"
+msgstr "クレジットカードによる決済に失敗しました。<br />再度カード情報を入力いただくか<br />他の支払方法を選択してご注文ください。"
+
+msgctxt "Languages::description::jp_sln_cc_company_name"
+msgid "カード会社"
+msgstr "カード会社"
+
+msgctxt "Languages::description::min_order_quantity_seat_type_invalidate"
+msgid "最小注文数＞０、販売単位＞１の場合、販売単位の倍数を入力してください"
+msgstr "最小注文数＞０、販売単位＞１の場合、販売単位の倍数を入力してください"
+
+msgctxt "Languages::description::maximum_order_quantity_seat_type_invalidate"
+msgid "最大注文数＞０、販売単位＞１の場合、最小注文数よりも大きい販売単位の倍数を入力してください"
+msgstr "最大注文数＞０、販売単位＞１の場合、最小注文数よりも大きい販売単位の倍数を入力してください"
+
+msgctxt "Languages::description::min_order_quantity_selling_invalidate"
+msgid "最小注文数＞０、販売単位＞１の場合、販売単位の倍数を入力してください"
+msgstr "最小注文数＞０、販売単位＞１の場合、販売単位の倍数を入力してください"
+
+msgctxt "Languages::description::maximum_order_quantity_selling_invalidate"
+msgid "最大注文数＞０、販売単位＞１の場合、最小注文数よりも大きい販売単位の倍数を入力してください"
+msgstr "最大注文数＞０、販売単位＞１の場合、最小注文数よりも大きい販売単位の倍数を入力してください"
+
+msgctxt "Languages::description::scanapp_never_come_gate"
+msgid "来場不可"
+msgstr "来場不可"
+
+msgctxt "Languages::description::bulk_update_seat_type_event_time"
+msgid "席種・公演時間一括更新"
+msgstr "席種・公演時間一括更新"
+
+msgctxt "Languages::description::language_ja"
+msgid "（日本語）"
+msgstr "（日本語）"
+
+msgctxt "Languages::description::cannot_edit_at_once_later"
+msgid "※一括での編集（言語の変更含む）は後からできません。"
+msgstr "※一括での編集（言語の変更含む）は後からできません。"
+
+msgctxt "Languages::description::text_order_placed_attention_cvs"
+msgid "【注意事項】<br />※お申込み完了のメールをお送りしました。支払方法等が記載されていますので、必ずご確認ください。メールが届かない場合は、お手数ですが<a href="https://mysterycircus.jp/contact" style="font-size: 16px;font-weight: bold;text-decoration: underline;">お問い合わせフォーム</a>からお問い合わせください。<br />※記載の入金期限までにお支払をお済ませください。期限を過ぎますと、入金ができず、お申込み頂いたチケットは無効となります。"
+msgstr "【注意事項】<br />※お申込み完了のメールをお送りしました。支払方法等が記載されていますので、必ずご確認ください。メールが届かない場合は、お手数ですが<a href="https://mysterycircus.jp/contact" style="font-size: 16px;font-weight: bold;text-decoration: underline;">お問い合わせフォーム</a>からお問い合わせください。<br />※記載の入金期限までにお支払をお済ませください。期限を過ぎますと、入金ができず、お申込み頂いたチケットは無効となります。"
+
+msgctxt "Languages::description::text_order_placed_attention"
+msgid "【注意事項】</br>※お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。</br>※メールに添付されている「QRコード」がチケットです。"
+msgstr "【注意事項】</br>※お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。</br>※メールに添付されている「QRコード」がチケットです。"
+
+msgctxt "Languages::description::checkout_attentions"
+msgid "【注意事項】</br>※お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。"
+msgstr "【注意事項】</br>※お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。"
+
+msgctxt "Languages::description::promoter_export_order_list_credit_cart"
+msgid "オーダーリスト(クレジット決済のみ)をエクスポート"
+msgstr "オーダーリスト(クレジット決済のみ)をエクスポート"
+
+msgctxt "Languages::description::please_select_start_and_end_date_does_not_included_date_that_has_events"
+msgid "公演期間は公演がない日にちを選択してください"
+msgstr "公演期間は公演がない日にちを選択してください"
+
+msgctxt "Languages::description::text_order_placed_backordered"
+msgid "支払手続き中に残席がなくなってしまいました。<br>\r\n2～3営業日の間に、チケットがご用意できるかを確認し、メールでご連絡します。<br>\r\nご用意できなかった場合には、全額返金いたします。<br>\r\n今しばらくお待ちください。<br>"
+msgstr "支払手続き中に残席がなくなってしまいました。<br>\r\n2～3営業日の間に、チケットがご用意できるかを確認し、メールでご連絡します。<br>\r\nご用意できなかった場合には、全額返金いたします。<br>\r\n今しばらくお待ちください。<br>"
+
+msgctxt "Languages::description::text_order_backordered"
+msgid "支払手続き中に残席がなくなってしまいました。\r\n2～3営業日の間に、チケットがご用意できるかを確認し、メールでご連絡します。"
+msgstr "支払手続き中に残席がなくなってしまいました。\r\n2～3営業日の間に、チケットがご用意できるかを確認し、メールでご連絡します。"
+
+msgctxt "Languages::description::landing_header_backordered"
+msgid "キャンセル待ち"
+msgstr "キャンセル待ち"
+
+msgctxt "Languages::description::text_order_placed_backordered_to_canceled"
+msgid "誠に申し訳ありませんが、お申込み手続き中にチケットが売切れとなったため、お客様のお申込みを取消し致しました。<br>\r\n恐れ入りますが、別の日時で再度お試しください。"
+msgstr "誠に申し訳ありませんが、お申込み手続き中にチケットが売切れとなったため、お客様のお申込みを取消し致しました。<br>\r\n恐れ入りますが、別の日時で再度お試しください。"
+
+msgctxt "Languages::description::coupon_bonus_invitation_ticket"
+msgid "招待券"
+msgstr "招待券"
+
+msgctxt "Languages::description::coupon_delivery_all_user"
+msgid "全ユーザーへ配信"
+msgstr "全ユーザーへ配信"
+
+msgctxt "Languages::description::add_events"
+msgid "商品を追加"
+msgstr "商品を追加"
+
+msgctxt "Languages::description::event_time"
+msgid "時間"
+msgstr "時間"
+
+msgctxt "Languages::description::add_all_events"
+msgid "すべての公演を追加"
+msgstr "すべての公演を追加"
+
+msgctxt "Languages::description::add_selected_events"
+msgid "選択された公演を追加"
+msgstr "選択された公演を追加"
+
+msgctxt "Languages::description::product_ids_invalid"
+msgid "保存する前に、少なくとも1つの興行と公演を選択してください"
+msgstr "保存する前に、少なくとも1つの興行と公演を選択してください"
+
+msgctxt "Languages::description::coupon_all"
+msgid "すべて"
+msgstr "すべて"
+
+msgctxt "Languages::description::coupon_user_type"
+msgid "連携アカウント"
+msgstr "連携アカウント"
+
+msgctxt "Languages::description::coupon_user_is_login"
+msgid "アプリログイン"
+msgstr "アプリログイン"
+
+msgctxt "Languages::description::coupon_user_login"
+msgid "ログインあり"
+msgstr "ログインあり"
+
+msgctxt "Languages::description::coupon_user_not_login"
+msgid "ログインなし"
+msgstr "ログインなし"
+
+msgctxt "Languages::description::coupon_user_login_time"
+msgid "利用開始"
+msgstr "利用開始"
+
+msgctxt "Languages::description::coupon_user_login_period"
+msgid "利用開始期間（はじめてログイン）"
+msgstr "利用開始期間（はじめてログイン）"
+
+msgctxt "Languages::description::coupon_user_login_from"
+msgid "開始日"
+msgstr "開始日"
+
+msgctxt "Languages::description::coupon_user_login_to"
+msgid "終了日"
+msgstr "終了日"
+
+msgctxt "Languages::description::coupon_user_purchased_times"
+msgid "購入回数"
+msgstr "購入回数"
+
+msgctxt "Languages::description::coupon_user_times_from"
+msgid "回数（回）"
+msgstr "回数（回）"
+
+msgctxt "Languages::description::coupon_user_times_to"
+msgid "回数（回）"
+msgstr "回数（回）"
+
+msgctxt "Languages::description::coupon_user_purchased_amount"
+msgid "購入金額（カート全体の合計金額）"
+msgstr "購入金額（カート全体の合計金額）"
+
+msgctxt "Languages::description::coupon_user_amount_from"
+msgid "金額（円）"
+msgstr "金額（円）"
+
+msgctxt "Languages::description::coupon_user_amount_to"
+msgid "金額（円）"
+msgstr "金額（円）"
+
+msgctxt "Languages::description::coupon_user_is_purchased"
+msgid "チケット購入"
+msgstr "チケット購入"
+
+msgctxt "Languages::description::coupon_user_purchased"
+msgid "購入あり"
+msgstr "購入あり"
+
+msgctxt "Languages::description::coupon_user_purchased_period"
+msgid "購入期間"
+msgstr "購入期間"
+
+msgctxt "Languages::description::coupon_user_purchased_payment_method"
+msgid "決済方法"
+msgstr "決済方法"
+
+msgctxt "Languages::description::coupon_user_not_purchased"
+msgid "購入なし"
+msgstr "購入なし"
+
+msgctxt "Languages::description::coupon_user_not_purchased_period"
+msgid "未購入期間"
+msgstr "未購入期間"
+
+msgctxt "Languages::description::coupon_user_count_orders"
+msgid "購入回数"
+msgstr "購入回数"
+
+msgctxt "Languages::description::coupon_user_type_eplus"
+msgid "イープラス"
+msgstr "イープラス"
+
+msgctxt "Languages::description::coupon_user_type_suku"
+msgid "-"
+msgstr "-"
+
+msgctxt "Languages::description::coupon_user_type_danin"
+msgid "-"
+msgstr "-"
+
+msgctxt "Languages::description::promotion_extract_user"
+msgid "会員管理"
+msgstr "会員管理"
+
+msgctxt "Languages::description::promotion_extract_user_menu_description"
+msgid "ユーザーリストをcsvで抽出します"
+msgstr "ユーザーリストをcsvで抽出します"
+
+msgctxt "Languages::description::batch_exporter"
+msgid "Exporter"
+msgstr "Exporter"
+
+msgctxt "Languages::description::batch_name"
+msgid "Export name"
+msgstr "Export name"
+
+msgctxt "Languages::description::batch_timestamp"
+msgid "Export timestamp"
+msgstr "Export timestamp"
+
+msgctxt "Languages::description::batch_status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Languages::description::batch_status_new"
+msgid "New"
+msgstr "New"
+
+msgctxt "Languages::description::batch_status_done"
+msgid "Done"
+msgstr "Done"
+
+msgctxt "Languages::description::batch_status_processing"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "Languages::description::batch_status_stop"
+msgid "Stop"
+msgstr "Stop"
+
+msgctxt "Languages::description::batch_link_to_download"
+msgid "Link to download"
+msgstr "Link to download"
+
+msgctxt "Languages::description::batch_handle_processing"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "Languages::description::show_selected_events"
+msgid "選択された公演を表示"
+msgstr "選択された公演を表示"
+
+msgctxt "Languages::description::show_all_events"
+msgid "すべての公演を表示"
+msgstr "すべての公演を表示"
+
+msgctxt "Languages::description::no_events_selected"
+msgid "公演が選択されていません"
+msgstr "公演が選択されていません"
+
+msgctxt "Languages::description::coupon_upload_csv"
+msgid "csvアップロード"
+msgstr "csvアップロード"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid"
+msgid "csvファイルアップロードに失敗しました"
+msgstr "csvファイルアップロードに失敗しました"
+
+msgctxt "Languages::description::coupon_list_user_uploaded_csv"
+msgid "配信対象リスト"
+msgstr "配信対象リスト"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid_format"
+msgid "csvファイルのフォーマットが異なっています"
+msgstr "csvファイルのフォーマットが異なっています"
+
+msgctxt "Languages::description::promo_code"
+msgid "クーポンコード"
+msgstr "クーポンコード"
+
+msgctxt "Languages::description::error_coupon_cant_open_file"
+msgid "アップロードされたcsvファイルを開けません"
+msgstr "アップロードされたcsvファイルを開けません"
+
+msgctxt "Languages::description::error_coupon_file_doesnt_exist"
+msgid "アップロードされたcsvファイルが見つかりません"
+msgstr "アップロードされたcsvファイルが見つかりません"
+
+msgctxt "Languages::description::url"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "Languages::description::coupon_invitation_ticket_duplicate"
+msgid "すでに割引が適用されているため、クーポンは追加できません"
+msgstr "すでに割引が適用されているため、クーポンは追加できません"
+
+msgctxt "Languages::description::from"
+msgid "開始日"
+msgstr "開始日"
+
+msgctxt "Languages::description::to"
+msgid "終了日"
+msgstr "終了日"
+
+msgctxt "Languages::description::no_valid_users_in_uploaded_csv_file"
+msgid "アップロードされたCSVファイルに有効なユーザーがいません"
+msgstr "アップロードされたCSVファイルに有効なユーザーがいません"
+
+msgctxt "Languages::description::coupon_export_csv"
+msgid "csvダウンロード"
+msgstr "csvダウンロード"
+
+msgctxt "Languages::description::coupon_user_credit_card"
+msgid "クレジットカード"
+msgstr "クレジットカード"
+
+msgctxt "Languages::description::coupon_user_credit_cvs"
+msgid "コンビニ決済"
+msgstr "コンビニ決済"
+
+msgctxt "Languages::description::coupon_used"
+msgid "クーポン利用あり"
+msgstr "クーポン利用あり"
+
+msgctxt "Languages::description::coupon_not_used"
+msgid "クーポン利用なし"
+msgstr "クーポン利用なし"
+
+msgctxt "Languages::description::coupon_user_not_purchased_label"
+msgid "未購入"
+msgstr "未購入"
+
+msgctxt "Languages::description::coupon_user_purchased_label"
+msgid "購入"
+msgstr "購入"
+
+msgctxt "Languages::description::coupon_user_id"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "Languages::description::coupon_enter_user_id"
+msgid "IDを入力"
+msgstr "IDを入力"
+
+msgctxt "Languages::description::coupon_enter_username"
+msgid "ユーザー名を入力"
+msgstr "ユーザー名を入力"
+
+msgctxt "Languages::description::coupon_enter_email"
+msgid "メールアドレスを入力"
+msgstr "メールアドレスを入力"
+
+msgctxt "Languages::description::coupon_yes"
+msgid "あり"
+msgstr "あり"
+
+msgctxt "Languages::description::coupon_no"
+msgid "なし"
+msgstr "なし"
+
+msgctxt "Languages::description::coupon_extract_users"
+msgid "クーポン抽出ユーザー"
+msgstr "クーポン抽出ユーザー"
+
+msgctxt "Languages::description::order_list_reports"
+msgid "オーダーリストレポート"
+msgstr "オーダーリストレポート"
+
+msgctxt "Languages::description::date_range"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "Languages::description::date_range_type"
+msgid "Date Range Type"
+msgstr "Date Range Type"
+
+msgctxt "Languages::description::report_range"
+msgid "Report Range Type"
+msgstr "Report Range Type"
+
+msgctxt "Languages::description::view_coupon_export_csv_status"
+msgid "ユーザーステータスの抽出を表示"
+msgstr "ユーザーステータスの抽出を表示"
+
+msgctxt "Languages::description::applied_invitation_description"
+msgid "[product_name]の[event_date] [seat_name]に招待券が適用されました"
+msgstr "[product_name]の[event_date] [seat_name]に招待券が適用されました"
+
+msgctxt "Languages::description::coupon_discount_invalid"
+msgid "無効な割引です"
+msgstr "無効な割引です"
+
+msgctxt "Languages::description::coupon_delivery_from_is_empty"
+msgid "配信開始日が空です"
+msgstr "配信開始日が空です"
+
+msgctxt "Languages::description::coupon_delivery_to_is_empty"
+msgid "配信終了日が空です"
+msgstr "配信終了日が空です"
+
+msgctxt "Languages::description::coupon_from_date_is_empty"
+msgid "利用開始日が空です"
+msgstr "利用開始日が空です"
+
+msgctxt "Languages::description::coupon_to_date_is_empty"
+msgid "利用終了日が空です"
+msgstr "利用終了日が空です"
+
+msgctxt "Languages::description::coupon_scan_qr_code"
+msgid "QRスキャンでクーポン配信"
+msgstr "QRスキャンでクーポン配信"
+
+msgctxt "Languages::description::coupon_show_qr_code"
+msgid "QRを表示"
+msgstr "QRを表示"
+
+msgctxt "Languages::description::cannot_get_coupon_by_token"
+msgid "このコードはご利用いただけません"
+msgstr "このコードはご利用いただけません"
+
+msgctxt "Languages::description::coupon_is_not_found"
+msgid "このコードはご利用いただけません"
+msgstr "このコードはご利用いただけません"
+
+msgctxt "Languages::description::coupon_code_is_empty"
+msgid "このコードはご利用いただけません"
+msgstr "このコードはご利用いただけません"
+
+msgctxt "Languages::description::coupon_order_id_is_empty"
+msgid "coupon_order_id_is_empty"
+msgstr "coupon_order_id_is_empty"
+
+msgctxt "Languages::description::coupon_is_expired"
+msgid "このクーポンはご利用可能期間外のためご利用いただけません"
+msgstr "このクーポンはご利用可能期間外のためご利用いただけません"
+
+msgctxt "Languages::description::coupon_was_applied"
+msgid "このクーポンは使用済みのためご利用いただけません"
+msgstr "このクーポンは使用済みのためご利用いただけません"
+
+msgctxt "Languages::description::open_get_coupon_page"
+msgid "クーポンGetページを開く"
+msgstr "クーポンGetページを開く"
+
+msgctxt "Languages::description::coupon_delivery_url"
+msgid "URLアクセスでクーポン配信"
+msgstr "URLアクセスでクーポン配信"
+
+msgctxt "Languages::description::coupon_url_header"
+msgid "東京ミステリーサーカスで使える<br>クーポンを取得！"
+msgstr "東京ミステリーサーカスで使える<br>クーポンを取得！"
+
+msgctxt "Languages::description::coupon_url_description_1"
+msgid "TMCアプリをお持ちでない方 <br> はまずはアプリをダウンロード"
+msgstr "TMCアプリをお持ちでない方 <br> はまずはアプリをダウンロード"
+
+msgctxt "Languages::description::coupon_url_description_2"
+msgid "TMCアプリをお持ちの方"
+msgstr "TMCアプリをお持ちの方"
+
+msgctxt "Languages::description::coupon_url_description_3"
+msgid "アプリを開いて <br/> クーポンを取得"
+msgstr "アプリを開いて <br/> クーポンを取得"
+
+msgctxt "Languages::description::coupon_url_description_4"
+msgid "TMCアプリでQRを <br> スキャンしてクーポンを取得"
+msgstr "TMCアプリでQRを <br> スキャンしてクーポンを取得"
+
+msgctxt "Languages::description::coupon_url_description_5"
+msgid "アプリのMENU > クーポンからQR <br> 撮影画面にアクセスできます"
+msgstr "アプリのMENU > クーポンからQR <br> 撮影画面にアクセスできます"
+
+msgctxt "Languages::description::user_scan_url_got_coupon"
+msgid "このクーポンは取得済みです"
+msgstr "このクーポンは取得済みです"
+
+msgctxt "Languages::description::order_only_has_one_coupon"
+msgid "１つしかクーポンを使用していないオーダーです"
+msgstr "１つしかクーポンを使用していないオーダーです"
+
+msgctxt "Languages::description::coupon_avail_to_gte_delivery_to"
+msgid "利用終了日は配信終了日と同じもしくは配信終了日以降の日付を入力してください"
+msgstr "利用終了日は配信終了日と同じもしくは配信終了日以降の日付を入力してください"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_1"
+msgid "1以上の値を入れてください"
+msgstr "1以上の値を入れてください"
+
+msgctxt "Languages::description::coupon_avail_until_is_empty"
+msgid "coupon_avail_until_is_empty"
+msgstr "coupon_avail_until_is_empty"
+
+msgctxt "Languages::description::coupon_avail_until"
+msgid "取得後"
+msgstr "取得後"
+
+msgctxt "Languages::description::coupon_avail_until_desc"
+msgid "時間"
+msgstr "時間"
+
+msgctxt "Languages::description::event_detail_url"
+msgid "イベント詳細"
+msgstr "イベント詳細"
+
+msgctxt "Languages::description::custom_price_text"
+msgid "スケジューラー表示料金（テキスト）"
+msgstr "スケジューラー表示料金（テキスト）"
+
+msgctxt "Languages::description::custom_event_detail_url"
+msgid "イベント詳細"
+msgstr "イベント詳細"
+
+msgctxt "Languages::description::field_custom_event_detail_url"
+msgid "field_custom_event_detail_url"
+msgstr "field_custom_event_detail_url"
+
+msgctxt "Languages::description::cannot_get_coupon_by_qr_code"
+msgid "こちらのQRコードでは\nクーポンを取得できません"
+msgstr "こちらのQRコードでは\nクーポンを取得できません"
+
+msgctxt "Languages::description::coupon_bonus_cash_back_events"
+msgid "キャッシュバック（興行/公演指定）"
+msgstr "キャッシュバック（興行/公演指定）"
+
+msgctxt "Languages::description::filter_condition_and_export_order_list"
+msgid "オーダーリストを条件指定でエクスポート"
+msgstr "オーダーリストを条件指定でエクスポート"
+
+msgctxt "Languages::description::order_report_filter"
+msgid "抽出条件"
+msgstr "抽出条件"
+
+msgctxt "Languages::description::order_created_date"
+msgid "申込日"
+msgstr "申込日"
+
+msgctxt "Languages::description::settlement_date"
+msgid "決済日"
+msgstr "決済日"
+
+msgctxt "Languages::description::used_coupon_only"
+msgid "クーポン使用のみ"
+msgstr "クーポン使用のみ"
+
+msgctxt "Languages::description::export_order_list_with_conditions"
+msgid "オーダーリストをエクスポート"
+msgstr "オーダーリストをエクスポート"
+
+msgctxt "Languages::description::coupon_delivery_period_is_ended"
+msgid "このクーポンはすでに配布期間が\n終了しています"
+msgstr "このクーポンはすでに配布期間が\n終了しています"
+
+msgctxt "Languages::description::coupon_delivery_period_is_not_started"
+msgid "このクーポンはまだ配布を\n開始しておりません"
+msgstr "このクーポンはまだ配布を\n開始しておりません"
+
+msgctxt "Languages::description::coupon_available_period_is_ended"
+msgid "このクーポンはすでに利用可能期間を\n終了しています"
+msgstr "このクーポンはすでに利用可能期間を\n終了しています"
+
+msgctxt "Languages::description::order_created_date_from_must_be_before_or_same_order_created_date_to"
+msgid "申込日（From）は申込日（To）と同じもしくは申込日（To）よりも前の日付を入力してください"
+msgstr "申込日（From）は申込日（To）と同じもしくは申込日（To）よりも前の日付を入力してください"
+
+msgctxt "Languages::description::settlement_date_from_must_be_before_or_same_settlement_date_to"
+msgid "決済日（From）は決済日（To）と同じもしくは決済日（To）よりも前の日付を入力してください"
+msgstr "決済日（From）は決済日（To）と同じもしくは決済日（To）よりも前の日付を入力してください"
+
+msgctxt "Languages::description::event_date_from_must_be_before_or_same_event_date_to"
+msgid "公演日（From）は公演日（To）と同じもしくは公演日（To）よりも前の日付を入力してください"
+msgstr "公演日（From）は公演日（To）と同じもしくは公演日（To）よりも前の日付を入力してください"
+
+msgctxt "Languages::description::user_access_url_got_coupon"
+msgid "すでにこのクーポンは取得済みです"
+msgstr "すでにこのクーポンは取得済みです"
+
+msgctxt "Languages::description::choose_at_least_one_payment_method_to_export"
+msgid "choose_at_least_one_payment_method_to_export"
+msgstr "choose_at_least_one_payment_method_to_export"
+
+msgctxt "Languages::description::pay_using_cash"
+msgid "現金決済"
+msgstr "現金決済"
+
+msgctxt "Languages::description::pay_using_cvs"
+msgid "コンビニ決済"
+msgstr "コンビニ決済"
+
+msgctxt "Languages::description::order_report_filter_desc"
+msgid "オーダーリストの条件指定"
+msgstr "オーダーリストの条件指定"
+
+msgctxt "Languages::description::download_order_list_reports"
+msgid "オーダーリストのダウンロードリスト"
+msgstr "オーダーリストのダウンロードリスト"
+
+msgctxt "Languages::description::coupon_specify_hours"
+msgid "時間指定"
+msgstr "時間指定"
+
+msgctxt "Languages::description::product_export_order_list"
+msgid "ダウンロードリストを表示"
+msgstr "ダウンロードリストを表示"
+
+msgctxt "Languages::description::applied_cash_back_events_description"
+msgid "[product_name]の[event_date] [seat_name]に割引クーポンが適用されました"
+msgstr "[product_name]の[event_date] [seat_name]に割引クーポンが適用されました"
+
+msgctxt "Languages::description::return_unused_coupon"
+msgid "[coupon_name] [coupon_code]は今回のオーダーではご利用いただけないため未使用のままになります"
+msgstr "[coupon_name] [coupon_code]は今回のオーダーではご利用いただけないため未使用のままになります"
+
+msgctxt "Languages::description::cannot_create_combination_hash_register_events"
+msgid "There are errors on registering event."
+msgstr "There are errors on registering event."
+
+msgctxt "Languages::description::keep_shopping"
+msgid "買い物を続ける"
+msgstr "買い物を続ける"
+
+msgctxt "Languages::description::no_events_in_day"
+msgid "本日の公演はすべて終了しました"
+msgstr "本日の公演はすべて終了しました"
+
+msgctxt "Languages::description::danin_pre_sales"
+msgid "団員先行中"
+msgstr "団員先行中"
+
+msgctxt "Languages::description::search_by_keyword"
+msgid "キーワードで探す"
+msgstr "キーワードで探す"
+
+msgctxt "Languages::description::search_by_period"
+msgid "期間で探す"
+msgstr "期間で探す"
+
+msgctxt "Languages::description::this_week"
+msgid "今週"
+msgstr "今週"
+
+msgctxt "Languages::description::next_week"
+msgid "来週"
+msgstr "来週"
+
+msgctxt "Languages::description::this_month"
+msgid "今月"
+msgstr "今月"
+
+msgctxt "Languages::description::date_search"
+msgid "検索"
+msgstr "検索"
+
+msgctxt "Languages::description::ty_product_empty"
+msgid "イベントが見つかりません。"
+msgstr "イベントが見つかりません。"
+
+msgctxt "Languages::description::ty_product_empty_sub"
+msgid "条件を変えて検索してください"
+msgstr "条件を変えて検索してください"
+
+msgctxt "Languages::description::additional_settings"
+msgid "追加設定"
+msgstr "追加設定"
+
+msgctxt "Languages::description::event_period_from"
+msgid "開催期間（From）"
+msgstr "開催期間（From）"
+
+msgctxt "Languages::description::event_period_to"
+msgid "開催期間（To）"
+msgstr "開催期間（To）"
+
+msgctxt "Languages::description::additional_event_period"
+msgid "開催期間"
+msgstr "開催期間"
+
+msgctxt "Languages::description::additional_event_guide"
+msgid "イベントガイド"
+msgstr "イベントガイド"
+
+msgctxt "Languages::description::event_guide_limited_time"
+msgid "制限時間"
+msgstr "制限時間"
+
+msgctxt "Languages::description::event_guide_number_members"
+msgid "チーム人数"
+msgstr "チーム人数"
+
+msgctxt "Languages::description::event_guide_duration"
+msgid "所要時間"
+msgstr "所要時間"
+
+msgctxt "Languages::description::event_guide_place_type"
+msgid "場所"
+msgstr "場所"
+
+msgctxt "Languages::description::event_guide_venue_type"
+msgid "サイズ"
+msgstr "サイズ"
+
+msgctxt "Languages::description::event_guide_started_type"
+msgid "スタート形式"
+msgstr "スタート形式"
+
+msgctxt "Languages::description::additional_sticker"
+msgid "ステッカー"
+msgstr "ステッカー"
+
+msgctxt "Languages::description::show_tmc_sticker"
+msgid "TMC限定"
+msgstr "TMC限定"
+
+msgctxt "Languages::description::show_play_english_sticker"
+msgid "英語対応"
+msgstr "英語対応"
+
+msgctxt "Languages::description::addtional_price_desc"
+msgid "基本設定タブの「スケジューラー表示料金（テキスト）」が表示されます"
+msgstr "基本設定タブの「スケジューラー表示料金（テキスト）」が表示されます"
+
+msgctxt "Languages::description::indoor"
+msgid "屋内"
+msgstr "屋内"
+
+msgctxt "Languages::description::outdoor"
+msgid "屋外"
+msgstr "屋外"
+
+msgctxt "Languages::description::all_at_once"
+msgid "一斉スタート"
+msgstr "一斉スタート"
+
+msgctxt "Languages::description::at_any_time"
+msgid "随時スタート"
+msgstr "随時スタート"
+
+msgctxt "Languages::description::field_event_period_from"
+msgid "開催期間（From）"
+msgstr "開催期間（From）"
+
+msgctxt "Languages::description::field_event_period_to"
+msgid "開催期間（To）"
+msgstr "開催期間（To）"
+
+msgctxt "Languages::description::do_not_show"
+msgid "表示しない"
+msgstr "表示しない"
+
+msgctxt "Languages::description::promotion_view_export_batch_list"
+msgid "ダウンロードリストを表示"
+msgstr "ダウンロードリストを表示"
+
+msgctxt "Languages::description::promotion_filter_condition_and_export"
+msgid "クーポンリストを条件指定でエクスポート"
+msgstr "クーポンリストを条件指定でエクスポート"
+
+msgctxt "Languages::description::coupon_used_date"
+msgid "利用日"
+msgstr "利用日"
+
+msgctxt "Languages::description::promotion_export_batch_list"
+msgid "ダウンロードリスト"
+msgstr "ダウンロードリスト"
+
+msgctxt "Languages::description::coupon_report_filter_title"
+msgid "抽出条件"
+msgstr "抽出条件"
+
+msgctxt "Languages::description::promotion_template_id"
+msgid "クーポンID"
+msgstr "クーポンID"
+
+msgctxt "Languages::description::promotion_id"
+msgid "プロモーションID"
+msgstr "プロモーションID"
+
+msgctxt "Languages::description::coupon_used_date_from_must_be_before_or_same_order_created_date_to"
+msgid "クーポンの使用日（から）はクーポンの使用日（まで）より同じか、または前でなければなりません。"
+msgstr "クーポンの使用日（から）はクーポンの使用日（まで）より同じか、または前でなければなりません。"
+
+msgctxt "Languages::description::coupon_list_reports"
+msgid "クーポンリストレポート"
+msgstr "クーポンリストレポート"
+
+msgctxt "Languages::description::this_field_just_include_commas_and_numbers"
+msgid "このフィールドにはカンマ及び数字しか入れられません。"
+msgstr "このフィールドにはカンマ及び数字しか入れられません。"
+
+msgctxt "Languages::description::checkout_change_email"
+msgid "QRコードチケットの送付先は[email]です。※Emailが違う場合は[terms_href]から変更をしてください"
+msgstr "QRコードチケットの送付先は[email]です。※Emailが違う場合は[terms_href]から変更をしてください"
+
+msgctxt "Languages::description::checkout_change_email_alert"
+msgid "チェックボックスにチェックを入れてから「注文を確定する」を押してください"
+msgstr "チェックボックスにチェックを入れてから「注文を確定する」を押してください"
+
+msgctxt "Languages::description::here"
+msgid "こちら"
+msgstr "こちら"
+
+msgctxt "Languages::description::cvs_info_text"
+msgid "下記URLからコンビニ支払用の番号を確認してお支払ください"
+msgstr "下記URLからコンビニ支払用の番号を確認してお支払ください"
+
+msgctxt "Languages::description::cvs_expire"
+msgid "支払期限：[expire]"
+msgstr "支払期限：[expire]"
+
+msgctxt "Languages::description::cvs_url"
+msgid "<a href=[cvs_url] class='cl-blue link'>[cvs_url]</a>"
+msgstr "<a href=[cvs_url] class='cl-blue link'>[cvs_url]</a>"
+
+msgctxt "Languages::description::delivery_email"
+msgid "QRチケットの送付先です"
+msgstr "QRチケットの送付先です"
+
+msgctxt "Languages::description::available_ticket"
+msgid "残り: [tickets]人"
+msgstr "残り: [tickets]人"
+
+msgctxt "Languages::description::receipt_issue"
+msgid "領収書発行"
+msgstr "領収書発行"
+
+msgctxt "Languages::description::receipt"
+msgid "領収書<br>Receipt"
+msgstr "領収書<br>Receipt"
+
+msgctxt "Languages::description::confirm_info_receipt"
+msgid "下記を確かに領収しました。<br>This is to certify that we have received the following."
+msgstr "下記を確かに領収しました。<br>This is to certify that we have received the following."
+
+msgctxt "Languages::description::receipt_from"
+msgid "宛名 (Received from) <strong>[receipt_from]</strong>"
+msgstr "宛名 (Received from) <strong>[receipt_from]</strong>"
+
+msgctxt "Languages::description::receipt_of_recipient"
+msgid "様"
+msgstr "様"
+
+msgctxt "Languages::description::amount_price"
+msgid "金額 (The sum of) <strong>[total]円</strong> (JPY / tax-included)"
+msgstr "金額 (The sum of) <strong>[total]円</strong> (JPY / tax-included)"
+
+msgctxt "Languages::description::payment_date"
+msgid "お支払い日 (Payment date) <strong>[date]</strong>"
+msgstr "お支払い日 (Payment date) <strong>[date]</strong>"
+
+msgctxt "Languages::description::receipt_payment_method"
+msgid "お支払い方法 (Payment method) <strong>[payment]</strong>"
+msgstr "お支払い方法 (Payment method) <strong>[payment]</strong>"
+
+msgctxt "Languages::description::receipt_order_id"
+msgid "内容 (In payment of) <strong>チケット代 (TICKET)</strong> Order #[order_id]"
+msgstr "内容 (In payment of) <strong>チケット代 (TICKET)</strong> Order #[order_id]"
+
+msgctxt "Languages::description::receipt_time_now"
+msgid "電子領収書表示日 (Date of display) <strong>[time_now]</strong>"
+msgstr "電子領収書表示日 (Date of display) <strong>[time_now]</strong>"
+
+msgctxt "Languages::description::receipt_note"
+msgid "本領収書は電子表示したものです。<br>This is an electronic display of receipt data."
+msgstr "本領収書は電子表示したものです。<br>This is an electronic display of receipt data."
+
+msgctxt "Languages::description::receipt_company"
+msgid "「バンクシー展 天才か反逆者か BANKSY -GENIUS OR VANDAL?」Ticket Service by eplus, Inc.（株式会社イープラス）"
+msgstr "「バンクシー展 天才か反逆者か BANKSY -GENIUS OR VANDAL?」Ticket Service by eplus, Inc.（株式会社イープラス）"
+
+msgctxt "Languages::description::receipt_download"
+msgid "発行する"
+msgstr "発行する"
+
+msgctxt "Languages::description::receipt_error_entry_name"
+msgid "宛名 (Received from) は入力必須項目です。"
+msgstr "宛名 (Received from) は入力必須項目です。"
+
+msgctxt "Languages::description::export_coupon_list_instruction"
+msgid "<p>出力レコード単位: プロモーションID</p><p>配信数: PUSH通知の配信数（該当クーポンIDの合計数）</p><p>受信数: <br/>(1)アプリダウンロード: ログインユーザーの数<br/>(2)アプリシェア: 「SNSや友達にシェア」の数<br/>(3)招待コード: ログインユーザーの数<br/>(4)友達招待: 友達が招待コードが入力した数<br/>(5)全ユーザーへ配信: ログインユーザーの数<br/>(6)CSVアップロード: ログインユーザーの数<br/>(7)QRスキャンで配信: QRスキャンの数<br/>(8)URLアクセスで: URLスキームが踏まれた数<br/></p><p>利用数: クーポンコード入力、端末でQRスキャンされた数</p>"
+msgstr "<p>出力レコード単位: プロモーションID</p><p>配信数: PUSH通知の配信数（該当クーポンIDの合計数）</p><p>受信数: <br/>(1)アプリダウンロード: ログインユーザーの数<br/>(2)アプリシェア: 「SNSや友達にシェア」の数<br/>(3)招待コード: ログインユーザーの数<br/>(4)友達招待: 友達が招待コードが入力した数<br/>(5)全ユーザーへ配信: ログインユーザーの数<br/>(6)CSVアップロード: ログインユーザーの数<br/>(7)QRスキャンで配信: QRスキャンの数<br/>(8)URLアクセスで: URLスキームが踏まれた数<br/></p><p>利用数: クーポンコード入力、端末でQRスキャンされた数</p>"
+
+msgctxt "Languages::description::cart_note"
+msgid "※OCEAN BY NAKEDのクーポンのみご利用いただけます (スクチケのクーポンは利用できません） 。"
+msgstr "※OCEAN BY NAKEDのクーポンのみご利用いただけます (スクチケのクーポンは利用できません） 。"
+
+msgctxt "Languages::description::no_such_coupon"
+msgid "ご指定のクーポンはご利用いただけません。"
+msgstr "ご指定のクーポンはご利用いただけません。"
+
+msgctxt "Languages::description::continue_shopping_btn"
+msgid "他の日付を追加する"
+msgstr "他の日付を追加する"
+
+msgctxt "Languages::description::remove_from_cart"
+msgid "このオーダーを削除する"
+msgstr "このオーダーを削除する"
+
+msgctxt "Languages::description::cancel_my_order"
+msgid "カートを空にする"
+msgstr "カートを空にする"
+
+msgctxt "Languages::description::order_buy_now"
+msgid "注文に進む"
+msgstr "注文に進む"
+
+msgctxt "Languages::description::view_my_e_ticket"
+msgid "チケットを表示する"
+msgstr "チケットを表示する"
+
+msgctxt "Languages::description::btn_ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "Languages::description::note_save_qr_code"
+msgid "この画面を見せてください<br>（このQRコードが印刷されたものでも可能です）"
+msgstr "この画面を見せてください<br>（このQRコードが印刷されたものでも可能です）"
+
+msgctxt "Languages::description::add_to_cart"
+msgid "カートに入れる"
+msgstr "カートに入れる"
+
+msgctxt "Languages::description::proceed_to_checkout"
+msgid "注文に進む"
+msgstr "注文に進む"
+
+msgctxt "Languages::description::order_id_lbl"
+msgid "注文"
+msgstr "注文"
+
+msgctxt "Languages::description::print_order_btn"
+msgid "注文確認書"
+msgstr "注文確認書"
+
+msgctxt "Languages::description::account_order_history"
+msgid "注文履歴 (QRチケット表示）"
+msgstr "注文履歴 (QRチケット表示）"
+
+msgctxt "Languages::description::clear_cart_notify"
+msgid "カートを空にしますか？"
+msgstr "カートを空にしますか？"
+
+msgctxt "Languages::description::proceed_to_checkout_notify"
+msgid "ご注文内容にお間違いがなければOKを押してください。"
+msgstr "ご注文内容にお間違いがなければOKを押してください。"
+
+msgctxt "Languages::description::receipt_require"
+msgid "<b>宛名 (Received from) </b> は入力必須項目です。"
+msgstr "<b>宛名 (Received from) </b> は入力必須項目です。"
+
+msgctxt "Languages::description::button_login_text"
+msgid "IDでログイン"
+msgstr "IDでログイン"
+
+msgctxt "Languages::description::confirm_content_my_purchase"
+msgid "申込内容と金額を確認しました。支払後は、変更、キャンセルが出来ないことを了承します。"
+msgstr "申込内容と金額を確認しました。支払後は、変更、キャンセルが出来ないことを了承します。"
+
+msgctxt "Languages::description::checkout_terms_content_my_purchase_alert"
+msgid "チェックボックスにチェックを入れてから「注文を確定する」を押してください"
+msgstr "チェックボックスにチェックを入れてから「注文を確定する」を押してください"
+
+msgctxt "Languages::description::checkout_terms_n_conditions"
+msgid "[terms_href] に同意します。"
+msgstr "[terms_href] に同意します。"
+
+msgctxt "Languages::description::billing_address_custom"
+msgid "PLEASE NOTE <br>Please fill in the same name as your passport/ID card."
+msgstr "PLEASE NOTE <br>Please fill in the same name as your passport/ID card."
+
+msgctxt "Languages::description::final_confirmation"
+msgid "最終確認"
+msgstr "最終確認"
+
+msgctxt "Languages::description::final_confirmation_content"
+msgid "チェックボックスを全てチェックした後に「注文を確定する」を押してください"
+msgstr "チェックボックスを全てチェックした後に「注文を確定する」を押してください"
+
+msgctxt "Languages::description::total_quantity"
+msgid "合計枚数： [total_quantity] 枚"
+msgstr "合計枚数： [total_quantity] 枚"
+
+msgctxt "Languages::description::total_price"
+msgid "合計金額: [total_price] JPY"
+msgstr "合計金額: [total_price] JPY"
+
+msgctxt "Languages::description::text_order_placed_attention_note_2"
+msgid "お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。"
+msgstr "お申込み完了後の変更及びキャンセルはできませんので、あらかじめご了承ください。"
+
+msgctxt "Languages::description::text_order_placed_attention_note_3"
+msgid "メールに添付されている「QRコード」がチケットです。"
+msgstr "メールに添付されている「QRコード」がチケットです。"
+
+msgctxt "Languages::description::payment_by"
+msgid "支払方法"
+msgstr "支払方法"
+
+msgctxt "Languages::description::see_my_order"
+msgid "オーダー内容を確認する"
+msgstr "オーダー内容を確認する"
+
+msgctxt "Languages::description::register_eplus"
+msgid "新規会員登録"
+msgstr "新規会員登録"
+
+msgctxt "Languages::description::date_format_1"
+msgid "%Y/%m/%/%d (%a)"
+msgstr "%Y/%m/%/%d (%a)"
+
+msgctxt "Languages::description::weekday_abr_0"
+msgid "日"
+msgstr "日"
+
+msgctxt "Languages::description::weekday_abr_1"
+msgid "月"
+msgstr "月"
+
+msgctxt "Languages::description::weekday_abr_2"
+msgid "火"
+msgstr "火"
+
+msgctxt "Languages::description::weekday_abr_3"
+msgid "水"
+msgstr "水"
+
+msgctxt "Languages::description::weekday_abr_4"
+msgid "木"
+msgstr "木"
+
+msgctxt "Languages::description::weekday_abr_5"
+msgid "金"
+msgstr "金"
+
+msgctxt "Languages::description::weekday_abr_6"
+msgid "土"
+msgstr "土"
+
+msgctxt "Languages::description::weekday_0"
+msgid "日曜日"
+msgstr "日曜日"
+
+msgctxt "Languages::description::weekday_1"
+msgid "月曜日"
+msgstr "月曜日"
+
+msgctxt "Languages::description::weekday_2"
+msgid "火曜日"
+msgstr "火曜日"
+
+msgctxt "Languages::description::weekday_3"
+msgid "水曜日"
+msgstr "水曜日"
+
+msgctxt "Languages::description::weekday_4"
+msgid "木曜日"
+msgstr "木曜日"
+
+msgctxt "Languages::description::weekday_5"
+msgid "金曜日"
+msgstr "金曜日"
+
+msgctxt "Languages::description::weekday_6"
+msgid "土曜日"
+msgstr "土曜日"
+
+msgctxt "Languages::description::month_name_abr_1"
+msgid "1月"
+msgstr "1月"
+
+msgctxt "Languages::description::month_name_abr_2"
+msgid "2月"
+msgstr "2月"
+
+msgctxt "Languages::description::month_name_abr_3"
+msgid "3月"
+msgstr "3月"
+
+msgctxt "Languages::description::month_name_abr_4"
+msgid "4月"
+msgstr "4月"
+
+msgctxt "Languages::description::month_name_abr_5"
+msgid "5月"
+msgstr "5月"
+
+msgctxt "Languages::description::month_name_abr_6"
+msgid "6月"
+msgstr "6月"
+
+msgctxt "Languages::description::month_name_abr_7"
+msgid "7月"
+msgstr "7月"
+
+msgctxt "Languages::description::month_name_abr_8"
+msgid "8月"
+msgstr "8月"
+
+msgctxt "Languages::description::month_name_abr_9"
+msgid "9月"
+msgstr "9月"
+
+msgctxt "Languages::description::month_name_abr_10"
+msgid "10月"
+msgstr "10月"
+
+msgctxt "Languages::description::month_name_abr_11"
+msgid "11月"
+msgstr "11月"
+
+msgctxt "Languages::description::month_name_abr_12"
+msgid "12月"
+msgstr "12月"
+
+msgctxt "Languages::description::month_name_1"
+msgid "1月"
+msgstr "1月"
+
+msgctxt "Languages::description::month_name_2"
+msgid "2月"
+msgstr "2月"
+
+msgctxt "Languages::description::month_name_3"
+msgid "3月"
+msgstr "3月"
+
+msgctxt "Languages::description::month_name_4"
+msgid "4月"
+msgstr "4月"
+
+msgctxt "Languages::description::month_name_5"
+msgid "5月"
+msgstr "5月"
+
+msgctxt "Languages::description::month_name_6"
+msgid "6月"
+msgstr "6月"
+
+msgctxt "Languages::description::month_name_7"
+msgid "7月"
+msgstr "7月"
+
+msgctxt "Languages::description::month_name_8"
+msgid "8月"
+msgstr "8月"
+
+msgctxt "Languages::description::month_name_9"
+msgid "9月"
+msgstr "9月"
+
+msgctxt "Languages::description::month_name_10"
+msgid "10月"
+msgstr "10月"
+
+msgctxt "Languages::description::month_name_11"
+msgid "11月"
+msgstr "11月"
+
+msgctxt "Languages::description::month_name_12"
+msgid "12月"
+msgstr "12月"
+
+msgctxt "Languages::description::mini_cart_total_price"
+msgid "合計金額"
+msgstr "合計金額"
+
+msgctxt "Languages::description::total_quantity_order_label"
+msgid "合計枚数"
+msgstr "合計枚数"
+
+msgctxt "Languages::description::total_quantity_order_value"
+msgid "[value] 枚"
+msgstr "[value] 枚"
+
+msgctxt "Languages::description::place_of_residence"
+msgid "電話番号"
+msgstr "電話番号"
+
+msgctxt "Languages::description::cart_attention_1"
+msgid "注意事項"
+msgstr "注意事項"
+
+msgctxt "Languages::description::cart_attention_2"
+msgid "チケットは支払完了後に確保されます"
+msgstr "チケットは支払完了後に確保されます"
+
+msgctxt "Languages::description::other"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "Languages::description::decline_to_state"
+msgid "Decline to state"
+msgstr "Decline to state"
+
+msgctxt "Languages::description::cart_contents"
+msgid "オーダー内容"
+msgstr "オーダー内容"
+
+msgctxt "Languages::description::weekday_format"
+msgid "(%a)"
+msgstr "(%a)"
+
+msgctxt "Languages::description::select_date_option"
+msgid "日付"
+msgstr "日付"
+
+msgctxt "Languages::description::billing_shipping_address"
+msgid "お客様情報"
+msgstr "お客様情報"
+
+msgctxt "Languages::description::currency_jpy_symbol"
+msgid "円"
+msgstr "円"
+
+msgctxt "Languages::description::total_products_order"
+msgid "お支払金額"
+msgstr "お支払金額"
+
+msgctxt "Languages::description::product_items"
+msgid "個"
+msgstr "個"
+
+msgctxt "Languages::description::more"
+msgid "もっと見る"
+msgstr "もっと見る"
+
+msgctxt "Languages::description::pos_order_is_canceled"
+msgid "POS Order is canceled"
+msgstr "POS Order is canceled"
+
+msgctxt "Languages::description::pos_order_not_found"
+msgid "POS Order Not Found"
+msgstr "POS Order Not Found"
+
+msgctxt "Languages::description::pos_can_not_cancel_order"
+msgid "POS Cannot cancel order"
+msgstr "POS Cannot cancel order"
+
+msgctxt "Languages::description::mail_logs_to"
+msgid "送信先"
+msgstr "送信先"
+
+msgctxt "Languages::description::advanced_product_price_is_lower_discount"
+msgid "[product] 割引額[discount]はチケット値段未満で登録してください[price]。"
+msgstr "[product] 割引額[discount]はチケット値段未満で登録してください[price]。"
+
+msgctxt "Languages::description::product_credit"
+msgid "クレジット"
+msgstr "クレジット"
+
+msgctxt "Languages::description::invalid_field"
+msgid "選択された[field]は無効です"
+msgstr "選択された[field]は無効です"
+
+msgctxt "Languages::description::product_credit_greater_max_len"
+msgid "Creditは512バイト以上です。"
+msgstr "Creditは512バイト以上です。"
+
+msgctxt "Languages::description::tickets_qr_code"
+msgid "枚"
+msgstr "枚"
+
+msgctxt "Languages::description::preview_qr_code"
+msgid "Preview QR Ticket"
+msgstr "Preview QR Ticket"
+
+msgctxt "Languages::description::owner_cc_card_notice"
+msgid "クレジットカードのご利用明細の利用店舗には「イープラスショップ」と記載されます"
+msgstr "クレジットカードのご利用明細の利用店舗には「イープラスショップ」と記載されます"
+
+msgctxt "Languages::description::gender_other"
+msgid "未回答"
+msgstr "未回答"
+
+msgctxt "Languages::description::selling_all"
+msgid "ALL"
+msgstr "ALL"
+
+msgctxt "Languages::description::selling_pos"
+msgid "POS"
+msgstr "POS"
+
+msgctxt "Languages::description::selling_web"
+msgid "WEB"
+msgstr "WEB"
+
+msgctxt "Languages::description::note_id_login"
+msgid "*※ご登録の携帯電話番号/メールアドレスをログインIDとして使用できます*"
+msgstr "*※ご登録の携帯電話番号/メールアドレスをログインIDとして使用できます*"
+
+msgctxt "Languages::description::id"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "Languages::description::required_field"
+msgid "[field]は必須項目です"
+msgstr "[field]は必須項目です"
+
+msgctxt "Languages::description::invalid_field"
+msgid "選択された[field]は無効です"
+msgstr "選択された[field]は無効です"
+
+msgctxt "Languages::description::min_0_field"
+msgid "[field]は0以上の値を入れてください"
+msgstr "[field]は0以上の値を入れてください"
+
+msgctxt "Languages::description::date_from_before_or_equal_date_to"
+msgid "[field_from]は[field_to]と同じもしくは[field_to]より前の日付を入れてください"
+msgstr "[field_from]は[field_to]と同じもしくは[field_to]より前の日付を入れてください"
+
+msgctxt "Languages::description::image_upload_exceed_error"
+msgid "アップロードされた画像はアップロード出来る画像サイズの上限を超えています"
+msgstr "アップロードされた画像はアップロード出来る画像サイズの上限を超えています"
+
+msgctxt "Languages::description::release_info_date"
+msgid "情報公開日"
+msgstr "情報公開日"
+
+msgctxt "Languages::description::api_date_format_field"
+msgid "[field]のフォーマットが間違っています（例：2017/01/31）"
+msgstr "[field]のフォーマットが間違っています（例：2017/01/31）"
+
+msgctxt "Languages::description::api_date_from_before_or_equal_date_to"
+msgid "[field_from]は[field_to]と同じもしくは[field_to]より前の日付を入れてください"
+msgstr "[field_from]は[field_to]と同じもしくは[field_to]より前の日付を入れてください"
+
+msgctxt "Languages::description::api_invalid_field"
+msgid "選択された[field]は無効です"
+msgstr "選択された[field]は無効です"
+
+msgctxt "Languages::description::text_cart_amount_limit"
+msgid "<b>[product]</b> の数量は、本日購入可能数量の上限に達しました。"
+msgstr "<b>[product]</b> の数量は、本日購入可能数量の上限に達しました。"
+
+msgctxt "Languages::description::date_from_before_date_to"
+msgid "[field_from]は[field_to]よりも前を入力してください"
+msgstr "[field_from]は[field_to]よりも前を入力してください"
+
+msgctxt "Languages::description::please_enter_start_tour_period"
+msgid "興行開始日を入力してください"
+msgstr "興行開始日を入力してください"
+
+msgctxt "Languages::description::please_enter_selling_class"
+msgid "販売区分名を入力してください"
+msgstr "販売区分名を入力してください"
+
+msgctxt "Languages::description::please_enter_start_receipt"
+msgid "受付開始日を入力してください"
+msgstr "受付開始日を入力してください"
+
+msgctxt "Languages::description::please_enter_end_selling_date"
+msgid "販売終了日を入力してください"
+msgstr "販売終了日を入力してください"
+
+msgctxt "Languages::description::please_enter_number"
+msgid "数字を入力してください"
+msgstr "数字を入力してください"
+
+msgctxt "Languages::description::please_add_a_seat_type"
+msgid "席種を追加してください"
+msgstr "席種を追加してください"
+
+msgctxt "Languages::description::do_you_want_delete_event"
+msgid "公演を削除しますか？"
+msgstr "公演を削除しますか？"
+
+msgctxt "Languages::description::are_you_sure_delete_selling_class"
+msgid "販売区分を削除しますか？"
+msgstr "販売区分を削除しますか？"
+
+msgctxt "Languages::description::are_sure_delete_seat"
+msgid "席種を削除しますか？"
+msgstr "席種を削除しますか？"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_0"
+msgid "0以上の値を入れてください"
+msgstr "0以上の値を入れてください"
+
+msgctxt "Languages::description::please_enter_venue_name"
+msgid "会場名を入力してください"
+msgstr "会場名を入力してください"
+
+msgctxt "Languages::description::please_enter_seat_type"
+msgid "席種を入力してください"
+msgstr "席種を入力してください"
+
+msgctxt "Languages::description::please_enter_stock"
+msgid "数量を入力してください"
+msgstr "数量を入力してください"
+
+msgctxt "Languages::description::please_enter_position"
+msgid "ポジションを入力してください"
+msgstr "ポジションを入力してください"
+
+msgctxt "Languages::description::are_you_sure_delete_event_time"
+msgid "公演時間を削除しますか？"
+msgstr "公演時間を削除しますか？"
+
+msgctxt "Languages::description::are_you_sure_delete_all_event_time"
+msgid "全ての公演時間を削除しますか？"
+msgstr "全ての公演時間を削除しますか？"
+
+msgctxt "Languages::description::please_add_a_event_time"
+msgid "公演時間を追加してください"
+msgstr "公演時間を追加してください"
+
+msgctxt "Languages::description::has_a_event_time_select_multi_times"
+msgid "既に登録されている公演時間です"
+msgstr "既に登録されている公演時間です"
+
+msgctxt "Languages::description::has_a_seat_type_input_multi_times"
+msgid "席種名が重複しています"
+msgstr "席種名が重複しています"
+
+msgctxt "Languages::description::has_a_selling_class_input_multi_times"
+msgid "販売区分の情報が重複しています"
+msgstr "販売区分の情報が重複しています"
+
+msgctxt "Languages::description::please_enter_event_priod_date"
+msgid "公演期間を入力してください"
+msgstr "公演期間を入力してください"
+
+msgctxt "Languages::description::please_select_a_date"
+msgid "日付を選択してください"
+msgstr "日付を選択してください"
+
+msgctxt "Languages::description::please_enter_reason"
+msgid "在庫変更の理由を入力してください"
+msgstr "在庫変更の理由を入力してください"
+
+msgctxt "Languages::description::event_time_has_seat_type_or_selling_class_is_sold"
+msgid "既にオーダーがある公演です"
+msgstr "既にオーダーがある公演です"
+
+msgctxt "Languages::description::please_enter_end_date_more_than_start_date"
+msgid "終了日は開始日よりも後を入力してください"
+msgstr "終了日は開始日よりも後を入力してください"
+
+msgctxt "Languages::description::please_enter_end_date_larger_than_start_date"
+msgid "現在時刻よりも前の時間は設定できません"
+msgstr "現在時刻よりも前の時間は設定できません"
+
+msgctxt "Languages::description::please_enter_start_reception"
+msgid "受付開始日を入力してください"
+msgstr "受付開始日を入力してください"
+
+msgctxt "Languages::description::please_choose_a_time_greater_than_or_equal_to_the_current_time"
+msgid "今日以降の日にちを選択してください"
+msgstr "今日以降の日にちを選択してください"
+
+msgctxt "Languages::description::please_enter_a_stock_greater_than_or_equal_to"
+msgid "{0}と同じまたは{0}よりも大きい在庫数を入力してください"
+msgstr "{0}と同じまたは{0}よりも大きい在庫数を入力してください"
+
+msgctxt "Languages::description::please_enter_end_tour_priod"
+msgid "公演終了日を入力してください"
+msgstr "公演終了日を入力してください"
+
+msgctxt "Languages::description::please_enter_start_tour_priod"
+msgid "公演開始日を入力してください"
+msgstr "公演開始日を入力してください"
+
+msgctxt "Languages::description::cant_delete_event"
+msgid "公演を削除できません"
+msgstr "公演を削除できません"
+
+msgctxt "Languages::description::select_all"
+msgid "全て選択"
+msgstr "全て選択"
+
+msgctxt "Languages::description::we_have_sold_tickets_already"
+msgid "公演チケットが販売されているため、全体情報は変更できません"
+msgstr "公演チケットが販売されているため、全体情報は変更できません"
+
+msgctxt "Languages::description::please_enter_end_reception"
+msgid "受付終了日を入力してください"
+msgstr "受付終了日を入力してください"
+
+msgctxt "Languages::description::event_time_stoping"
+msgid "この公演は販売中止になりました"
+msgstr "この公演は販売中止になりました"
+
+msgctxt "Languages::description::stop_selling"
+msgid "販売中止"
+msgstr "販売中止"
+
+msgctxt "Languages::description::restart_selling"
+msgid "販売再開"
+msgstr "販売再開"
+
+msgctxt "Languages::description::times_1_user_can_apply_for_this_tour"
+msgid "１人のユーザーがこの興行に何回申込むことが出来るかを設定します"
+msgstr "１人のユーザーがこの興行に何回申込むことが出来るかを設定します"
+
+msgctxt "Languages::description::tickets_1_user_can_purchase_at_a_time"
+msgid "１人のユーザーが１度に何枚購入出来るかを設定します"
+msgstr "１人のユーザーが１度に何枚購入出来るかを設定します"
+
+msgctxt "Languages::description::removed_from_stock_when_a_user_purchase_1_ticket"
+msgid "何枚綴りのチケットかを設定します <br/> ※３で設定すると１枚の購入で３枚分在庫が引かれます <br/> ※金額は１枚あたりの値段ではなく、合計金額を入力してください"
+msgstr "何枚綴りのチケットかを設定します <br/> ※３で設定すると１枚の購入で３枚分在庫が引かれます <br/> ※金額は１枚あたりの値段ではなく、合計金額を入力してください"
+
+msgctxt "Languages::description::reduces_3_stocks_when_a_user_purchase_1_ticket"
+msgid "※３で設定すると１枚の購入で３枚分在庫が引かれます"
+msgstr "※３で設定すると１枚の購入で３枚分在庫が引かれます"
+
+msgctxt "Languages::description::not_the_price_per_1_ticket"
+msgid "※金額は１枚あたりの値段ではなく、合計金額を入力してください"
+msgstr "※金額は１枚あたりの値段ではなく、合計金額を入力してください"
+
+msgctxt "Languages::description::tickets_to_be_sold_with"
+msgid "何枚ごとにチケットを販売するかを設定します <br/> ※２で設定すると、２、４、６...枚ずつのみ購入可能になります"
+msgstr "何枚ごとにチケットを販売するかを設定します <br/> ※２で設定すると、２、４、６...枚ずつのみ購入可能になります"
+
+msgctxt "Languages::description::user_can_purchase_tickets_with_2"
+msgid "※２で設定すると、２、４、６...枚ずつのみ購入可能になります"
+msgstr "※２で設定すると、２、４、６...枚ずつのみ購入可能になります"
+
+msgctxt "Languages::description::it_defines_the_order_to_shown_this_seat_type"
+msgid "席種（販売区分）が複数ある場合、ストアフロントでこの席種（販売区分）を何番目に表示するかを設定します"
+msgstr "席種（販売区分）が複数ある場合、ストアフロントでこの席種（販売区分）を何番目に表示するかを設定します"
+
+msgctxt "Languages::description::the_product_has_been_sold_out_you_can_not_delete_it"
+msgid "すでにオーダーのある公演のため削除できません"
+msgstr "すでにオーダーのある公演のため削除できません"
+
+msgctxt "Languages::description::cant_delete_because_seat_type_was_sold"
+msgid "[seat_type]はすでにオーダーがあるため削除できません"
+msgstr "[seat_type]はすでにオーダーがあるため削除できません"
+
+msgctxt "Languages::description::delete_seat_type_success"
+msgid "[seat_type]が削除されました"
+msgstr "[seat_type]が削除されました"
+
+msgctxt "Languages::description::delete_selling_class_success"
+msgid "[selling_class]が削除されました"
+msgstr "[selling_class]が削除されました"
+
+msgctxt "Languages::description::update_seat_type_success"
+msgid "[seat_type]が更新されました"
+msgstr "[seat_type]が更新されました"
+
+msgctxt "Languages::description::cant_add_selling_because_seat_type_was_sold"
+msgid "[seat_type]はすでにオーダーがあるため販売区分を追加できません"
+msgstr "[seat_type]はすでにオーダーがあるため販売区分を追加できません"
+
+msgctxt "Languages::description::update_selling_class_success"
+msgid "[selling_class]が更新されました"
+msgstr "[selling_class]が更新されました"
+
+msgctxt "Languages::description::cant_delete_selling_class_was_sold"
+msgid "[selling_class]はすでにオーダーがあるため削除できません"
+msgstr "[selling_class]はすでにオーダーがあるため削除できません"
+
+msgctxt "Languages::description::only_update_stock_for_seat_type_and_not_update_info_seat_type"
+msgid "[seat_type]はすでにオーダーがあるため在庫数以外の情報は更新できません"
+msgstr "[seat_type]はすでにオーダーがあるため在庫数以外の情報は更新できません"
+
+msgctxt "Languages::description::update_success_stock_seat_type_for_seat_type"
+msgid "[seat_type]の在庫数が更新されました"
+msgstr "[seat_type]の在庫数が更新されました"
+
+msgctxt "Languages::description::cant_update_because_seat_type_was_sold_and_new_stock_greater_than_or_equal_to_stock"
+msgid "[seat_type]はオーダーが入っているため、すでに販売された枚数と同じ、もしくはそれ以上の在庫数しか設定できません"
+msgstr "[seat_type]はオーダーが入っているため、すでに販売された枚数と同じ、もしくはそれ以上の在庫数しか設定できません"
+
+msgctxt "Languages::description::only_update_start_selling_and_end_selling_for_selling_class_cant_update_info_other"
+msgid "[selling_class]はすでにオーダーがあるため販売開始日/終了日以外の情報は更新できません"
+msgstr "[selling_class]はすでにオーダーがあるため販売開始日/終了日以外の情報は更新できません"
+
+msgctxt "Languages::description::cant_update_selling_class_start_selling_and_selling_incorrect"
+msgid "販売開始日/終了日が間違っているため[selling_class]を更新できません"
+msgstr "販売開始日/終了日が間違っているため[selling_class]を更新できません"
+
+msgctxt "Languages::description::cant_update_group_ticket_selling_class"
+msgid "<b>[selling_class]</b>の１枚あたりで減少する在庫は変更できません"
+msgstr "<b>[selling_class]</b>の１枚あたりで減少する在庫は変更できません"
+
+msgctxt "Languages::description::cant_update_group_ticket_seat_type"
+msgid "<b>[seat_type]</b>の１枚あたりで減少する在庫は変更できません"
+msgstr "<b>[seat_type]</b>の１枚あたりで減少する在庫は変更できません"
+
+msgctxt "Languages::description::the_event_time_has_been_sold_out_you_can_not_delete_it"
+msgid "すでにオーダーがあるため公演時間[event_time]を削除できません"
+msgstr "すでにオーダーがあるため公演時間[event_time]を削除できません"
+
+msgctxt "Languages::description::the_event_time_deleted_success"
+msgid "公演時間[event_time]が削除されました"
+msgstr "公演時間[event_time]が削除されました"
+
+msgctxt "Languages::description::cant_edit_basic_info_event_was_sold"
+msgid "すでにオーダーがあるため基本情報を編集できません"
+msgstr "すでにオーダーがあるため基本情報を編集できません"
+
+msgctxt "Languages::description::cant_add_event_time_event_was_sold"
+msgid "すでにオーダーがあるため公演時間を編集できません"
+msgstr "すでにオーダーがあるため公演時間を編集できません"
+
+msgctxt "Languages::description::please_enter_price_greater_than_0"
+msgid "価格は0以上の値を入れてください"
+msgstr "価格は0以上の値を入れてください"
+
+msgctxt "Languages::description::can_not_delete_the_last_event_time"
+msgid "最後の公演時間は削除できません"
+msgstr "最後の公演時間は削除できません"
+
+msgctxt "Languages::description::can_not_save_because_some_value_invalid"
+msgid "無効な値があるため保存できません"
+msgstr "無効な値があるため保存できません"
+
+msgctxt "Languages::description::no_contents_found"
+msgid "コンテンツが見つかりません"
+msgstr "コンテンツが見つかりません"
+
+msgctxt "Languages::description::item_was_deleted"
+msgid "削除された項目です"
+msgstr "削除された項目です"
+
+msgctxt "Languages::description::add_failed"
+msgid "追加できませんでした"
+msgstr "追加できませんでした"
+
+msgctxt "Languages::description::added_success"
+msgid "追加しました"
+msgstr "追加しました"
+
+msgctxt "Languages::description::file_upload_error"
+msgid "ファイルアップロードエラー"
+msgstr "ファイルアップロードエラー"
+
+msgctxt "Languages::description::file_uploaded"
+msgid "ファイルがアップロードされました"
+msgstr "ファイルがアップロードされました"
+
+msgctxt "Languages::description::monitor_id_not_found"
+msgid "IDを入力してください"
+msgstr "IDを入力してください"
+
+msgctxt "Languages::description::please_add_image"
+msgid "画像を追加してください"
+msgstr "画像を追加してください"
+
+msgctxt "Languages::description::please_add_movie"
+msgid "動画を追加してください"
+msgstr "動画を追加してください"
+
+msgctxt "Languages::description::please_input_data"
+msgid "データを入力してください"
+msgstr "データを入力してください"
+
+msgctxt "Languages::description::please_input_number"
+msgid "数字を入力してください"
+msgstr "数字を入力してください"
+
+msgctxt "Languages::description::please_input_order"
+msgid "表示順を入力してください"
+msgstr "表示順を入力してください"
+
+msgctxt "Languages::description::please_input_title"
+msgid "タイトルを入力してください"
+msgstr "タイトルを入力してください"
+
+msgctxt "Languages::description::please_select_layout"
+msgid "レイアウトを選択してください"
+msgstr "レイアウトを選択してください"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "興行を選択してください"
+msgstr "興行を選択してください"
+
+msgctxt "Languages::description::updated_success"
+msgid "更新されました"
+msgstr "更新されました"
+
+msgctxt "Languages::description::numerical_field"
+msgid "[field]には数字のみ入力できます"
+msgstr "[field]には数字のみ入力できます"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "興行<b>[product]</b>は既に<b>[ordered]</b>回申し込みされています。申し込み回数制限の上限に達しています。"
+msgstr "興行<b>[product]</b>は既に<b>[ordered]</b>回申し込みされています。申し込み回数制限の上限に達しています。"
+
+msgctxt "Languages::description::text_cart_maximum_order_quantity"
+msgid "<b>[product]</b>は購入可能枚数は<b>[max]</b>枚まです。"
+msgstr "<b>[product]</b>は購入可能枚数は<b>[max]</b>枚まです。"
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "<b>[product]</b>は<b>[quantity_step]</b>枚ずつのみ購入可能です。"
+msgstr "<b>[product]</b>は<b>[quantity_step]</b>枚ずつのみ購入可能です。"
+
+msgctxt "Languages::description::text_cart_amount_corrected"
+msgid "在庫数が足りません。カート内の<b>[product]</b>の注文数が自動で変更されています。ご確認ください。"
+msgstr "在庫数が足りません。カート内の<b>[product]</b>の注文数が自動で変更されています。ご確認ください。"
+
+msgctxt "Languages::description::text_cart_amount_changed"
+msgid "カート内の<b>[product]</b>の注文数が購入可能な枚数に自動で変更されています。ご確認ください。"
+msgstr "カート内の<b>[product]</b>の注文数が購入可能な枚数に自動で変更されています。ご確認ください。"
+
+msgctxt "Languages::description::min_qty_not_greater_than_max_qty"
+msgid "最小注文数は最大注文数より小さい数を入れてください"
+msgstr "最小注文数は最大注文数より小さい数を入れてください"
+
+msgctxt "Languages::description::start_selling_specify_date_after_or_equal_current_time"
+msgid "受付開始日は現在日時と同じかそれ以降を選択してください"
+msgstr "受付開始日は現在日時と同じかそれ以降を選択してください"
+
+msgctxt "Languages::description::end_selling_specify_date_after_or_equal_current_time"
+msgid "受付終了日は現在日時と同じかそれ以降を選択してください"
+msgstr "受付終了日は現在日時と同じかそれ以降を選択してください"
+
+msgctxt "Languages::description::start_scanning_specify_date_after_or_equal_current_time"
+msgid "読み取り開始日は現在日時と同じかそれ以降を選択してください"
+msgstr "読み取り開始日は現在日時と同じかそれ以降を選択してください"
+
+msgctxt "Languages::description::end_scanning_specify_date_after_or_equal_current_time"
+msgid "読み取り終了日は現在日時と同じかそれ以降を選択してください"
+msgstr "読み取り終了日は現在日時と同じかそれ以降を選択してください"
+
+msgctxt "Languages::description::validate_start_selling"
+msgid "[product][event_time][seat_type]は販売期間前のためカートから削除されました"
+msgstr "[product][event_time][seat_type]は販売期間前のためカートから削除されました"
+
+msgctxt "Languages::description::validate_end_selling"
+msgid "[product][event_time][seat_type]の販売期間が終了したためカートから削除されました"
+msgstr "[product][event_time][seat_type]の販売期間が終了したためカートから削除されました"
+
+msgctxt "Languages::description::validate_stop_selling"
+msgid "[product][event_time][seat_type]の販売が中止されたためカートから削除されました"
+msgstr "[product][event_time][seat_type]の販売が中止されたためカートから削除されました"
+
+msgctxt "Languages::description::validate_out_of_stock"
+msgid "[product]は在庫切れです"
+msgstr "[product]は在庫切れです"
+
+msgctxt "Languages::description::validate_overlap_time_danin"
+msgid "現在[product]は団員先行のみの販売です"
+msgstr "現在[product]は団員先行のみの販売です"
+
+msgctxt "Languages::description::validate_only_for_danin"
+msgid "選択された[product]の[seat_type]は団員先行用のチケットです"
+msgstr "選択された[product]の[seat_type]は団員先行用のチケットです"
+
+msgctxt "Languages::description::validate_required"
+msgid "この項目は必須項目です。"
+msgstr "この項目は必須項目です。"
+
+msgctxt "Languages::description::validate_widekana_space"
+msgid "{0}は全角カナのみ入力できます。"
+msgstr "{0}は全角カナのみ入力できます。"
+
+msgctxt "Languages::description::validate_phone_number"
+msgid "入力形式が異なります。{0}を入力してください。"
+msgstr "入力形式が異なります。{0}を入力してください。"
+
+msgctxt "Languages::description::validate_post_code"
+msgid "{0}郵便番号は7文字です。"
+msgstr "{0}郵便番号は7文字です。"
+
+msgctxt "Languages::description::validate_birth_year"
+msgid "{0}はYYYY形式のみ入力できます"
+msgstr "{0}はYYYY形式のみ入力できます"
+
+msgctxt "Languages::description::validate_maxlength"
+msgid "{0}文字以内で入力してください"
+msgstr "{0}文字以内で入力してください"
+
+msgctxt "Languages::description::validate_email"
+msgid "無効なメールアドレスです"
+msgstr "無効なメールアドレスです"
+
+msgctxt "Languages::description::validate_wide_char_space"
+msgid "{0}は全角文字（旧字や機種依存文字を除く）のみ入力できます"
+msgstr "{0}は全角文字（旧字や機種依存文字を除く）のみ入力できます"
+
+msgctxt "Languages::description::please_select_time_greater_than_current_time"
+msgid "現在時刻よりも後を選択してください"
+msgstr "現在時刻よりも後を選択してください"
+
+msgctxt "Languages::description::format_deep_link_incorrect"
+msgid "ディープリンクの形式が間違っています"
+msgstr "ディープリンクの形式が間違っています"
+
+msgctxt "Languages::description::cant_update_notification"
+msgid "通知を更新できません"
+msgstr "通知を更新できません"
+
+msgctxt "Languages::description::notification_sent_successfully"
+msgid "通知が送信されました"
+msgstr "通知が送信されました"
+
+msgctxt "Languages::description::delete_notification_success"
+msgid "通知が削除されました"
+msgstr "通知が削除されました"
+
+msgctxt "Languages::description::cant_delete_notification"
+msgid "通知を削除できません"
+msgstr "通知を削除できません"
+
+msgctxt "Languages::description::product_id_not_exist"
+msgid "存在しない商品IDです"
+msgstr "存在しない商品IDです"
+
+msgctxt "Languages::description::news_id_incorrect"
+msgid "ニュースIDが間違っています"
+msgstr "ニュースIDが間違っています"
+
+msgctxt "Languages::description::type_schedule_incorrect"
+msgid "配信タイミングが間違っています"
+msgstr "配信タイミングが間違っています"
+
+msgctxt "Languages::description::invitation_code_incorrect"
+msgid "招待コードが間違っています"
+msgstr "招待コードが間違っています"
+
+msgctxt "Languages::description::are_you_sure_delete_notification"
+msgid "本当に通知を削除しますか？"
+msgstr "本当に通知を削除しますか？"
+
+msgctxt "Languages::description::minute_number_must_be_in_range"
+msgid "minute_number_must_be_in_range"
+msgstr "minute_number_must_be_in_range"
+
+msgctxt "Languages::description::error_payment_limit_time"
+msgid "[product_name] - [seat_name] - [event_time]はコンビニエンスストア決済の締め切り時間が終了しています。他の支払方法を選択してください。"
+msgstr "[product_name] - [seat_name] - [event_time]はコンビニエンスストア決済の締め切り時間が終了しています。他の支払方法を選択してください。"
+
+msgctxt "Languages::description::invalidate_start_end_selling_schedule_time"
+msgid "受付開始日[start_selling]が受付終了日[end_selling]と同じ、もしくは後のため[date_time]は無効な公演時間です。受付開始"
+msgstr "受付開始日[start_selling]が受付終了日[end_selling]と同じ、もしくは後のため[date_time]は無効な公演時間です。受付開始"
+
+msgctxt "Languages::description::event_time_from_must_before_event_time_to"
+msgid "公演開始時間は公演終了時間の前でなければなりません。"
+msgstr "公演開始時間は公演終了時間の前でなければなりません。"
+

@@ -1,0 +1,3945 @@
+msgid ""
+msgstr "Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Taiwan\n"
+"Language: tw_TW"
+
+msgctxt "Languages::description::start_selling"
+msgid "start_selling"
+msgstr "start_selling"
+
+msgctxt "Languages::description::specify_date"
+msgid "specify_date"
+msgstr "specify_date"
+
+msgctxt "Languages::description::specify_days"
+msgid "specify_days"
+msgstr "specify_days"
+
+msgctxt "Languages::description::days_before_event"
+msgid "days_before_event"
+msgstr "days_before_event"
+
+msgctxt "Languages::description::end_selling"
+msgid "end_selling"
+msgstr "end_selling"
+
+msgctxt "Languages::description::specify_hours"
+msgid "specify_hours"
+msgstr "specify_hours"
+
+msgctxt "Languages::description::hours"
+msgid "hours"
+msgstr "hours"
+
+msgctxt "Languages::description::after_event_is_started"
+msgid "after_event_is_started"
+msgstr "after_event_is_started"
+
+msgctxt "Languages::description::before_event_is_started"
+msgid "before_event_is_started"
+msgstr "before_event_is_started"
+
+msgctxt "Languages::description::start_scanning"
+msgid "start_scanning"
+msgstr "start_scanning"
+
+msgctxt "Languages::description::hours_before_event"
+msgid "hours_before_event"
+msgstr "hours_before_event"
+
+msgctxt "Languages::description::end_scanning"
+msgid "end_scanning"
+msgstr "end_scanning"
+
+msgctxt "Languages::description::show_event_schedule"
+msgid "show_event_schedule"
+msgstr "show_event_schedule"
+
+msgctxt "Languages::description::on"
+msgid "on"
+msgstr "on"
+
+msgctxt "Languages::description::off"
+msgid "off"
+msgstr "off"
+
+msgctxt "Languages::description::start_tour_period"
+msgid "start_tour_period"
+msgstr "start_tour_period"
+
+msgctxt "Languages::description::end_tour_period"
+msgid "end_tour_period"
+msgstr "end_tour_period"
+
+msgctxt "Languages::description::limit_number_ticket"
+msgid "limit_number_ticket"
+msgstr "limit_number_ticket"
+
+msgctxt "Languages::description::up_to_this_number"
+msgid "up_to_this_number"
+msgstr "up_to_this_number"
+
+msgctxt "Languages::description::only_a_few_ticket"
+msgid "only_a_few_ticket"
+msgstr "only_a_few_ticket"
+
+msgctxt "Languages::description::field_start_selling_type"
+msgid "field_start_selling_type"
+msgstr "field_start_selling_type"
+
+msgctxt "Languages::description::field_start_selling_specify_date"
+msgid "field_start_selling_specify_date"
+msgstr "field_start_selling_specify_date"
+
+msgctxt "Languages::description::field_start_selling_specify_time"
+msgid "field_start_selling_specify_time"
+msgstr "field_start_selling_specify_time"
+
+msgctxt "Languages::description::field_start_selling_day"
+msgid "field_start_selling_day"
+msgstr "field_start_selling_day"
+
+msgctxt "Languages::description::field_start_selling_time"
+msgid "field_start_selling_time"
+msgstr "field_start_selling_time"
+
+msgctxt "Languages::description::field_end_selling_type"
+msgid "field_end_selling_type"
+msgstr "field_end_selling_type"
+
+msgctxt "Languages::description::field_end_selling_specify_date"
+msgid "field_end_selling_specify_date"
+msgstr "field_end_selling_specify_date"
+
+msgctxt "Languages::description::field_end_selling_specify_time"
+msgid "field_end_selling_specify_time"
+msgstr "field_end_selling_specify_time"
+
+msgctxt "Languages::description::field_end_selling_hours"
+msgid "field_end_selling_hours"
+msgstr "field_end_selling_hours"
+
+msgctxt "Languages::description::field_end_selling_hours_type"
+msgid "field_end_selling_hours_type"
+msgstr "field_end_selling_hours_type"
+
+msgctxt "Languages::description::field_start_scanning_type"
+msgid "field_start_scanning_type"
+msgstr "field_start_scanning_type"
+
+msgctxt "Languages::description::field_start_scanning_specify_date"
+msgid "field_start_scanning_specify_date"
+msgstr "field_start_scanning_specify_date"
+
+msgctxt "Languages::description::field_start_scanning_specify_time"
+msgid "field_start_scanning_specify_time"
+msgstr "field_start_scanning_specify_time"
+
+msgctxt "Languages::description::field_start_scanning_hours"
+msgid "field_start_scanning_hours"
+msgstr "field_start_scanning_hours"
+
+msgctxt "Languages::description::field_end_scanning_type"
+msgid "field_end_scanning_type"
+msgstr "field_end_scanning_type"
+
+msgctxt "Languages::description::field_end_scanning_specify_date"
+msgid "field_end_scanning_specify_date"
+msgstr "field_end_scanning_specify_date"
+
+msgctxt "Languages::description::field_end_scanning_specify_time"
+msgid "field_end_scanning_specify_time"
+msgstr "field_end_scanning_specify_time"
+
+msgctxt "Languages::description::field_end_scanning_hours"
+msgid "field_end_scanning_hours"
+msgstr "field_end_scanning_hours"
+
+msgctxt "Languages::description::field_end_scanning_hours_type"
+msgid "field_end_scanning_hours_type"
+msgstr "field_end_scanning_hours_type"
+
+msgctxt "Languages::description::field_start_tour_period"
+msgid "field_start_tour_period"
+msgstr "field_start_tour_period"
+
+msgctxt "Languages::description::field_end_tour_period"
+msgid "field_end_tour_period"
+msgstr "field_end_tour_period"
+
+msgctxt "Languages::description::field_show_event_schedule"
+msgid "field_show_event_schedule"
+msgstr "field_show_event_schedule"
+
+msgctxt "Languages::description::field_limit_number_ticket"
+msgid "field_limit_number_ticket"
+msgstr "field_limit_number_ticket"
+
+msgctxt "Languages::description::field_only_a_few_ticket"
+msgid "field_only_a_few_ticket"
+msgstr "field_only_a_few_ticket"
+
+msgctxt "Languages::description::field_start_selling"
+msgid "field_start_selling"
+msgstr "field_start_selling"
+
+msgctxt "Languages::description::field_end_selling"
+msgid "field_end_selling"
+msgstr "field_end_selling"
+
+msgctxt "Languages::description::field_start_scanning"
+msgid "field_start_scanning"
+msgstr "field_start_scanning"
+
+msgctxt "Languages::description::field_end_scanning"
+msgid "field_end_scanning"
+msgstr "field_end_scanning"
+
+msgctxt "Languages::description::number_ticket"
+msgid "number_ticket"
+msgstr "number_ticket"
+
+msgctxt "Languages::description::tour_period"
+msgid "tour_period"
+msgstr "tour_period"
+
+msgctxt "Languages::description::holiday"
+msgid "holiday"
+msgstr "holiday"
+
+msgctxt "Languages::description::door"
+msgid "door"
+msgstr "door"
+
+msgctxt "Languages::description::price"
+msgid "price"
+msgstr "price"
+
+msgctxt "Languages::description::Notes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "Languages::description::What's group tickets"
+msgid "What's group tickets"
+msgstr "What's group tickets"
+
+msgctxt "Languages::description::How to play"
+msgid "How to play"
+msgstr "How to play"
+
+msgctxt "Languages::description::Time-limit"
+msgid "Time-limit"
+msgstr "Time-limit"
+
+msgctxt "Languages::description::Story"
+msgid "Story"
+msgstr "Story"
+
+msgctxt "Languages::description::Sales catch"
+msgid "Sales catch"
+msgstr "Sales catch"
+
+msgctxt "Languages::description::About this event"
+msgid "About this event"
+msgstr "About this event"
+
+msgctxt "Languages::description::Tab Price"
+msgid "Tab Price"
+msgstr "Tab Price"
+
+msgctxt "Languages::description::Tab Date"
+msgid "Tab Date"
+msgstr "Tab Date"
+
+msgctxt "Languages::description::Tab How To Play"
+msgid "Tab How To Play"
+msgstr "Tab How To Play"
+
+msgctxt "Languages::description::Tab Story"
+msgid "Tab Story"
+msgstr "Tab Story"
+
+msgctxt "Languages::description::Tab FAQ"
+msgid "Tab FAQ"
+msgstr "Tab FAQ"
+
+msgctxt "Languages::description::Overview"
+msgid "Overview"
+msgstr "Overview"
+
+msgctxt "Languages::description::Text"
+msgid "Text"
+msgstr "Text"
+
+msgctxt "Languages::description::no_data_available"
+msgid "no_data_available"
+msgstr "no_data_available"
+
+msgctxt "Languages::description::change_member_info"
+msgid "change_member_info"
+msgstr "change_member_info"
+
+msgctxt "Languages::description::available"
+msgid "available"
+msgstr "available"
+
+msgctxt "Languages::description::only_a_few_left"
+msgid "only_a_few_left"
+msgstr "only_a_few_left"
+
+msgctxt "Languages::description::priviledge"
+msgid "priviledge"
+msgstr "priviledge"
+
+msgctxt "Languages::description::number_of_ppl_per_team_how_to"
+msgid "number_of_ppl_per_team_how_to"
+msgstr "number_of_ppl_per_team_how_to"
+
+msgctxt "Languages::description::number_of_ppl_per_team_story"
+msgid "number_of_ppl_per_team_story"
+msgstr "number_of_ppl_per_team_story"
+
+msgctxt "Languages::description::ticket_sales"
+msgid "ticket_sales"
+msgstr "ticket_sales"
+
+msgctxt "Languages::description::field_start_selling_specify_hour"
+msgid "field_start_selling_specify_hour"
+msgstr "field_start_selling_specify_hour"
+
+msgctxt "Languages::description::field_start_selling_specify_minute"
+msgid "field_start_selling_specify_minute"
+msgstr "field_start_selling_specify_minute"
+
+msgctxt "Languages::description::field_start_selling_hour"
+msgid "field_start_selling_hour"
+msgstr "field_start_selling_hour"
+
+msgctxt "Languages::description::field_start_selling_minute"
+msgid "field_start_selling_minute"
+msgstr "field_start_selling_minute"
+
+msgctxt "Languages::description::field_end_selling_specify_hour"
+msgid "field_end_selling_specify_hour"
+msgstr "field_end_selling_specify_hour"
+
+msgctxt "Languages::description::field_end_selling_specify_minute"
+msgid "field_end_selling_specify_minute"
+msgstr "field_end_selling_specify_minute"
+
+msgctxt "Languages::description::field_start_scanning_specify_hour"
+msgid "field_start_scanning_specify_hour"
+msgstr "field_start_scanning_specify_hour"
+
+msgctxt "Languages::description::field_start_scanning_specify_minute"
+msgid "field_start_scanning_specify_minute"
+msgstr "field_start_scanning_specify_minute"
+
+msgctxt "Languages::description::field_end_scanning_specify_hour"
+msgid "field_end_scanning_specify_hour"
+msgstr "field_end_scanning_specify_hour"
+
+msgctxt "Languages::description::field_end_scanning_specify_minute"
+msgid "field_end_scanning_specify_minute"
+msgstr "field_end_scanning_specify_minute"
+
+msgctxt "Languages::description::release_info_date"
+msgid "release_info_date"
+msgstr "release_info_date"
+
+msgctxt "Languages::description::field_release_info_date"
+msgid "field_release_info_date"
+msgstr "field_release_info_date"
+
+msgctxt "Languages::description::field_release_info_hour"
+msgid "field_release_info_hour"
+msgstr "field_release_info_hour"
+
+msgctxt "Languages::description::field_release_info_minute"
+msgid "field_release_info_minute"
+msgstr "field_release_info_minute"
+
+msgctxt "Languages::description::field_position"
+msgid "field_position"
+msgstr "field_position"
+
+msgctxt "Languages::description::jp_availability"
+msgid "jp_availability"
+msgstr "jp_availability"
+
+msgctxt "Languages::description::search_tour"
+msgid "search_tour"
+msgstr "search_tour"
+
+msgctxt "Languages::description::get_social"
+msgid "get_social"
+msgstr "get_social"
+
+msgctxt "Languages::description::last"
+msgid "last"
+msgstr "last"
+
+msgctxt "Languages::description::first"
+msgid "first"
+msgstr "first"
+
+msgctxt "Languages::description::all"
+msgid "all"
+msgstr "all"
+
+msgctxt "Languages::description::coming_soon"
+msgid "coming_soon"
+msgstr "coming_soon"
+
+msgctxt "Languages::description::open_now"
+msgid "open_now"
+msgstr "open_now"
+
+msgctxt "Languages::description::add_event_time"
+msgid "add_event_time"
+msgstr "add_event_time"
+
+msgctxt "Languages::description::edit_event_time"
+msgid "edit_event_time"
+msgstr "edit_event_time"
+
+msgctxt "Languages::description::edit"
+msgid "edit"
+msgstr "edit"
+
+msgctxt "Languages::description::create_schedule"
+msgid "create_schedule"
+msgstr "create_schedule"
+
+msgctxt "Languages::description::de_active"
+msgid "de_active"
+msgstr "de_active"
+
+msgctxt "Languages::description::edit_basic_info"
+msgid "edit_basic_info"
+msgstr "edit_basic_info"
+
+msgctxt "Languages::description::add_event"
+msgid "add_event"
+msgstr "add_event"
+
+msgctxt "Languages::description::venue_name"
+msgid "venue_name"
+msgstr "venue_name"
+
+msgctxt "Languages::description::event_term"
+msgid "event_term"
+msgstr "event_term"
+
+msgctxt "Languages::description::event_day_week_date"
+msgid "event_day_week_date"
+msgstr "event_day_week_date"
+
+msgctxt "Languages::description::event_time_holiday"
+msgid "event_time_holiday"
+msgstr "event_time_holiday"
+
+msgctxt "Languages::description::event_day_holiday"
+msgid "event_day_holiday"
+msgstr "event_day_holiday"
+
+msgctxt "Languages::description::event_time_week_day"
+msgid "event_time_week_day"
+msgstr "event_time_week_day"
+
+msgctxt "Languages::description::seat_type"
+msgid "seat_type"
+msgstr "seat_type"
+
+msgctxt "Languages::description::event_schedule"
+msgid "event_schedule"
+msgstr "event_schedule"
+
+msgctxt "Languages::description::basic_info"
+msgid "basic_info"
+msgstr "basic_info"
+
+msgctxt "Languages::description::add_seat_type"
+msgid "add_seat_type"
+msgstr "add_seat_type"
+
+msgctxt "Languages::description::event_date"
+msgid "event_date"
+msgstr "event_date"
+
+msgctxt "Languages::description::stock"
+msgid "stock"
+msgstr "stock"
+
+msgctxt "Languages::description::pre_tickets"
+msgid "pre_tickets"
+msgstr "pre_tickets"
+
+msgctxt "Languages::description::edit_seat_type"
+msgid "edit_seat_type"
+msgstr "edit_seat_type"
+
+msgctxt "Languages::description::reason"
+msgid "reason"
+msgstr "reason"
+
+msgctxt "Languages::description::new_selling"
+msgid "new_selling"
+msgstr "new_selling"
+
+msgctxt "Languages::description::name"
+msgid "name"
+msgstr "name"
+
+msgctxt "Languages::description::after_the_event"
+msgid "after_the_event"
+msgstr "after_the_event"
+
+msgctxt "Languages::description::before_the_event"
+msgid "before_the_event"
+msgstr "before_the_event"
+
+msgctxt "Languages::description::selling_class"
+msgid "selling_class"
+msgstr "selling_class"
+
+msgctxt "Languages::description::yen"
+msgid "yen"
+msgstr "yen"
+
+msgctxt "Languages::description::specity_date"
+msgid "specity_date"
+msgstr "specity_date"
+
+msgctxt "Languages::description::event_period"
+msgid "event_period"
+msgstr "event_period"
+
+msgctxt "Languages::description::select_date"
+msgid "select_date"
+msgstr "select_date"
+
+msgctxt "Languages::description::mon"
+msgid "mon"
+msgstr "mon"
+
+msgctxt "Languages::description::tue"
+msgid "tue"
+msgstr "tue"
+
+msgctxt "Languages::description::wed"
+msgid "wed"
+msgstr "wed"
+
+msgctxt "Languages::description::thu"
+msgid "thu"
+msgstr "thu"
+
+msgctxt "Languages::description::fri"
+msgid "fri"
+msgstr "fri"
+
+msgctxt "Languages::description::sat"
+msgid "sat"
+msgstr "sat"
+
+msgctxt "Languages::description::sun"
+msgid "sun"
+msgstr "sun"
+
+msgctxt "Languages::description::holidays"
+msgid "holidays"
+msgstr "holidays"
+
+msgctxt "Languages::description::previous_month"
+msgid "previous_month"
+msgstr "previous_month"
+
+msgctxt "Languages::description::next_month"
+msgid "next_month"
+msgstr "next_month"
+
+msgctxt "Languages::description::venue"
+msgid "venue"
+msgstr "venue"
+
+msgctxt "Languages::description::update_event_time"
+msgid "update_event_time"
+msgstr "update_event_time"
+
+msgctxt "Languages::description::booth"
+msgid "booth"
+msgstr "booth"
+
+msgctxt "Languages::description::date"
+msgid "date"
+msgstr "date"
+
+msgctxt "Languages::description::delete_all"
+msgid "delete_all"
+msgstr "delete_all"
+
+msgctxt "Languages::description::limit_number_for_application"
+msgid "limit_number_for_application"
+msgstr "limit_number_for_application"
+
+msgctxt "Languages::description::start_reception_on"
+msgid "start_reception_on"
+msgstr "start_reception_on"
+
+msgctxt "Languages::description::event"
+msgid "event"
+msgstr "event"
+
+msgctxt "Languages::description::events"
+msgid "events"
+msgstr "events"
+
+msgctxt "Languages::description::specify_days_and_time"
+msgid "specify_days_and_time"
+msgstr "specify_days_and_time"
+
+msgctxt "Languages::description::selling_to"
+msgid "selling_to"
+msgstr "selling_to"
+
+msgctxt "Languages::description::normal_member"
+msgid "normal_member"
+msgstr "normal_member"
+
+msgctxt "Languages::description::NAKED_fc"
+msgid "NAKED_fc"
+msgstr "NAKED_fc"
+
+msgctxt "Languages::description::day_before_the_event"
+msgid "day_before_the_event"
+msgstr "day_before_the_event"
+
+msgctxt "Languages::description::end_reception_on"
+msgid "end_reception_on"
+msgstr "end_reception_on"
+
+msgctxt "Languages::description::quality_step"
+msgid "quality_step"
+msgstr "quality_step"
+
+msgctxt "Languages::description::max_application_times"
+msgid "max_application_times"
+msgstr "max_application_times"
+
+msgctxt "Languages::description::group_ticket"
+msgid "group_ticket"
+msgstr "group_ticket"
+
+msgctxt "Languages::description::no_events"
+msgid "no_events"
+msgstr "no_events"
+
+msgctxt "Languages::description::seat_type_was_sold"
+msgid "seat_type_was_sold"
+msgstr "seat_type_was_sold"
+
+msgctxt "Languages::description::times"
+msgid "times"
+msgstr "times"
+
+msgctxt "Languages::description::cant_edit_pre_date"
+msgid "cant_edit_pre_date"
+msgstr "cant_edit_pre_date"
+
+msgctxt "Languages::description::format_date_not_correct"
+msgid "format_date_not_correct"
+msgstr "format_date_not_correct"
+
+msgctxt "Languages::description::add_content"
+msgid "add_content"
+msgstr "add_content"
+
+msgctxt "Languages::description::add_image"
+msgid "add_image"
+msgstr "add_image"
+
+msgctxt "Languages::description::add_monitor"
+msgid "add_monitor"
+msgstr "add_monitor"
+
+msgctxt "Languages::description::edit_monitor"
+msgid "edit_monitor"
+msgstr "edit_monitor"
+
+msgctxt "Languages::description::layout_1_image_text"
+msgid "layout_1_image_text"
+msgstr "layout_1_image_text"
+
+msgctxt "Languages::description::layout_2_only_movie"
+msgid "layout_2_only_movie"
+msgstr "layout_2_only_movie"
+
+msgctxt "Languages::description::layout_3_only_text"
+msgid "layout_3_only_text"
+msgstr "layout_3_only_text"
+
+msgctxt "Languages::description::layout_4_slide_of_image"
+msgid "layout_4_slide_of_image"
+msgstr "layout_4_slide_of_image"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "please_select_tour"
+msgstr "please_select_tour"
+
+msgctxt "Languages::description::select_tour"
+msgid "select_tour"
+msgstr "select_tour"
+
+msgctxt "Languages::description::display_order"
+msgid "display_order"
+msgstr "display_order"
+
+msgctxt "Languages::description::manage_monitor"
+msgid "manage_monitor"
+msgstr "manage_monitor"
+
+msgctxt "Languages::description::movie"
+msgid "movie"
+msgstr "movie"
+
+msgctxt "Languages::description::monitor"
+msgid "monitor"
+msgstr "monitor"
+
+msgctxt "Languages::description::member_login_success"
+msgid "member_login_success"
+msgstr "member_login_success"
+
+msgctxt "Languages::description::member_logout"
+msgid "member_logout"
+msgstr "member_logout"
+
+msgctxt "Languages::description::member_logout_success"
+msgid "member_logout_success"
+msgstr "member_logout_success"
+
+msgctxt "Languages::description::logout_from_app"
+msgid "logout_from_app"
+msgstr "logout_from_app"
+
+msgctxt "Languages::description::logout"
+msgid "logout"
+msgstr "logout"
+
+msgctxt "Languages::description::change_basic_info"
+msgid "change_basic_info"
+msgstr "change_basic_info"
+
+msgctxt "Languages::description::change_email_address"
+msgid "change_email_address"
+msgstr "change_email_address"
+
+msgctxt "Languages::description::change_password"
+msgid "change_password"
+msgstr "change_password"
+
+msgctxt "Languages::description::forgot_password"
+msgid "forgot_password"
+msgstr "forgot_password"
+
+msgctxt "Languages::description::change_linked_service_registration"
+msgid "change_linked_service_registration"
+msgstr "change_linked_service_registration"
+
+msgctxt "Languages::description::withdraw"
+msgid "withdraw"
+msgstr "withdraw"
+
+msgctxt "Languages::description::member_info"
+msgid "member_info"
+msgstr "member_info"
+
+msgctxt "Languages::description::basic_name"
+msgid "basic_name"
+msgstr "basic_name"
+
+msgctxt "Languages::description::basic_phone"
+msgid "basic_phone"
+msgstr "basic_phone"
+
+msgctxt "Languages::description::basic_address"
+msgid "basic_address"
+msgstr "basic_address"
+
+msgctxt "Languages::description::basic_etc"
+msgid "basic_etc"
+msgstr "basic_etc"
+
+msgctxt "Languages::description::basic_connect"
+msgid "basic_connect"
+msgstr "basic_connect"
+
+msgctxt "Languages::description::you_can_easily_login_with_your_id"
+msgid "you_can_easily_login_with_your_id"
+msgstr "you_can_easily_login_with_your_id"
+
+msgctxt "Languages::description::tmc_e_member"
+msgid "tmc_e_member"
+msgstr "tmc_e_member"
+
+msgctxt "Languages::description::login_register"
+msgid "login_register"
+msgstr "login_register"
+
+msgctxt "Languages::description::note_login_fun_club"
+msgid "note_login_fun_club"
+msgstr "note_login_fun_club"
+
+msgctxt "Languages::description::cancel_login"
+msgid "cancel_login"
+msgstr "cancel_login"
+
+msgctxt "Languages::description::register_new_link_members"
+msgid "register_new_link_members"
+msgstr "register_new_link_members"
+
+msgctxt "Languages::description::note_register_new_link_members"
+msgid "note_register_new_link_members"
+msgstr "note_register_new_link_members"
+
+msgctxt "Languages::description::register_new"
+msgid "register_new"
+msgstr "register_new"
+
+msgctxt "Languages::description::register_guide1"
+msgid "register_guide1"
+msgstr "register_guide1"
+
+msgctxt "Languages::description::register_guide1_note"
+msgid "register_guide1_note"
+msgstr "register_guide1_note"
+
+msgctxt "Languages::description::register_guide3"
+msgid "register_guide3"
+msgstr "register_guide3"
+
+msgctxt "Languages::description::link_login_eplus"
+msgid "link_login_eplus"
+msgstr "link_login_eplus"
+
+msgctxt "Languages::description::note_login_suku"
+msgid "note_login_suku"
+msgstr "note_login_suku"
+
+msgctxt "Languages::description::note_do_not_know_id_login"
+msgid "note_do_not_know_id_login"
+msgstr "note_do_not_know_id_login"
+
+msgctxt "Languages::description::note_login"
+msgid "note_login"
+msgstr "note_login"
+
+msgctxt "Languages::description::note_login_eplus"
+msgid "note_login_eplus"
+msgstr "note_login_eplus"
+
+msgctxt "Languages::description::for_the_first_time_users"
+msgid "for_the_first_time_users"
+msgstr "for_the_first_time_users"
+
+msgctxt "Languages::description::register_guide2"
+msgid "register_guide2"
+msgstr "register_guide2"
+
+msgctxt "Languages::description::member_register_mobile_phone"
+msgid "member_register_mobile_phone"
+msgstr "member_register_mobile_phone"
+
+msgctxt "Languages::description::member_consent_register_eplus"
+msgid "member_consent_register_eplus"
+msgstr "member_consent_register_eplus"
+
+msgctxt "Languages::description::register_mobile_phone_number"
+msgid "register_mobile_phone_number"
+msgstr "register_mobile_phone_number"
+
+msgctxt "Languages::description::note_register_mobile_phone_number"
+msgid "note_register_mobile_phone_number"
+msgstr "note_register_mobile_phone_number"
+
+msgctxt "Languages::description::mobile_phone_number"
+msgid "mobile_phone_number"
+msgstr "mobile_phone_number"
+
+msgctxt "Languages::description::default_register"
+msgid "default_register"
+msgstr "default_register"
+
+msgctxt "Languages::description::field_mobile_phone_number"
+msgid "field_mobile_phone_number"
+msgstr "field_mobile_phone_number"
+
+msgctxt "Languages::description::logout_1"
+msgid "logout_1"
+msgstr "logout_1"
+
+msgctxt "Languages::description::logout_2"
+msgid "logout_2"
+msgstr "logout_2"
+
+msgctxt "Languages::description::member_advance"
+msgid "member_advance"
+msgstr "member_advance"
+
+msgctxt "Languages::description::cart_attentions"
+msgid "cart_attentions"
+msgstr "cart_attentions"
+
+msgctxt "Languages::description::total_cost"
+msgid "total_cost"
+msgstr "total_cost"
+
+msgctxt "Languages::description::including_charge"
+msgid "including_charge"
+msgstr "including_charge"
+
+msgctxt "Languages::description::advanced_checkout_seat"
+msgid "advanced_checkout_seat"
+msgstr "advanced_checkout_seat"
+
+msgctxt "Languages::description::print"
+msgid "print"
+msgstr "print"
+
+msgctxt "Languages::description::booth_name"
+msgid "booth_name"
+msgstr "booth_name"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "text_cart_limit_number_ticket"
+msgstr "text_cart_limit_number_ticket"
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "text_cart_quantity_step"
+msgstr "text_cart_quantity_step"
+
+msgctxt "Languages::description::category_title"
+msgid "category_title"
+msgstr "category_title"
+
+msgctxt "Languages::description::complete_title"
+msgid "complete_title"
+msgstr "complete_title"
+
+msgctxt "Languages::description::order_history_title"
+msgid "order_history_title"
+msgstr "order_history_title"
+
+msgctxt "Languages::description::order_history"
+msgid "order_history"
+msgstr "order_history"
+
+msgctxt "Languages::description::order_detail_title"
+msgid "order_detail_title"
+msgstr "order_detail_title"
+
+msgctxt "Languages::description::tab_multi_field"
+msgid "tab_multi_field"
+msgstr "tab_multi_field"
+
+msgctxt "Languages::description::add_tab_row"
+msgid "add_tab_row"
+msgstr "add_tab_row"
+
+msgctxt "Languages::description::jp_back_in_stock_add_email"
+msgid "jp_back_in_stock_add_email"
+msgstr "jp_back_in_stock_add_email"
+
+msgctxt "Languages::description::schedule_no_result"
+msgid "schedule_no_result"
+msgstr "schedule_no_result"
+
+msgctxt "Languages::description::end_of_sale"
+msgid "end_of_sale"
+msgstr "end_of_sale"
+
+msgctxt "Languages::description::center"
+msgid "center"
+msgstr "center"
+
+msgctxt "Languages::description::login_fail"
+msgid "login_fail"
+msgstr "login_fail"
+
+msgctxt "Languages::description::coupon_title_share"
+msgid "coupon_title_share"
+msgstr "coupon_title_share"
+
+msgctxt "Languages::description::coupon_title_invite"
+msgid "coupon_title_invite"
+msgstr "coupon_title_invite"
+
+msgctxt "Languages::description::coupon_how_to_use"
+msgid "coupon_how_to_use"
+msgstr "coupon_how_to_use"
+
+msgctxt "Languages::description::coupon_download_app"
+msgid "coupon_download_app"
+msgstr "coupon_download_app"
+
+msgctxt "Languages::description::coupon_share_sns"
+msgid "coupon_share_sns"
+msgstr "coupon_share_sns"
+
+msgctxt "Languages::description::coupon_user_invited"
+msgid "coupon_user_invited"
+msgstr "coupon_user_invited"
+
+msgctxt "Languages::description::coupon_invited_user"
+msgid "coupon_invited_user"
+msgstr "coupon_invited_user"
+
+msgctxt "Languages::description::promotion_template_delivery_timing"
+msgid "promotion_template_delivery_timing"
+msgstr "promotion_template_delivery_timing"
+
+msgctxt "Languages::description::promotion_template_delivery_period"
+msgid "promotion_template_delivery_period"
+msgstr "promotion_template_delivery_period"
+
+msgctxt "Languages::description::promotion_template_available_time"
+msgid "promotion_template_available_time"
+msgstr "promotion_template_available_time"
+
+msgctxt "Languages::description::coupon_status"
+msgid "coupon_status"
+msgstr "coupon_status"
+
+msgctxt "Languages::description::promotion_template"
+msgid "promotion_template"
+msgstr "promotion_template"
+
+msgctxt "Languages::description::promotion_template_menu_description"
+msgid "promotion_template_menu_description"
+msgstr "promotion_template_menu_description"
+
+msgctxt "Languages::description::promotions"
+msgid "promotions"
+msgstr "promotions"
+
+msgctxt "Languages::description::currency_deleted"
+msgid "currency_deleted"
+msgstr "currency_deleted"
+
+msgctxt "Languages::description::successful"
+msgid "successful"
+msgstr "successful"
+
+msgctxt "Languages::description::coupon_type"
+msgid "coupon_type"
+msgstr "coupon_type"
+
+msgctxt "Languages::description::coupon_add_title"
+msgid "coupon_add_title"
+msgstr "coupon_add_title"
+
+msgctxt "Languages::description::coupon_yen"
+msgid "coupon_yen"
+msgstr "coupon_yen"
+
+msgctxt "Languages::description::coupon_detailed_description"
+msgid "coupon_detailed_description"
+msgstr "coupon_detailed_description"
+
+msgctxt "Languages::description::use_avail_period"
+msgid "use_avail_period"
+msgstr "use_avail_period"
+
+msgctxt "Languages::description::coupon_edit_title"
+msgid "coupon_edit_title"
+msgstr "coupon_edit_title"
+
+msgctxt "Languages::description::coupon_use_avail_period"
+msgid "coupon_use_avail_period"
+msgstr "coupon_use_avail_period"
+
+msgctxt "Languages::description::coupon_condition"
+msgid "coupon_condition"
+msgstr "coupon_condition"
+
+msgctxt "Languages::description::coupon_notes"
+msgid "coupon_notes"
+msgstr "coupon_notes"
+
+msgctxt "Languages::description::coupon_bonus"
+msgid "coupon_bonus"
+msgstr "coupon_bonus"
+
+msgctxt "Languages::description::coupon_discount_amount"
+msgid "coupon_discount_amount"
+msgstr "coupon_discount_amount"
+
+msgctxt "Languages::description::promotion_template_delivery_time"
+msgid "promotion_template_delivery_time"
+msgstr "promotion_template_delivery_time"
+
+msgctxt "Languages::description::promotion_delivery_from"
+msgid "promotion_delivery_from"
+msgstr "promotion_delivery_from"
+
+msgctxt "Languages::description::promotion_delivery_to"
+msgid "promotion_delivery_to"
+msgstr "promotion_delivery_to"
+
+msgctxt "Languages::description::coupon_bonus_cash_back"
+msgid "coupon_bonus_cash_back"
+msgstr "coupon_bonus_cash_back"
+
+msgctxt "Languages::description::coupon_bonus_drink_good_present"
+msgid "coupon_bonus_drink_good_present"
+msgstr "coupon_bonus_drink_good_present"
+
+msgctxt "Languages::description::coupon_avail_from"
+msgid "coupon_avail_from"
+msgstr "coupon_avail_from"
+
+msgctxt "Languages::description::coupon_avail_to"
+msgid "coupon_avail_to"
+msgstr "coupon_avail_to"
+
+msgctxt "Languages::description::coming_soon_event"
+msgid "coming_soon_event"
+msgstr "coming_soon_event"
+
+msgctxt "Languages::description::text_combination_out_of_stock"
+msgid "text_combination_out_of_stock"
+msgstr "text_combination_out_of_stock"
+
+msgctxt "Languages::description::custom_guidance_mail"
+msgid "custom_guidance_mail"
+msgstr "custom_guidance_mail"
+
+msgctxt "Languages::description::product_national_resident_forbiden"
+msgid "product_national_resident_forbiden"
+msgstr "product_national_resident_forbiden"
+
+msgctxt "Languages::description::select_gender"
+msgid "select_gender"
+msgstr "select_gender"
+
+msgctxt "Languages::description::select_prefecture_code"
+msgid "select_prefecture_code"
+msgstr "select_prefecture_code"
+
+msgctxt "Languages::description::male"
+msgid "male"
+msgstr "male"
+
+msgctxt "Languages::description::female"
+msgid "female"
+msgstr "female"
+
+msgctxt "Languages::description::footer_1_1"
+msgid "footer_1_1"
+msgstr "footer_1_1"
+
+msgctxt "Languages::description::footer_1_2"
+msgid "footer_1_2"
+msgstr "footer_1_2"
+
+msgctxt "Languages::description::footer_1_3"
+msgid "footer_1_3"
+msgstr "footer_1_3"
+
+msgctxt "Languages::description::footer_1_4"
+msgid "footer_1_4"
+msgstr "footer_1_4"
+
+msgctxt "Languages::description::footer_1_5"
+msgid "footer_1_5"
+msgstr "footer_1_5"
+
+msgctxt "Languages::description::footer_2_1"
+msgid "footer_2_1"
+msgstr "footer_2_1"
+
+msgctxt "Languages::description::footer_2_2"
+msgid "footer_2_2"
+msgstr "footer_2_2"
+
+msgctxt "Languages::description::footer_2_3"
+msgid "footer_2_3"
+msgstr "footer_2_3"
+
+msgctxt "Languages::description::footer_2_4"
+msgid "footer_2_4"
+msgstr "footer_2_4"
+
+msgctxt "Languages::description::footer_2_5"
+msgid "footer_2_5"
+msgstr "footer_2_5"
+
+msgctxt "Languages::description::footer_3_1"
+msgid "footer_3_1"
+msgstr "footer_3_1"
+
+msgctxt "Languages::description::footer_3_2"
+msgid "footer_3_2"
+msgstr "footer_3_2"
+
+msgctxt "Languages::description::footer_3_3"
+msgid "footer_3_3"
+msgstr "footer_3_3"
+
+msgctxt "Languages::description::footer_3_4"
+msgid "footer_3_4"
+msgstr "footer_3_4"
+
+msgctxt "Languages::description::footer_3_5"
+msgid "footer_3_5"
+msgstr "footer_3_5"
+
+msgctxt "Languages::description::footer_4_1"
+msgid "footer_4_1"
+msgstr "footer_4_1"
+
+msgctxt "Languages::description::footer_4_2"
+msgid "footer_4_2"
+msgstr "footer_4_2"
+
+msgctxt "Languages::description::footer_4_3"
+msgid "footer_4_3"
+msgstr "footer_4_3"
+
+msgctxt "Languages::description::footer_4_4"
+msgid "footer_4_4"
+msgstr "footer_4_4"
+
+msgctxt "Languages::description::top_menu_1"
+msgid "top_menu_1"
+msgstr "top_menu_1"
+
+msgctxt "Languages::description::top_menu_2"
+msgid "top_menu_2"
+msgstr "top_menu_2"
+
+msgctxt "Languages::description::top_menu_3"
+msgid "top_menu_3"
+msgstr "top_menu_3"
+
+msgctxt "Languages::description::top_menu_4"
+msgid "top_menu_4"
+msgstr "top_menu_4"
+
+msgctxt "Languages::description::top_menu_5"
+msgid "top_menu_5"
+msgstr "top_menu_5"
+
+msgctxt "Languages::description::top_menu_6"
+msgid "top_menu_6"
+msgstr "top_menu_6"
+
+msgctxt "Languages::description::top_menu_7"
+msgid "top_menu_7"
+msgstr "top_menu_7"
+
+msgctxt "Languages::description::top_menu_8"
+msgid "top_menu_8"
+msgstr "top_menu_8"
+
+msgctxt "Languages::description::tmc_app"
+msgid "tmc_app"
+msgstr "tmc_app"
+
+msgctxt "Languages::description::buy_ticket"
+msgid "buy_ticket"
+msgstr "buy_ticket"
+
+msgctxt "Languages::description::consent_for_connecting"
+msgid "consent_for_connecting"
+msgstr "consent_for_connecting"
+
+msgctxt "Languages::description::member_info_will_be_created"
+msgid "member_info_will_be_created"
+msgstr "member_info_will_be_created"
+
+msgctxt "Languages::description::successful_connect_e_plus"
+msgid "successful_connect_e_plus"
+msgstr "successful_connect_e_plus"
+
+msgctxt "Languages::description::register_for_a_membership"
+msgid "register_for_a_membership"
+msgstr "register_for_a_membership"
+
+msgctxt "Languages::description::please_register_e_plus"
+msgid "please_register_e_plus"
+msgstr "please_register_e_plus"
+
+msgctxt "Languages::description::agree"
+msgid "agree"
+msgstr "agree"
+
+msgctxt "Languages::description::email"
+msgid "email"
+msgstr "email"
+
+msgctxt "Languages::description::b_phone"
+msgid "b_phone"
+msgstr "b_phone"
+
+msgctxt "Languages::description::b_firstname"
+msgid "b_firstname"
+msgstr "b_firstname"
+
+msgctxt "Languages::description::b_lastname"
+msgid "b_lastname"
+msgstr "b_lastname"
+
+msgctxt "Languages::description::b_first_kana_name"
+msgid "b_first_kana_name"
+msgstr "b_first_kana_name"
+
+msgctxt "Languages::description::b_last_kana_name"
+msgid "b_last_kana_name"
+msgstr "b_last_kana_name"
+
+msgctxt "Languages::description::b_zipcode"
+msgid "b_zipcode"
+msgstr "b_zipcode"
+
+msgctxt "Languages::description::b_prefecture_code"
+msgid "b_prefecture_code"
+msgstr "b_prefecture_code"
+
+msgctxt "Languages::description::b_birth_year"
+msgid "b_birth_year"
+msgstr "b_birth_year"
+
+msgctxt "Languages::description::b_gender"
+msgid "b_gender"
+msgstr "b_gender"
+
+msgctxt "Languages::description::order_id"
+msgid "order_id"
+msgstr "order_id"
+
+msgctxt "Languages::description::description"
+msgid "description"
+msgstr "description"
+
+msgctxt "Languages::description::jp_cc_method"
+msgid "jp_cc_method"
+msgstr "jp_cc_method"
+
+msgctxt "Languages::description::jp_cc_onetime"
+msgid "jp_cc_onetime"
+msgstr "jp_cc_onetime"
+
+msgctxt "Languages::description::connect_fail"
+msgid "connect_fail"
+msgstr "connect_fail"
+
+msgctxt "Languages::description::note_login_description"
+msgid "note_login_description"
+msgstr "note_login_description"
+
+msgctxt "Languages::description::register_new_guide1"
+msgid "register_new_guide1"
+msgstr "register_new_guide1"
+
+msgctxt "Languages::description::register_new_guide2"
+msgid "register_new_guide2"
+msgstr "register_new_guide2"
+
+msgctxt "Languages::description::register_new_guide3_1"
+msgid "register_new_guide3_1"
+msgstr "register_new_guide3_1"
+
+msgctxt "Languages::description::register_new_guide3_2"
+msgid "register_new_guide3_2"
+msgstr "register_new_guide3_2"
+
+msgctxt "Languages::description::footer_5_1"
+msgid "footer_5_1"
+msgstr "footer_5_1"
+
+msgctxt "Languages::description::footer_5_2"
+msgid "footer_5_2"
+msgstr "footer_5_2"
+
+msgctxt "Languages::description::footer_5_3"
+msgid "footer_5_3"
+msgstr "footer_5_3"
+
+msgctxt "Languages::description::footer_5_4"
+msgid "footer_5_4"
+msgstr "footer_5_4"
+
+msgctxt "Languages::description::fan_club"
+msgid "fan_club"
+msgstr "fan_club"
+
+msgctxt "Languages::description::title_print_invoice"
+msgid "title_print_invoice"
+msgstr "title_print_invoice"
+
+msgctxt "Languages::description::coming_soon_fan_club"
+msgid "coming_soon_fan_club"
+msgstr "coming_soon_fan_club"
+
+msgctxt "Languages::description::general"
+msgid "general"
+msgstr "general"
+
+msgctxt "Languages::description::elm_connection_information"
+msgid "elm_connection_information"
+msgstr "elm_connection_information"
+
+msgctxt "Languages::description::merchant_id"
+msgid "merchant_id"
+msgstr "merchant_id"
+
+msgctxt "Languages::description::merchant_pass"
+msgid "merchant_pass"
+msgstr "merchant_pass"
+
+msgctxt "Languages::description::tenant_id"
+msgid "tenant_id"
+msgstr "tenant_id"
+
+msgctxt "Languages::description::pending_status"
+msgid "pending_status"
+msgstr "pending_status"
+
+msgctxt "Languages::description::jp_sln_cc_1auth"
+msgid "jp_sln_cc_1auth"
+msgstr "jp_sln_cc_1auth"
+
+msgctxt "Languages::description::jp_sln_cc_1gathering"
+msgid "jp_sln_cc_1gathering"
+msgstr "jp_sln_cc_1gathering"
+
+msgctxt "Languages::description::jp_sln_cc_approve_no"
+msgid "jp_sln_cc_approve_no"
+msgstr "jp_sln_cc_approve_no"
+
+msgctxt "Languages::description::jp_sln_cc_auth"
+msgid "jp_sln_cc_auth"
+msgstr "jp_sln_cc_auth"
+
+msgctxt "Languages::description::jp_sln_cc_auth_amount"
+msgid "jp_sln_cc_auth_amount"
+msgstr "jp_sln_cc_auth_amount"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel"
+msgid "jp_sln_cc_auth_cancel"
+msgstr "jp_sln_cc_auth_cancel"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_error"
+msgid "jp_sln_cc_auth_cancel_error"
+msgstr "jp_sln_cc_auth_cancel_error"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_failed"
+msgid "jp_sln_cc_auth_cancel_failed"
+msgstr "jp_sln_cc_auth_cancel_failed"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancelled"
+msgid "jp_sln_cc_auth_cancelled"
+msgstr "jp_sln_cc_auth_cancelled"
+
+msgctxt "Languages::description::jp_sln_cc_auth_ng"
+msgid "jp_sln_cc_auth_ng"
+msgstr "jp_sln_cc_auth_ng"
+
+msgctxt "Languages::description::jp_sln_cc_auth_only"
+msgid "jp_sln_cc_auth_only"
+msgstr "jp_sln_cc_auth_only"
+
+msgctxt "Languages::description::jp_sln_cc_bonus"
+msgid "jp_sln_cc_bonus"
+msgstr "jp_sln_cc_bonus"
+
+msgctxt "Languages::description::jp_sln_cc_capture"
+msgid "jp_sln_cc_capture"
+msgstr "jp_sln_cc_capture"
+
+msgctxt "Languages::description::jp_sln_cc_change"
+msgid "jp_sln_cc_change"
+msgstr "jp_sln_cc_change"
+
+msgctxt "Languages::description::jp_sln_cc_check"
+msgid "jp_sln_cc_check"
+msgstr "jp_sln_cc_check"
+
+msgctxt "Languages::description::jp_sln_cc_company_code"
+msgid "jp_sln_cc_company_code"
+msgstr "jp_sln_cc_company_code"
+
+msgctxt "Languages::description::jp_sln_cc_data_not_exists"
+msgid "jp_sln_cc_data_not_exists"
+msgstr "jp_sln_cc_data_not_exists"
+
+msgctxt "Languages::description::jp_sln_cc_delete"
+msgid "jp_sln_cc_delete"
+msgstr "jp_sln_cc_delete"
+
+msgctxt "Languages::description::jp_sln_cc_error"
+msgid "jp_sln_cc_error"
+msgstr "jp_sln_cc_error"
+
+msgctxt "Languages::description::jp_sln_cc_error_code"
+msgid "jp_sln_cc_error_code"
+msgstr "jp_sln_cc_error_code"
+
+msgctxt "Languages::description::jp_sln_cc_failed"
+msgid "jp_sln_cc_failed"
+msgstr "jp_sln_cc_failed"
+
+msgctxt "Languages::description::jp_sln_cc_gathering"
+msgid "jp_sln_cc_gathering"
+msgstr "jp_sln_cc_gathering"
+
+msgctxt "Languages::description::jp_sln_cc_invalid"
+msgid "jp_sln_cc_invalid"
+msgstr "jp_sln_cc_invalid"
+
+msgctxt "Languages::description::jp_sln_cc_manager"
+msgid "jp_sln_cc_manager"
+msgstr "jp_sln_cc_manager"
+
+msgctxt "Languages::description::jp_sln_cc_notice"
+msgid "jp_sln_cc_notice"
+msgstr "jp_sln_cc_notice"
+
+msgctxt "Languages::description::jp_sln_cc_payment_settings"
+msgid "jp_sln_cc_payment_settings"
+msgstr "jp_sln_cc_payment_settings"
+
+msgctxt "Languages::description::jp_sln_cc_process_type"
+msgid "jp_sln_cc_process_type"
+msgstr "jp_sln_cc_process_type"
+
+msgctxt "Languages::description::jp_sln_cc_reauth"
+msgid "jp_sln_cc_reauth"
+msgstr "jp_sln_cc_reauth"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info"
+msgid "jp_sln_cc_register_card_info"
+msgstr "jp_sln_cc_register_card_info"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info_use"
+msgid "jp_sln_cc_register_card_info_use"
+msgstr "jp_sln_cc_register_card_info_use"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel"
+msgid "jp_sln_cc_sales_cancel"
+msgstr "jp_sln_cc_sales_cancel"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_error"
+msgid "jp_sln_cc_sales_cancel_error"
+msgstr "jp_sln_cc_sales_cancel_error"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_failed"
+msgid "jp_sln_cc_sales_cancel_failed"
+msgstr "jp_sln_cc_sales_cancel_failed"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancelled"
+msgid "jp_sln_cc_sales_cancelled"
+msgstr "jp_sln_cc_sales_cancelled"
+
+msgctxt "Languages::description::jp_sln_cc_sales_completed"
+msgid "jp_sln_cc_sales_completed"
+msgstr "jp_sln_cc_sales_completed"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm"
+msgid "jp_sln_cc_sales_confirm"
+msgstr "jp_sln_cc_sales_confirm"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_error"
+msgid "jp_sln_cc_sales_confirm_error"
+msgstr "jp_sln_cc_sales_confirm_error"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_failed"
+msgid "jp_sln_cc_sales_confirm_failed"
+msgstr "jp_sln_cc_sales_confirm_failed"
+
+msgctxt "Languages::description::jp_sln_cc_search"
+msgid "jp_sln_cc_search"
+msgstr "jp_sln_cc_search"
+
+msgctxt "Languages::description::jp_sln_cc_status"
+msgid "jp_sln_cc_status"
+msgstr "jp_sln_cc_status"
+
+msgctxt "Languages::description::jp_sln_cc_use_cvv"
+msgid "jp_sln_cc_use_cvv"
+msgstr "jp_sln_cc_use_cvv"
+
+msgctxt "Languages::description::jp_sln_cc_what_is_security_code"
+msgid "jp_sln_cc_what_is_security_code"
+msgstr "jp_sln_cc_what_is_security_code"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_card_info"
+msgid "jp_sln_ccreg_delete_card_info"
+msgstr "jp_sln_ccreg_delete_card_info"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_failed"
+msgid "jp_sln_ccreg_delete_failed"
+msgstr "jp_sln_ccreg_delete_failed"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_success"
+msgid "jp_sln_ccreg_delete_success"
+msgstr "jp_sln_ccreg_delete_success"
+
+msgctxt "Languages::description::jp_sln_ccreg_error"
+msgid "jp_sln_ccreg_error"
+msgstr "jp_sln_ccreg_error"
+
+msgctxt "Languages::description::jp_sln_ccreg_error_code"
+msgid "jp_sln_ccreg_error_code"
+msgstr "jp_sln_ccreg_error_code"
+
+msgctxt "Languages::description::jp_sln_ccreg_no_card_info"
+msgid "jp_sln_ccreg_no_card_info"
+msgstr "jp_sln_ccreg_no_card_info"
+
+msgctxt "Languages::description::jp_sln_ccreg_notice"
+msgid "jp_sln_ccreg_notice"
+msgstr "jp_sln_ccreg_notice"
+
+msgctxt "Languages::description::jp_sln_ccreg_register_failed"
+msgid "jp_sln_ccreg_register_failed"
+msgstr "jp_sln_ccreg_register_failed"
+
+msgctxt "Languages::description::jp_sln_ccreg_register_success"
+msgid "jp_sln_ccreg_register_success"
+msgstr "jp_sln_ccreg_register_success"
+
+msgctxt "Languages::description::jp_sln_ccreg_registered_card"
+msgid "jp_sln_ccreg_registered_card"
+msgstr "jp_sln_ccreg_registered_card"
+
+msgctxt "Languages::description::jp_sln_connections_settings"
+msgid "jp_sln_connections_settings"
+msgstr "jp_sln_connections_settings"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_atm"
+msgid "jp_sln_daiko_cvscd_atm"
+msgstr "jp_sln_daiko_cvscd_atm"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_cck"
+msgid "jp_sln_daiko_cvscd_cck"
+msgstr "jp_sln_daiko_cvscd_cck"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_day"
+msgid "jp_sln_daiko_cvscd_day"
+msgstr "jp_sln_daiko_cvscd_day"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_ebk"
+msgid "jp_sln_daiko_cvscd_ebk"
+msgstr "jp_sln_daiko_cvscd_ebk"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_edy"
+msgid "jp_sln_daiko_cvscd_edy"
+msgstr "jp_sln_daiko_cvscd_edy"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fam"
+msgid "jp_sln_daiko_cvscd_fam"
+msgstr "jp_sln_daiko_cvscd_fam"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fff"
+msgid "jp_sln_daiko_cvscd_fff"
+msgstr "jp_sln_daiko_cvscd_fff"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jib"
+msgid "jp_sln_daiko_cvscd_jib"
+msgstr "jp_sln_daiko_cvscd_jib"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jnb"
+msgid "jp_sln_daiko_cvscd_jnb"
+msgstr "jp_sln_daiko_cvscd_jnb"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lnk"
+msgid "jp_sln_daiko_cvscd_lnk"
+msgstr "jp_sln_daiko_cvscd_lnk"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lsn"
+msgid "jp_sln_daiko_cvscd_lsn"
+msgstr "jp_sln_daiko_cvscd_lsn"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_mns"
+msgid "jp_sln_daiko_cvscd_mns"
+msgstr "jp_sln_daiko_cvscd_mns"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_onl"
+msgid "jp_sln_daiko_cvscd_onl"
+msgstr "jp_sln_daiko_cvscd_onl"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sak"
+msgid "jp_sln_daiko_cvscd_sak"
+msgstr "jp_sln_daiko_cvscd_sak"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_scm"
+msgid "jp_sln_daiko_cvscd_scm"
+msgstr "jp_sln_daiko_cvscd_scm"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sev"
+msgid "jp_sln_daiko_cvscd_sev"
+msgstr "jp_sln_daiko_cvscd_sev"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_snb"
+msgid "jp_sln_daiko_cvscd_snb"
+msgstr "jp_sln_daiko_cvscd_snb"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sui"
+msgid "jp_sln_daiko_cvscd_sui"
+msgstr "jp_sln_daiko_cvscd_sui"
+
+msgctxt "Languages::description::jp_sln_daiko_cvsname"
+msgid "jp_sln_daiko_cvsname"
+msgstr "jp_sln_daiko_cvsname"
+
+msgctxt "Languages::description::jp_sln_daiko_deleted"
+msgid "jp_sln_daiko_deleted"
+msgstr "jp_sln_daiko_deleted"
+
+msgctxt "Languages::description::jp_sln_daiko_error"
+msgid "jp_sln_daiko_error"
+msgstr "jp_sln_daiko_error"
+
+msgctxt "Languages::description::jp_sln_daiko_error_code"
+msgid "jp_sln_daiko_error_code"
+msgstr "jp_sln_daiko_error_code"
+
+msgctxt "Languages::description::jp_sln_daiko_failed"
+msgid "jp_sln_daiko_failed"
+msgstr "jp_sln_daiko_failed"
+
+msgctxt "Languages::description::jp_sln_daiko_info"
+msgid "jp_sln_daiko_info"
+msgstr "jp_sln_daiko_info"
+
+msgctxt "Languages::description::jp_sln_daiko_instruction"
+msgid "jp_sln_daiko_instruction"
+msgstr "jp_sln_daiko_instruction"
+
+msgctxt "Languages::description::jp_sln_daiko_invalid"
+msgid "jp_sln_daiko_invalid"
+msgstr "jp_sln_daiko_invalid"
+
+msgctxt "Languages::description::jp_sln_daiko_kessai_number"
+msgid "jp_sln_daiko_kessai_number"
+msgstr "jp_sln_daiko_kessai_number"
+
+msgctxt "Languages::description::jp_sln_daiko_not_changeable"
+msgid "jp_sln_daiko_not_changeable"
+msgstr "jp_sln_daiko_not_changeable"
+
+msgctxt "Languages::description::jp_sln_daiko_notice"
+msgid "jp_sln_daiko_notice"
+msgstr "jp_sln_daiko_notice"
+
+msgctxt "Languages::description::jp_sln_daiko_nyukindate"
+msgid "jp_sln_daiko_nyukindate"
+msgstr "jp_sln_daiko_nyukindate"
+
+msgctxt "Languages::description::jp_sln_daiko_paid_amount"
+msgid "jp_sln_daiko_paid_amount"
+msgstr "jp_sln_daiko_paid_amount"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit"
+msgid "jp_sln_daiko_paylimit"
+msgstr "jp_sln_daiko_paylimit"
+
+msgctxt "Languages::description::jp_sln_daiko_order_note"
+msgid "jp_sln_daiko_order_note"
+msgstr "jp_sln_daiko_order_note"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_note"
+msgid "jp_sln_daiko_paylimit_note"
+msgstr "jp_sln_daiko_paylimit_note"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_prefix"
+msgid "jp_sln_daiko_paylimit_prefix"
+msgstr "jp_sln_daiko_paylimit_prefix"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_suffix"
+msgid "jp_sln_daiko_paylimit_suffix"
+msgstr "jp_sln_daiko_paylimit_suffix"
+
+msgctxt "Languages::description::jp_sln_daiko_payment_settings"
+msgid "jp_sln_daiko_payment_settings"
+msgstr "jp_sln_daiko_payment_settings"
+
+msgctxt "Languages::description::jp_sln_daiko_recvnum"
+msgid "jp_sln_daiko_recvnum"
+msgstr "jp_sln_daiko_recvnum"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp"
+msgid "jp_sln_daiko_stamp"
+msgstr "jp_sln_daiko_stamp"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_no"
+msgid "jp_sln_daiko_stamp_no"
+msgstr "jp_sln_daiko_stamp_no"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_yes"
+msgid "jp_sln_daiko_stamp_yes"
+msgstr "jp_sln_daiko_stamp_yes"
+
+msgctxt "Languages::description::jp_sln_daiko_tenant_code"
+msgid "jp_sln_daiko_tenant_code"
+msgstr "jp_sln_daiko_tenant_code"
+
+msgctxt "Languages::description::jp_sln_security_code"
+msgid "jp_sln_security_code"
+msgstr "jp_sln_security_code"
+
+msgctxt "Languages::description::jp_sln_security_code_is_empty"
+msgid "jp_sln_security_code_is_empty"
+msgstr "jp_sln_security_code_is_empty"
+
+msgctxt "Languages::description::jp_sln_transaction_date"
+msgid "jp_sln_transaction_date"
+msgstr "jp_sln_transaction_date"
+
+msgctxt "Languages::description::jp_sln_transaction_id"
+msgid "jp_sln_transaction_id"
+msgstr "jp_sln_transaction_id"
+
+msgctxt "Languages::description::in_stock"
+msgid "in_stock"
+msgstr "in_stock"
+
+msgctxt "Languages::description::sold_out"
+msgid "sold_out"
+msgstr "sold_out"
+
+msgctxt "Languages::description::option_name_0"
+msgid "option_name_0"
+msgstr "option_name_0"
+
+msgctxt "Languages::description::option_name_1"
+msgid "option_name_1"
+msgstr "option_name_1"
+
+msgctxt "Languages::description::event_time_seat_type"
+msgid "event_time_seat_type"
+msgstr "event_time_seat_type"
+
+msgctxt "Languages::description::option_name_2"
+msgid "option_name_2"
+msgstr "option_name_2"
+
+msgctxt "Languages::description::text_out_of_stock"
+msgid "text_out_of_stock"
+msgstr "text_out_of_stock"
+
+msgctxt "Languages::description::placeholder_b_firstname"
+msgid "placeholder_b_firstname"
+msgstr "placeholder_b_firstname"
+
+msgctxt "Languages::description::placeholder_b_lastname"
+msgid "placeholder_b_lastname"
+msgstr "placeholder_b_lastname"
+
+msgctxt "Languages::description::placeholder_b_last_kana_name"
+msgid "placeholder_b_last_kana_name"
+msgstr "placeholder_b_last_kana_name"
+
+msgctxt "Languages::description::placeholder_b_first_kana_name"
+msgid "placeholder_b_first_kana_name"
+msgstr "placeholder_b_first_kana_name"
+
+msgctxt "Languages::description::placeholder_b_birth_year"
+msgid "placeholder_b_birth_year"
+msgstr "placeholder_b_birth_year"
+
+msgctxt "Languages::description::placeholder_email"
+msgid "placeholder_email"
+msgstr "placeholder_email"
+
+msgctxt "Languages::description::placeholder_b_phone"
+msgid "placeholder_b_phone"
+msgstr "placeholder_b_phone"
+
+msgctxt "Languages::description::placeholder_b_zipcode"
+msgid "placeholder_b_zipcode"
+msgstr "placeholder_b_zipcode"
+
+msgctxt "Languages::description::promoter_export_order_list"
+msgid "promoter_export_order_list"
+msgstr "promoter_export_order_list"
+
+msgctxt "Languages::description::status_update"
+msgid "status_update"
+msgstr "status_update"
+
+msgctxt "Languages::description::sbps_memo"
+msgid "sbps_memo"
+msgstr "sbps_memo"
+
+msgctxt "Languages::description::skip_connect"
+msgid "skip_connect"
+msgstr "skip_connect"
+
+msgctxt "Languages::description::return_connect"
+msgid "return_connect"
+msgstr "return_connect"
+
+msgctxt "Languages::description::warning_no_available_ticket"
+msgid "warning_no_available_ticket"
+msgstr "warning_no_available_ticket"
+
+msgctxt "Languages::description::description_start_selling_specify_date"
+msgid "description_start_selling_specify_date"
+msgstr "description_start_selling_specify_date"
+
+msgctxt "Languages::description::description_start_selling_specify_days"
+msgid "description_start_selling_specify_days"
+msgstr "description_start_selling_specify_days"
+
+msgctxt "Languages::description::description_end_selling_specify_date"
+msgid "description_end_selling_specify_date"
+msgstr "description_end_selling_specify_date"
+
+msgctxt "Languages::description::description_end_selling_specify_hours"
+msgid "description_end_selling_specify_hours"
+msgstr "description_end_selling_specify_hours"
+
+msgctxt "Languages::description::advanced_product_payment_invalid"
+msgid "advanced_product_payment_invalid"
+msgstr "advanced_product_payment_invalid"
+
+msgctxt "Languages::description::advanced_product_out_of_start_selling"
+msgid "advanced_product_out_of_start_selling"
+msgstr "advanced_product_out_of_start_selling"
+
+msgctxt "Languages::description::advanced_product_out_of_end_selling"
+msgid "advanced_product_out_of_end_selling"
+msgstr "advanced_product_out_of_end_selling"
+
+msgctxt "Languages::description::advanced_product_price_is_changed"
+msgid "advanced_product_price_is_changed"
+msgstr "advanced_product_price_is_changed"
+
+msgctxt "Languages::description::advanced_product_group_ticket_is_changed"
+msgid "advanced_product_group_ticket_is_changed"
+msgstr "advanced_product_group_ticket_is_changed"
+
+msgctxt "Languages::description::advanced_product_item_is_changed"
+msgid "advanced_product_item_is_changed"
+msgstr "advanced_product_item_is_changed"
+
+msgctxt "Languages::description::my_account"
+msgid "my_account"
+msgstr "my_account"
+
+msgctxt "Languages::description::account_type_tmc"
+msgid "account_type_tmc"
+msgstr "account_type_tmc"
+
+msgctxt "Languages::description::account_type_danin"
+msgid "account_type_danin"
+msgstr "account_type_danin"
+
+msgctxt "Languages::description::account_type_suku"
+msgid "account_type_suku"
+msgstr "account_type_suku"
+
+msgctxt "Languages::description::account_type_text_2"
+msgid "account_type_text_2"
+msgstr "account_type_text_2"
+
+msgctxt "Languages::description::account_type_member_info_danin"
+msgid "account_type_member_info_danin"
+msgstr "account_type_member_info_danin"
+
+msgctxt "Languages::description::account_type_member_info_suku"
+msgid "account_type_member_info_suku"
+msgstr "account_type_member_info_suku"
+
+msgctxt "Languages::description::members"
+msgid "members"
+msgstr "members"
+
+msgctxt "Languages::description::manage_member"
+msgid "manage_member"
+msgstr "manage_member"
+
+msgctxt "Languages::description::eplus_id"
+msgid "eplus_id"
+msgstr "eplus_id"
+
+msgctxt "Languages::description::external_id"
+msgid "external_id"
+msgstr "external_id"
+
+msgctxt "Languages::description::external_type"
+msgid "external_type"
+msgstr "external_type"
+
+msgctxt "Languages::description::suku_ticket"
+msgid "suku_ticket"
+msgstr "suku_ticket"
+
+msgctxt "Languages::description::NAKED_fun_club"
+msgid "NAKED_fun_club"
+msgstr "NAKED_fun_club"
+
+msgctxt "Languages::description::total_number_of_ticket"
+msgid "total_number_of_ticket"
+msgstr "total_number_of_ticket"
+
+msgctxt "Languages::description::tickets"
+msgid "tickets"
+msgstr "tickets"
+
+msgctxt "Languages::description::warning_proceed_to_checkout"
+msgid "warning_proceed_to_checkout"
+msgstr "warning_proceed_to_checkout"
+
+msgctxt "Languages::description::advanced_product_product_not_found"
+msgid "advanced_product_product_not_found"
+msgstr "advanced_product_product_not_found"
+
+msgctxt "Languages::description::notification"
+msgid "notification"
+msgstr "notification"
+
+msgctxt "Languages::description::add_notification"
+msgid "add_notification"
+msgstr "add_notification"
+
+msgctxt "Languages::description::add_contents_screen"
+msgid "add_contents_screen"
+msgstr "add_contents_screen"
+
+msgctxt "Languages::description::message_to_send"
+msgid "message_to_send"
+msgstr "message_to_send"
+
+msgctxt "Languages::description::schedule"
+msgid "schedule"
+msgstr "schedule"
+
+msgctxt "Languages::description::deep_link"
+msgid "deep_link"
+msgstr "deep_link"
+
+msgctxt "Languages::description::admin_account_email"
+msgid "admin_account_email"
+msgstr "admin_account_email"
+
+msgctxt "Languages::description::immediate"
+msgid "immediate"
+msgstr "immediate"
+
+msgctxt "Languages::description::specify_time"
+msgid "specify_time"
+msgstr "specify_time"
+
+msgctxt "Languages::description::test_delivery"
+msgid "test_delivery"
+msgstr "test_delivery"
+
+msgctxt "Languages::description::description_deeplink"
+msgid "description_deeplink"
+msgstr "description_deeplink"
+
+msgctxt "Languages::description::status_notification_not_send"
+msgid "status_notification_not_send"
+msgstr "status_notification_not_send"
+
+msgctxt "Languages::description::status_notification_scheduled"
+msgid "status_notification_scheduled"
+msgstr "status_notification_scheduled"
+
+msgctxt "Languages::description::status_notification_cancel"
+msgid "status_notification_cancel"
+msgstr "status_notification_cancel"
+
+msgctxt "Languages::description::status_notification_completed"
+msgid "status_notification_completed"
+msgstr "status_notification_completed"
+
+msgctxt "Languages::description::status_notification_processing"
+msgid "status_notification_processing"
+msgstr "status_notification_processing"
+
+msgctxt "Languages::description::edit_detail"
+msgid "edit_detail"
+msgstr "edit_detail"
+
+msgctxt "Languages::description::delete_notification"
+msgid "delete_notification"
+msgstr "delete_notification"
+
+msgctxt "Languages::description::invitation_code"
+msgid "invitation_code"
+msgstr "invitation_code"
+
+msgctxt "Languages::description::coupon_config_id"
+msgid "coupon_config_id"
+msgstr "coupon_config_id"
+
+msgctxt "Languages::description::coupon_delivery_time_invalid"
+msgid "coupon_delivery_time_invalid"
+msgstr "coupon_delivery_time_invalid"
+
+msgctxt "Languages::description::coupon_avail_time_invalid"
+msgid "coupon_avail_time_invalid"
+msgstr "coupon_avail_time_invalid"
+
+msgctxt "Languages::description::coupon_delivery_timing_invalid"
+msgid "coupon_delivery_timing_invalid"
+msgstr "coupon_delivery_timing_invalid"
+
+msgctxt "Languages::description::coupon_bonuses_invalid"
+msgid "coupon_bonuses_invalid"
+msgstr "coupon_bonuses_invalid"
+
+msgctxt "Languages::description::coupon_status_invalid"
+msgid "coupon_status_invalid"
+msgstr "coupon_status_invalid"
+
+msgctxt "Languages::description::coupon_is_used"
+msgid "coupon_is_used"
+msgstr "coupon_is_used"
+
+msgctxt "Languages::description::advanced_product_only_sell_for_danin"
+msgid "advanced_product_only_sell_for_danin"
+msgstr "advanced_product_only_sell_for_danin"
+
+msgctxt "Languages::description::pos_jp_sln_cc_failed"
+msgid "pos_jp_sln_cc_failed"
+msgstr "pos_jp_sln_cc_failed"
+
+msgctxt "Languages::description::jp_sln_cc_company_name"
+msgid "jp_sln_cc_company_name"
+msgstr "jp_sln_cc_company_name"
+
+msgctxt "Languages::description::min_order_quantity_seat_type_invalidate"
+msgid "min_order_quantity_seat_type_invalidate"
+msgstr "min_order_quantity_seat_type_invalidate"
+
+msgctxt "Languages::description::maximum_order_quantity_seat_type_invalidate"
+msgid "maximum_order_quantity_seat_type_invalidate"
+msgstr "maximum_order_quantity_seat_type_invalidate"
+
+msgctxt "Languages::description::min_order_quantity_selling_invalidate"
+msgid "min_order_quantity_selling_invalidate"
+msgstr "min_order_quantity_selling_invalidate"
+
+msgctxt "Languages::description::maximum_order_quantity_selling_invalidate"
+msgid "maximum_order_quantity_selling_invalidate"
+msgstr "maximum_order_quantity_selling_invalidate"
+
+msgctxt "Languages::description::scanapp_never_come_gate"
+msgid "scanapp_never_come_gate"
+msgstr "scanapp_never_come_gate"
+
+msgctxt "Languages::description::bulk_update_seat_type_event_time"
+msgid "bulk_update_seat_type_event_time"
+msgstr "bulk_update_seat_type_event_time"
+
+msgctxt "Languages::description::language_ja"
+msgid "language_ja"
+msgstr "language_ja"
+
+msgctxt "Languages::description::cannot_edit_at_once_later"
+msgid "cannot_edit_at_once_later"
+msgstr "cannot_edit_at_once_later"
+
+msgctxt "Languages::description::text_order_placed_attention_cvs"
+msgid "text_order_placed_attention_cvs"
+msgstr "text_order_placed_attention_cvs"
+
+msgctxt "Languages::description::text_order_placed_attention"
+msgid "text_order_placed_attention"
+msgstr "text_order_placed_attention"
+
+msgctxt "Languages::description::checkout_attentions"
+msgid "checkout_attentions"
+msgstr "checkout_attentions"
+
+msgctxt "Languages::description::promoter_export_order_list_credit_cart"
+msgid "promoter_export_order_list_credit_cart"
+msgstr "promoter_export_order_list_credit_cart"
+
+msgctxt "Languages::description::please_select_start_and_end_date_does_not_included_date_that_has_events"
+msgid "please_select_start_and_end_date_does_not_included_date_that_has_events"
+msgstr "please_select_start_and_end_date_does_not_included_date_that_has_events"
+
+msgctxt "Languages::description::text_order_placed_backordered"
+msgid "text_order_placed_backordered"
+msgstr "text_order_placed_backordered"
+
+msgctxt "Languages::description::text_order_backordered"
+msgid "text_order_backordered"
+msgstr "text_order_backordered"
+
+msgctxt "Languages::description::landing_header_backordered"
+msgid "landing_header_backordered"
+msgstr "landing_header_backordered"
+
+msgctxt "Languages::description::text_order_placed_backordered_to_canceled"
+msgid "text_order_placed_backordered_to_canceled"
+msgstr "text_order_placed_backordered_to_canceled"
+
+msgctxt "Languages::description::coupon_bonus_invitation_ticket"
+msgid "coupon_bonus_invitation_ticket"
+msgstr "coupon_bonus_invitation_ticket"
+
+msgctxt "Languages::description::coupon_delivery_all_user"
+msgid "coupon_delivery_all_user"
+msgstr "coupon_delivery_all_user"
+
+msgctxt "Languages::description::add_events"
+msgid "add_events"
+msgstr "add_events"
+
+msgctxt "Languages::description::event_time"
+msgid "event_time"
+msgstr "event_time"
+
+msgctxt "Languages::description::add_all_events"
+msgid "add_all_events"
+msgstr "add_all_events"
+
+msgctxt "Languages::description::add_selected_events"
+msgid "add_selected_events"
+msgstr "add_selected_events"
+
+msgctxt "Languages::description::product_ids_invalid"
+msgid "product_ids_invalid"
+msgstr "product_ids_invalid"
+
+msgctxt "Languages::description::coupon_all"
+msgid "coupon_all"
+msgstr "coupon_all"
+
+msgctxt "Languages::description::coupon_user_type"
+msgid "coupon_user_type"
+msgstr "coupon_user_type"
+
+msgctxt "Languages::description::coupon_user_is_login"
+msgid "coupon_user_is_login"
+msgstr "coupon_user_is_login"
+
+msgctxt "Languages::description::coupon_user_login"
+msgid "coupon_user_login"
+msgstr "coupon_user_login"
+
+msgctxt "Languages::description::coupon_user_not_login"
+msgid "coupon_user_not_login"
+msgstr "coupon_user_not_login"
+
+msgctxt "Languages::description::coupon_user_login_time"
+msgid "coupon_user_login_time"
+msgstr "coupon_user_login_time"
+
+msgctxt "Languages::description::coupon_user_login_period"
+msgid "coupon_user_login_period"
+msgstr "coupon_user_login_period"
+
+msgctxt "Languages::description::coupon_user_login_from"
+msgid "coupon_user_login_from"
+msgstr "coupon_user_login_from"
+
+msgctxt "Languages::description::coupon_user_login_to"
+msgid "coupon_user_login_to"
+msgstr "coupon_user_login_to"
+
+msgctxt "Languages::description::coupon_user_purchased_times"
+msgid "coupon_user_purchased_times"
+msgstr "coupon_user_purchased_times"
+
+msgctxt "Languages::description::coupon_user_times_from"
+msgid "coupon_user_times_from"
+msgstr "coupon_user_times_from"
+
+msgctxt "Languages::description::coupon_user_times_to"
+msgid "coupon_user_times_to"
+msgstr "coupon_user_times_to"
+
+msgctxt "Languages::description::coupon_user_purchased_amount"
+msgid "coupon_user_purchased_amount"
+msgstr "coupon_user_purchased_amount"
+
+msgctxt "Languages::description::coupon_user_amount_from"
+msgid "coupon_user_amount_from"
+msgstr "coupon_user_amount_from"
+
+msgctxt "Languages::description::coupon_user_amount_to"
+msgid "coupon_user_amount_to"
+msgstr "coupon_user_amount_to"
+
+msgctxt "Languages::description::coupon_user_is_purchased"
+msgid "coupon_user_is_purchased"
+msgstr "coupon_user_is_purchased"
+
+msgctxt "Languages::description::coupon_user_purchased"
+msgid "coupon_user_purchased"
+msgstr "coupon_user_purchased"
+
+msgctxt "Languages::description::coupon_user_purchased_period"
+msgid "coupon_user_purchased_period"
+msgstr "coupon_user_purchased_period"
+
+msgctxt "Languages::description::coupon_user_purchased_payment_method"
+msgid "coupon_user_purchased_payment_method"
+msgstr "coupon_user_purchased_payment_method"
+
+msgctxt "Languages::description::coupon_user_not_purchased"
+msgid "coupon_user_not_purchased"
+msgstr "coupon_user_not_purchased"
+
+msgctxt "Languages::description::coupon_user_not_purchased_period"
+msgid "coupon_user_not_purchased_period"
+msgstr "coupon_user_not_purchased_period"
+
+msgctxt "Languages::description::coupon_user_count_orders"
+msgid "coupon_user_count_orders"
+msgstr "coupon_user_count_orders"
+
+msgctxt "Languages::description::coupon_user_type_eplus"
+msgid "coupon_user_type_eplus"
+msgstr "coupon_user_type_eplus"
+
+msgctxt "Languages::description::coupon_user_type_suku"
+msgid "coupon_user_type_suku"
+msgstr "coupon_user_type_suku"
+
+msgctxt "Languages::description::coupon_user_type_danin"
+msgid "coupon_user_type_danin"
+msgstr "coupon_user_type_danin"
+
+msgctxt "Languages::description::promotion_extract_user"
+msgid "promotion_extract_user"
+msgstr "promotion_extract_user"
+
+msgctxt "Languages::description::promotion_extract_user_menu_description"
+msgid "promotion_extract_user_menu_description"
+msgstr "promotion_extract_user_menu_description"
+
+msgctxt "Languages::description::batch_exporter"
+msgid "batch_exporter"
+msgstr "batch_exporter"
+
+msgctxt "Languages::description::batch_name"
+msgid "batch_name"
+msgstr "batch_name"
+
+msgctxt "Languages::description::batch_timestamp"
+msgid "batch_timestamp"
+msgstr "batch_timestamp"
+
+msgctxt "Languages::description::batch_status"
+msgid "batch_status"
+msgstr "batch_status"
+
+msgctxt "Languages::description::batch_status_new"
+msgid "batch_status_new"
+msgstr "batch_status_new"
+
+msgctxt "Languages::description::batch_status_done"
+msgid "batch_status_done"
+msgstr "batch_status_done"
+
+msgctxt "Languages::description::batch_status_processing"
+msgid "batch_status_processing"
+msgstr "batch_status_processing"
+
+msgctxt "Languages::description::batch_status_stop"
+msgid "batch_status_stop"
+msgstr "batch_status_stop"
+
+msgctxt "Languages::description::batch_link_to_download"
+msgid "batch_link_to_download"
+msgstr "batch_link_to_download"
+
+msgctxt "Languages::description::batch_handle_processing"
+msgid "batch_handle_processing"
+msgstr "batch_handle_processing"
+
+msgctxt "Languages::description::show_selected_events"
+msgid "show_selected_events"
+msgstr "show_selected_events"
+
+msgctxt "Languages::description::show_all_events"
+msgid "show_all_events"
+msgstr "show_all_events"
+
+msgctxt "Languages::description::no_events_selected"
+msgid "no_events_selected"
+msgstr "no_events_selected"
+
+msgctxt "Languages::description::coupon_upload_csv"
+msgid "coupon_upload_csv"
+msgstr "coupon_upload_csv"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid"
+msgid "coupon_upload_csv_invalid"
+msgstr "coupon_upload_csv_invalid"
+
+msgctxt "Languages::description::coupon_list_user_uploaded_csv"
+msgid "coupon_list_user_uploaded_csv"
+msgstr "coupon_list_user_uploaded_csv"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid_format"
+msgid "coupon_upload_csv_invalid_format"
+msgstr "coupon_upload_csv_invalid_format"
+
+msgctxt "Languages::description::promo_code"
+msgid "promo_code"
+msgstr "promo_code"
+
+msgctxt "Languages::description::error_coupon_cant_open_file"
+msgid "error_coupon_cant_open_file"
+msgstr "error_coupon_cant_open_file"
+
+msgctxt "Languages::description::error_coupon_file_doesnt_exist"
+msgid "error_coupon_file_doesnt_exist"
+msgstr "error_coupon_file_doesnt_exist"
+
+msgctxt "Languages::description::url"
+msgid "url"
+msgstr "url"
+
+msgctxt "Languages::description::coupon_invitation_ticket_duplicate"
+msgid "coupon_invitation_ticket_duplicate"
+msgstr "coupon_invitation_ticket_duplicate"
+
+msgctxt "Languages::description::from"
+msgid "from"
+msgstr "from"
+
+msgctxt "Languages::description::to"
+msgid "to"
+msgstr "to"
+
+msgctxt "Languages::description::no_valid_users_in_uploaded_csv_file"
+msgid "no_valid_users_in_uploaded_csv_file"
+msgstr "no_valid_users_in_uploaded_csv_file"
+
+msgctxt "Languages::description::coupon_export_csv"
+msgid "coupon_export_csv"
+msgstr "coupon_export_csv"
+
+msgctxt "Languages::description::coupon_user_credit_card"
+msgid "coupon_user_credit_card"
+msgstr "coupon_user_credit_card"
+
+msgctxt "Languages::description::coupon_user_credit_cvs"
+msgid "coupon_user_credit_cvs"
+msgstr "coupon_user_credit_cvs"
+
+msgctxt "Languages::description::coupon_used"
+msgid "coupon_used"
+msgstr "coupon_used"
+
+msgctxt "Languages::description::coupon_not_used"
+msgid "coupon_not_used"
+msgstr "coupon_not_used"
+
+msgctxt "Languages::description::coupon_user_not_purchased_label"
+msgid "coupon_user_not_purchased_label"
+msgstr "coupon_user_not_purchased_label"
+
+msgctxt "Languages::description::coupon_user_purchased_label"
+msgid "coupon_user_purchased_label"
+msgstr "coupon_user_purchased_label"
+
+msgctxt "Languages::description::coupon_user_id"
+msgid "coupon_user_id"
+msgstr "coupon_user_id"
+
+msgctxt "Languages::description::coupon_enter_user_id"
+msgid "coupon_enter_user_id"
+msgstr "coupon_enter_user_id"
+
+msgctxt "Languages::description::coupon_enter_username"
+msgid "coupon_enter_username"
+msgstr "coupon_enter_username"
+
+msgctxt "Languages::description::coupon_enter_email"
+msgid "coupon_enter_email"
+msgstr "coupon_enter_email"
+
+msgctxt "Languages::description::coupon_yes"
+msgid "coupon_yes"
+msgstr "coupon_yes"
+
+msgctxt "Languages::description::coupon_no"
+msgid "coupon_no"
+msgstr "coupon_no"
+
+msgctxt "Languages::description::coupon_extract_users"
+msgid "coupon_extract_users"
+msgstr "coupon_extract_users"
+
+msgctxt "Languages::description::order_list_reports"
+msgid "order_list_reports"
+msgstr "order_list_reports"
+
+msgctxt "Languages::description::date_range"
+msgid "date_range"
+msgstr "date_range"
+
+msgctxt "Languages::description::date_range_type"
+msgid "date_range_type"
+msgstr "date_range_type"
+
+msgctxt "Languages::description::report_range"
+msgid "report_range"
+msgstr "report_range"
+
+msgctxt "Languages::description::view_coupon_export_csv_status"
+msgid "view_coupon_export_csv_status"
+msgstr "view_coupon_export_csv_status"
+
+msgctxt "Languages::description::applied_invitation_description"
+msgid "applied_invitation_description"
+msgstr "applied_invitation_description"
+
+msgctxt "Languages::description::coupon_discount_invalid"
+msgid "coupon_discount_invalid"
+msgstr "coupon_discount_invalid"
+
+msgctxt "Languages::description::coupon_delivery_from_is_empty"
+msgid "coupon_delivery_from_is_empty"
+msgstr "coupon_delivery_from_is_empty"
+
+msgctxt "Languages::description::coupon_delivery_to_is_empty"
+msgid "coupon_delivery_to_is_empty"
+msgstr "coupon_delivery_to_is_empty"
+
+msgctxt "Languages::description::coupon_from_date_is_empty"
+msgid "coupon_from_date_is_empty"
+msgstr "coupon_from_date_is_empty"
+
+msgctxt "Languages::description::coupon_to_date_is_empty"
+msgid "coupon_to_date_is_empty"
+msgstr "coupon_to_date_is_empty"
+
+msgctxt "Languages::description::coupon_scan_qr_code"
+msgid "coupon_scan_qr_code"
+msgstr "coupon_scan_qr_code"
+
+msgctxt "Languages::description::coupon_show_qr_code"
+msgid "coupon_show_qr_code"
+msgstr "coupon_show_qr_code"
+
+msgctxt "Languages::description::cannot_get_coupon_by_token"
+msgid "cannot_get_coupon_by_token"
+msgstr "cannot_get_coupon_by_token"
+
+msgctxt "Languages::description::coupon_is_not_found"
+msgid "coupon_is_not_found"
+msgstr "coupon_is_not_found"
+
+msgctxt "Languages::description::coupon_code_is_empty"
+msgid "coupon_code_is_empty"
+msgstr "coupon_code_is_empty"
+
+msgctxt "Languages::description::coupon_order_id_is_empty"
+msgid "coupon_order_id_is_empty"
+msgstr "coupon_order_id_is_empty"
+
+msgctxt "Languages::description::coupon_is_expired"
+msgid "coupon_is_expired"
+msgstr "coupon_is_expired"
+
+msgctxt "Languages::description::coupon_was_applied"
+msgid "coupon_was_applied"
+msgstr "coupon_was_applied"
+
+msgctxt "Languages::description::open_get_coupon_page"
+msgid "open_get_coupon_page"
+msgstr "open_get_coupon_page"
+
+msgctxt "Languages::description::coupon_delivery_url"
+msgid "coupon_delivery_url"
+msgstr "coupon_delivery_url"
+
+msgctxt "Languages::description::coupon_url_header"
+msgid "coupon_url_header"
+msgstr "coupon_url_header"
+
+msgctxt "Languages::description::coupon_url_description_1"
+msgid "coupon_url_description_1"
+msgstr "coupon_url_description_1"
+
+msgctxt "Languages::description::coupon_url_description_2"
+msgid "coupon_url_description_2"
+msgstr "coupon_url_description_2"
+
+msgctxt "Languages::description::coupon_url_description_3"
+msgid "coupon_url_description_3"
+msgstr "coupon_url_description_3"
+
+msgctxt "Languages::description::coupon_url_description_4"
+msgid "coupon_url_description_4"
+msgstr "coupon_url_description_4"
+
+msgctxt "Languages::description::coupon_url_description_5"
+msgid "coupon_url_description_5"
+msgstr "coupon_url_description_5"
+
+msgctxt "Languages::description::user_scan_url_got_coupon"
+msgid "user_scan_url_got_coupon"
+msgstr "user_scan_url_got_coupon"
+
+msgctxt "Languages::description::order_only_has_one_coupon"
+msgid "order_only_has_one_coupon"
+msgstr "order_only_has_one_coupon"
+
+msgctxt "Languages::description::coupon_avail_to_gte_delivery_to"
+msgid "coupon_avail_to_gte_delivery_to"
+msgstr "coupon_avail_to_gte_delivery_to"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_1"
+msgid "please_enter_a_value_greater_than_or_equal_to_1"
+msgstr "please_enter_a_value_greater_than_or_equal_to_1"
+
+msgctxt "Languages::description::coupon_avail_until_is_empty"
+msgid "coupon_avail_until_is_empty"
+msgstr "coupon_avail_until_is_empty"
+
+msgctxt "Languages::description::coupon_avail_until"
+msgid "coupon_avail_until"
+msgstr "coupon_avail_until"
+
+msgctxt "Languages::description::coupon_avail_until_desc"
+msgid "coupon_avail_until_desc"
+msgstr "coupon_avail_until_desc"
+
+msgctxt "Languages::description::event_detail_url"
+msgid "event_detail_url"
+msgstr "event_detail_url"
+
+msgctxt "Languages::description::custom_price_text"
+msgid "custom_price_text"
+msgstr "custom_price_text"
+
+msgctxt "Languages::description::custom_event_detail_url"
+msgid "custom_event_detail_url"
+msgstr "custom_event_detail_url"
+
+msgctxt "Languages::description::field_custom_event_detail_url"
+msgid "field_custom_event_detail_url"
+msgstr "field_custom_event_detail_url"
+
+msgctxt "Languages::description::cannot_get_coupon_by_qr_code"
+msgid "cannot_get_coupon_by_qr_code"
+msgstr "cannot_get_coupon_by_qr_code"
+
+msgctxt "Languages::description::coupon_bonus_cash_back_events"
+msgid "coupon_bonus_cash_back_events"
+msgstr "coupon_bonus_cash_back_events"
+
+msgctxt "Languages::description::filter_condition_and_export_order_list"
+msgid "filter_condition_and_export_order_list"
+msgstr "filter_condition_and_export_order_list"
+
+msgctxt "Languages::description::order_report_filter"
+msgid "order_report_filter"
+msgstr "order_report_filter"
+
+msgctxt "Languages::description::order_created_date"
+msgid "order_created_date"
+msgstr "order_created_date"
+
+msgctxt "Languages::description::settlement_date"
+msgid "settlement_date"
+msgstr "settlement_date"
+
+msgctxt "Languages::description::used_coupon_only"
+msgid "used_coupon_only"
+msgstr "used_coupon_only"
+
+msgctxt "Languages::description::export_order_list_with_conditions"
+msgid "export_order_list_with_conditions"
+msgstr "export_order_list_with_conditions"
+
+msgctxt "Languages::description::coupon_delivery_period_is_ended"
+msgid "coupon_delivery_period_is_ended"
+msgstr "coupon_delivery_period_is_ended"
+
+msgctxt "Languages::description::coupon_delivery_period_is_not_started"
+msgid "coupon_delivery_period_is_not_started"
+msgstr "coupon_delivery_period_is_not_started"
+
+msgctxt "Languages::description::coupon_available_period_is_ended"
+msgid "coupon_available_period_is_ended"
+msgstr "coupon_available_period_is_ended"
+
+msgctxt "Languages::description::order_created_date_from_must_be_before_or_same_order_created_date_to"
+msgid "order_created_date_from_must_be_before_or_same_order_created_date_to"
+msgstr "order_created_date_from_must_be_before_or_same_order_created_date_to"
+
+msgctxt "Languages::description::settlement_date_from_must_be_before_or_same_settlement_date_to"
+msgid "settlement_date_from_must_be_before_or_same_settlement_date_to"
+msgstr "settlement_date_from_must_be_before_or_same_settlement_date_to"
+
+msgctxt "Languages::description::event_date_from_must_be_before_or_same_event_date_to"
+msgid "event_date_from_must_be_before_or_same_event_date_to"
+msgstr "event_date_from_must_be_before_or_same_event_date_to"
+
+msgctxt "Languages::description::user_access_url_got_coupon"
+msgid "user_access_url_got_coupon"
+msgstr "user_access_url_got_coupon"
+
+msgctxt "Languages::description::choose_at_least_one_payment_method_to_export"
+msgid "choose_at_least_one_payment_method_to_export"
+msgstr "choose_at_least_one_payment_method_to_export"
+
+msgctxt "Languages::description::pay_using_cash"
+msgid "pay_using_cash"
+msgstr "pay_using_cash"
+
+msgctxt "Languages::description::pay_using_cvs"
+msgid "pay_using_cvs"
+msgstr "pay_using_cvs"
+
+msgctxt "Languages::description::order_report_filter_desc"
+msgid "order_report_filter_desc"
+msgstr "order_report_filter_desc"
+
+msgctxt "Languages::description::download_order_list_reports"
+msgid "download_order_list_reports"
+msgstr "download_order_list_reports"
+
+msgctxt "Languages::description::coupon_specify_hours"
+msgid "coupon_specify_hours"
+msgstr "coupon_specify_hours"
+
+msgctxt "Languages::description::product_export_order_list"
+msgid "product_export_order_list"
+msgstr "product_export_order_list"
+
+msgctxt "Languages::description::applied_cash_back_events_description"
+msgid "applied_cash_back_events_description"
+msgstr "applied_cash_back_events_description"
+
+msgctxt "Languages::description::return_unused_coupon"
+msgid "return_unused_coupon"
+msgstr "return_unused_coupon"
+
+msgctxt "Languages::description::cannot_create_combination_hash_register_events"
+msgid "cannot_create_combination_hash_register_events"
+msgstr "cannot_create_combination_hash_register_events"
+
+msgctxt "Languages::description::keep_shopping"
+msgid "keep_shopping"
+msgstr "keep_shopping"
+
+msgctxt "Languages::description::no_events_in_day"
+msgid "no_events_in_day"
+msgstr "no_events_in_day"
+
+msgctxt "Languages::description::danin_pre_sales"
+msgid "danin_pre_sales"
+msgstr "danin_pre_sales"
+
+msgctxt "Languages::description::search_by_keyword"
+msgid "search_by_keyword"
+msgstr "search_by_keyword"
+
+msgctxt "Languages::description::search_by_period"
+msgid "search_by_period"
+msgstr "search_by_period"
+
+msgctxt "Languages::description::this_week"
+msgid "this_week"
+msgstr "this_week"
+
+msgctxt "Languages::description::next_week"
+msgid "next_week"
+msgstr "next_week"
+
+msgctxt "Languages::description::this_month"
+msgid "this_month"
+msgstr "this_month"
+
+msgctxt "Languages::description::date_search"
+msgid "date_search"
+msgstr "date_search"
+
+msgctxt "Languages::description::ty_product_empty"
+msgid "ty_product_empty"
+msgstr "ty_product_empty"
+
+msgctxt "Languages::description::ty_product_empty_sub"
+msgid "ty_product_empty_sub"
+msgstr "ty_product_empty_sub"
+
+msgctxt "Languages::description::additional_settings"
+msgid "additional_settings"
+msgstr "additional_settings"
+
+msgctxt "Languages::description::event_period_from"
+msgid "event_period_from"
+msgstr "event_period_from"
+
+msgctxt "Languages::description::event_period_to"
+msgid "event_period_to"
+msgstr "event_period_to"
+
+msgctxt "Languages::description::additional_event_period"
+msgid "additional_event_period"
+msgstr "additional_event_period"
+
+msgctxt "Languages::description::additional_event_guide"
+msgid "additional_event_guide"
+msgstr "additional_event_guide"
+
+msgctxt "Languages::description::event_guide_limited_time"
+msgid "event_guide_limited_time"
+msgstr "event_guide_limited_time"
+
+msgctxt "Languages::description::event_guide_number_members"
+msgid "event_guide_number_members"
+msgstr "event_guide_number_members"
+
+msgctxt "Languages::description::event_guide_duration"
+msgid "event_guide_duration"
+msgstr "event_guide_duration"
+
+msgctxt "Languages::description::event_guide_place_type"
+msgid "event_guide_place_type"
+msgstr "event_guide_place_type"
+
+msgctxt "Languages::description::event_guide_venue_type"
+msgid "event_guide_venue_type"
+msgstr "event_guide_venue_type"
+
+msgctxt "Languages::description::event_guide_started_type"
+msgid "event_guide_started_type"
+msgstr "event_guide_started_type"
+
+msgctxt "Languages::description::additional_sticker"
+msgid "additional_sticker"
+msgstr "additional_sticker"
+
+msgctxt "Languages::description::show_tmc_sticker"
+msgid "show_tmc_sticker"
+msgstr "show_tmc_sticker"
+
+msgctxt "Languages::description::show_play_english_sticker"
+msgid "show_play_english_sticker"
+msgstr "show_play_english_sticker"
+
+msgctxt "Languages::description::addtional_price_desc"
+msgid "addtional_price_desc"
+msgstr "addtional_price_desc"
+
+msgctxt "Languages::description::indoor"
+msgid "indoor"
+msgstr "indoor"
+
+msgctxt "Languages::description::outdoor"
+msgid "outdoor"
+msgstr "outdoor"
+
+msgctxt "Languages::description::all_at_once"
+msgid "all_at_once"
+msgstr "all_at_once"
+
+msgctxt "Languages::description::at_any_time"
+msgid "at_any_time"
+msgstr "at_any_time"
+
+msgctxt "Languages::description::field_event_period_from"
+msgid "field_event_period_from"
+msgstr "field_event_period_from"
+
+msgctxt "Languages::description::field_event_period_to"
+msgid "field_event_period_to"
+msgstr "field_event_period_to"
+
+msgctxt "Languages::description::do_not_show"
+msgid "do_not_show"
+msgstr "do_not_show"
+
+msgctxt "Languages::description::promotion_view_export_batch_list"
+msgid "promotion_view_export_batch_list"
+msgstr "promotion_view_export_batch_list"
+
+msgctxt "Languages::description::promotion_filter_condition_and_export"
+msgid "promotion_filter_condition_and_export"
+msgstr "promotion_filter_condition_and_export"
+
+msgctxt "Languages::description::coupon_used_date"
+msgid "coupon_used_date"
+msgstr "coupon_used_date"
+
+msgctxt "Languages::description::promotion_export_batch_list"
+msgid "promotion_export_batch_list"
+msgstr "promotion_export_batch_list"
+
+msgctxt "Languages::description::coupon_report_filter_title"
+msgid "coupon_report_filter_title"
+msgstr "coupon_report_filter_title"
+
+msgctxt "Languages::description::promotion_template_id"
+msgid "promotion_template_id"
+msgstr "promotion_template_id"
+
+msgctxt "Languages::description::promotion_id"
+msgid "promotion_id"
+msgstr "promotion_id"
+
+msgctxt "Languages::description::coupon_used_date_from_must_be_before_or_same_order_created_date_to"
+msgid "coupon_used_date_from_must_be_before_or_same_order_created_date_to"
+msgstr "coupon_used_date_from_must_be_before_or_same_order_created_date_to"
+
+msgctxt "Languages::description::coupon_list_reports"
+msgid "coupon_list_reports"
+msgstr "coupon_list_reports"
+
+msgctxt "Languages::description::this_field_just_include_commas_and_numbers"
+msgid "this_field_just_include_commas_and_numbers"
+msgstr "this_field_just_include_commas_and_numbers"
+
+msgctxt "Languages::description::checkout_change_email"
+msgid "checkout_change_email"
+msgstr "checkout_change_email"
+
+msgctxt "Languages::description::checkout_change_email_alert"
+msgid "checkout_change_email_alert"
+msgstr "checkout_change_email_alert"
+
+msgctxt "Languages::description::here"
+msgid "here"
+msgstr "here"
+
+msgctxt "Languages::description::cvs_info_text"
+msgid "cvs_info_text"
+msgstr "cvs_info_text"
+
+msgctxt "Languages::description::cvs_expire"
+msgid "cvs_expire"
+msgstr "cvs_expire"
+
+msgctxt "Languages::description::cvs_url"
+msgid "cvs_url"
+msgstr "cvs_url"
+
+msgctxt "Languages::description::delivery_email"
+msgid "delivery_email"
+msgstr "delivery_email"
+
+msgctxt "Languages::description::available_ticket"
+msgid "available_ticket"
+msgstr "available_ticket"
+
+msgctxt "Languages::description::receipt_issue"
+msgid "receipt_issue"
+msgstr "receipt_issue"
+
+msgctxt "Languages::description::receipt"
+msgid "receipt"
+msgstr "receipt"
+
+msgctxt "Languages::description::confirm_info_receipt"
+msgid "confirm_info_receipt"
+msgstr "confirm_info_receipt"
+
+msgctxt "Languages::description::receipt_from"
+msgid "receipt_from"
+msgstr "receipt_from"
+
+msgctxt "Languages::description::receipt_of_recipient"
+msgid "receipt_of_recipient"
+msgstr "receipt_of_recipient"
+
+msgctxt "Languages::description::amount_price"
+msgid "amount_price"
+msgstr "amount_price"
+
+msgctxt "Languages::description::payment_date"
+msgid "payment_date"
+msgstr "payment_date"
+
+msgctxt "Languages::description::receipt_payment_method"
+msgid "receipt_payment_method"
+msgstr "receipt_payment_method"
+
+msgctxt "Languages::description::receipt_order_id"
+msgid "receipt_order_id"
+msgstr "receipt_order_id"
+
+msgctxt "Languages::description::receipt_time_now"
+msgid "receipt_time_now"
+msgstr "receipt_time_now"
+
+msgctxt "Languages::description::receipt_note"
+msgid "receipt_note"
+msgstr "receipt_note"
+
+msgctxt "Languages::description::receipt_company"
+msgid "receipt_company"
+msgstr "receipt_company"
+
+msgctxt "Languages::description::receipt_download"
+msgid "receipt_download"
+msgstr "receipt_download"
+
+msgctxt "Languages::description::receipt_error_entry_name"
+msgid "receipt_error_entry_name"
+msgstr "receipt_error_entry_name"
+
+msgctxt "Languages::description::export_coupon_list_instruction"
+msgid "export_coupon_list_instruction"
+msgstr "export_coupon_list_instruction"
+
+msgctxt "Languages::description::cart_note"
+msgid "cart_note"
+msgstr "cart_note"
+
+msgctxt "Languages::description::no_such_coupon"
+msgid "no_such_coupon"
+msgstr "no_such_coupon"
+
+msgctxt "Languages::description::continue_shopping_btn"
+msgid "continue_shopping_btn"
+msgstr "continue_shopping_btn"
+
+msgctxt "Languages::description::remove_from_cart"
+msgid "remove_from_cart"
+msgstr "remove_from_cart"
+
+msgctxt "Languages::description::cancel_my_order"
+msgid "cancel_my_order"
+msgstr "cancel_my_order"
+
+msgctxt "Languages::description::order_buy_now"
+msgid "order_buy_now"
+msgstr "order_buy_now"
+
+msgctxt "Languages::description::view_my_e_ticket"
+msgid "view_my_e_ticket"
+msgstr "view_my_e_ticket"
+
+msgctxt "Languages::description::btn_ok"
+msgid "btn_ok"
+msgstr "btn_ok"
+
+msgctxt "Languages::description::note_save_qr_code"
+msgid "note_save_qr_code"
+msgstr "note_save_qr_code"
+
+msgctxt "Languages::description::add_to_cart"
+msgid "add_to_cart"
+msgstr "add_to_cart"
+
+msgctxt "Languages::description::proceed_to_checkout"
+msgid "proceed_to_checkout"
+msgstr "proceed_to_checkout"
+
+msgctxt "Languages::description::order_id_lbl"
+msgid "order_id_lbl"
+msgstr "order_id_lbl"
+
+msgctxt "Languages::description::print_order_btn"
+msgid "print_order_btn"
+msgstr "print_order_btn"
+
+msgctxt "Languages::description::account_order_history"
+msgid "account_order_history"
+msgstr "account_order_history"
+
+msgctxt "Languages::description::clear_cart_notify"
+msgid "clear_cart_notify"
+msgstr "clear_cart_notify"
+
+msgctxt "Languages::description::proceed_to_checkout_notify"
+msgid "proceed_to_checkout_notify"
+msgstr "proceed_to_checkout_notify"
+
+msgctxt "Languages::description::receipt_require"
+msgid "receipt_require"
+msgstr "receipt_require"
+
+msgctxt "Languages::description::button_login_text"
+msgid "button_login_text"
+msgstr "button_login_text"
+
+msgctxt "Languages::description::confirm_content_my_purchase"
+msgid "confirm_content_my_purchase"
+msgstr "confirm_content_my_purchase"
+
+msgctxt "Languages::description::checkout_terms_content_my_purchase_alert"
+msgid "checkout_terms_content_my_purchase_alert"
+msgstr "checkout_terms_content_my_purchase_alert"
+
+msgctxt "Languages::description::checkout_terms_n_conditions"
+msgid "checkout_terms_n_conditions"
+msgstr "checkout_terms_n_conditions"
+
+msgctxt "Languages::description::billing_address_custom"
+msgid "billing_address_custom"
+msgstr "billing_address_custom"
+
+msgctxt "Languages::description::final_confirmation"
+msgid "final_confirmation"
+msgstr "final_confirmation"
+
+msgctxt "Languages::description::final_confirmation_content"
+msgid "final_confirmation_content"
+msgstr "final_confirmation_content"
+
+msgctxt "Languages::description::total_quantity"
+msgid "total_quantity"
+msgstr "total_quantity"
+
+msgctxt "Languages::description::total_price"
+msgid "total_price"
+msgstr "total_price"
+
+msgctxt "Languages::description::text_order_placed_attention_note_2"
+msgid "text_order_placed_attention_note_2"
+msgstr "text_order_placed_attention_note_2"
+
+msgctxt "Languages::description::text_order_placed_attention_note_3"
+msgid "text_order_placed_attention_note_3"
+msgstr "text_order_placed_attention_note_3"
+
+msgctxt "Languages::description::payment_by"
+msgid "payment_by"
+msgstr "payment_by"
+
+msgctxt "Languages::description::see_my_order"
+msgid "see_my_order"
+msgstr "see_my_order"
+
+msgctxt "Languages::description::register_eplus"
+msgid "register_eplus"
+msgstr "register_eplus"
+
+msgctxt "Languages::description::date_format_1"
+msgid "date_format_1"
+msgstr "date_format_1"
+
+msgctxt "Languages::description::weekday_abr_0"
+msgid "weekday_abr_0"
+msgstr "weekday_abr_0"
+
+msgctxt "Languages::description::weekday_abr_1"
+msgid "weekday_abr_1"
+msgstr "weekday_abr_1"
+
+msgctxt "Languages::description::weekday_abr_2"
+msgid "weekday_abr_2"
+msgstr "weekday_abr_2"
+
+msgctxt "Languages::description::weekday_abr_3"
+msgid "weekday_abr_3"
+msgstr "weekday_abr_3"
+
+msgctxt "Languages::description::weekday_abr_4"
+msgid "weekday_abr_4"
+msgstr "weekday_abr_4"
+
+msgctxt "Languages::description::weekday_abr_5"
+msgid "weekday_abr_5"
+msgstr "weekday_abr_5"
+
+msgctxt "Languages::description::weekday_abr_6"
+msgid "weekday_abr_6"
+msgstr "weekday_abr_6"
+
+msgctxt "Languages::description::weekday_0"
+msgid "weekday_0"
+msgstr "weekday_0"
+
+msgctxt "Languages::description::weekday_1"
+msgid "weekday_1"
+msgstr "weekday_1"
+
+msgctxt "Languages::description::weekday_2"
+msgid "weekday_2"
+msgstr "weekday_2"
+
+msgctxt "Languages::description::weekday_3"
+msgid "weekday_3"
+msgstr "weekday_3"
+
+msgctxt "Languages::description::weekday_4"
+msgid "weekday_4"
+msgstr "weekday_4"
+
+msgctxt "Languages::description::weekday_5"
+msgid "weekday_5"
+msgstr "weekday_5"
+
+msgctxt "Languages::description::weekday_6"
+msgid "weekday_6"
+msgstr "weekday_6"
+
+msgctxt "Languages::description::month_name_abr_1"
+msgid "month_name_abr_1"
+msgstr "month_name_abr_1"
+
+msgctxt "Languages::description::month_name_abr_2"
+msgid "month_name_abr_2"
+msgstr "month_name_abr_2"
+
+msgctxt "Languages::description::month_name_abr_3"
+msgid "month_name_abr_3"
+msgstr "month_name_abr_3"
+
+msgctxt "Languages::description::month_name_abr_4"
+msgid "month_name_abr_4"
+msgstr "month_name_abr_4"
+
+msgctxt "Languages::description::month_name_abr_5"
+msgid "month_name_abr_5"
+msgstr "month_name_abr_5"
+
+msgctxt "Languages::description::month_name_abr_6"
+msgid "month_name_abr_6"
+msgstr "month_name_abr_6"
+
+msgctxt "Languages::description::month_name_abr_7"
+msgid "month_name_abr_7"
+msgstr "month_name_abr_7"
+
+msgctxt "Languages::description::month_name_abr_8"
+msgid "month_name_abr_8"
+msgstr "month_name_abr_8"
+
+msgctxt "Languages::description::month_name_abr_9"
+msgid "month_name_abr_9"
+msgstr "month_name_abr_9"
+
+msgctxt "Languages::description::month_name_abr_10"
+msgid "month_name_abr_10"
+msgstr "month_name_abr_10"
+
+msgctxt "Languages::description::month_name_abr_11"
+msgid "month_name_abr_11"
+msgstr "month_name_abr_11"
+
+msgctxt "Languages::description::month_name_abr_12"
+msgid "month_name_abr_12"
+msgstr "month_name_abr_12"
+
+msgctxt "Languages::description::month_name_1"
+msgid "month_name_1"
+msgstr "month_name_1"
+
+msgctxt "Languages::description::month_name_2"
+msgid "month_name_2"
+msgstr "month_name_2"
+
+msgctxt "Languages::description::month_name_3"
+msgid "month_name_3"
+msgstr "month_name_3"
+
+msgctxt "Languages::description::month_name_4"
+msgid "month_name_4"
+msgstr "month_name_4"
+
+msgctxt "Languages::description::month_name_5"
+msgid "month_name_5"
+msgstr "month_name_5"
+
+msgctxt "Languages::description::month_name_6"
+msgid "month_name_6"
+msgstr "month_name_6"
+
+msgctxt "Languages::description::month_name_7"
+msgid "month_name_7"
+msgstr "month_name_7"
+
+msgctxt "Languages::description::month_name_8"
+msgid "month_name_8"
+msgstr "month_name_8"
+
+msgctxt "Languages::description::month_name_9"
+msgid "month_name_9"
+msgstr "month_name_9"
+
+msgctxt "Languages::description::month_name_10"
+msgid "month_name_10"
+msgstr "month_name_10"
+
+msgctxt "Languages::description::month_name_11"
+msgid "month_name_11"
+msgstr "month_name_11"
+
+msgctxt "Languages::description::month_name_12"
+msgid "month_name_12"
+msgstr "month_name_12"
+
+msgctxt "Languages::description::mini_cart_total_price"
+msgid "mini_cart_total_price"
+msgstr "mini_cart_total_price"
+
+msgctxt "Languages::description::total_quantity_order_label"
+msgid "total_quantity_order_label"
+msgstr "total_quantity_order_label"
+
+msgctxt "Languages::description::total_quantity_order_value"
+msgid "total_quantity_order_value"
+msgstr "total_quantity_order_value"
+
+msgctxt "Languages::description::place_of_residence"
+msgid "place_of_residence"
+msgstr "place_of_residence"
+
+msgctxt "Languages::description::cart_attention_1"
+msgid "cart_attention_1"
+msgstr "cart_attention_1"
+
+msgctxt "Languages::description::cart_attention_2"
+msgid "cart_attention_2"
+msgstr "cart_attention_2"
+
+msgctxt "Languages::description::other"
+msgid "other"
+msgstr "other"
+
+msgctxt "Languages::description::decline_to_state"
+msgid "decline_to_state"
+msgstr "decline_to_state"
+
+msgctxt "Languages::description::cart_contents"
+msgid "cart_contents"
+msgstr "cart_contents"
+
+msgctxt "Languages::description::weekday_format"
+msgid "weekday_format"
+msgstr "weekday_format"
+
+msgctxt "Languages::description::select_date_option"
+msgid "select_date_option"
+msgstr "select_date_option"
+
+msgctxt "Languages::description::billing_shipping_address"
+msgid "billing_shipping_address"
+msgstr "billing_shipping_address"
+
+msgctxt "Languages::description::currency_jpy_symbol"
+msgid "currency_jpy_symbol"
+msgstr "currency_jpy_symbol"
+
+msgctxt "Languages::description::total_products_order"
+msgid "total_products_order"
+msgstr "total_products_order"
+
+msgctxt "Languages::description::product_items"
+msgid "product_items"
+msgstr "product_items"
+
+msgctxt "Languages::description::more"
+msgid "more"
+msgstr "more"
+
+msgctxt "Languages::description::pos_order_is_canceled"
+msgid "pos_order_is_canceled"
+msgstr "pos_order_is_canceled"
+
+msgctxt "Languages::description::pos_order_not_found"
+msgid "pos_order_not_found"
+msgstr "pos_order_not_found"
+
+msgctxt "Languages::description::pos_can_not_cancel_order"
+msgid "pos_can_not_cancel_order"
+msgstr "pos_can_not_cancel_order"
+
+msgctxt "Languages::description::mail_logs_to"
+msgid "mail_logs_to"
+msgstr "mail_logs_to"
+
+msgctxt "Languages::description::advanced_product_price_is_lower_discount"
+msgid "advanced_product_price_is_lower_discount"
+msgstr "advanced_product_price_is_lower_discount"
+
+msgctxt "Languages::description::product_credit"
+msgid "product_credit"
+msgstr "product_credit"
+
+msgctxt "Languages::description::invalid_field"
+msgid "invalid_field"
+msgstr "invalid_field"
+
+msgctxt "Languages::description::product_credit_greater_max_len"
+msgid "product_credit_greater_max_len"
+msgstr "product_credit_greater_max_len"
+
+msgctxt "Languages::description::tickets_qr_code"
+msgid "tickets_qr_code"
+msgstr "tickets_qr_code"
+
+msgctxt "Languages::description::preview_qr_code"
+msgid "preview_qr_code"
+msgstr "preview_qr_code"
+
+msgctxt "Languages::description::owner_cc_card_notice"
+msgid "owner_cc_card_notice"
+msgstr "owner_cc_card_notice"
+
+msgctxt "Languages::description::gender_other"
+msgid "gender_other"
+msgstr "gender_other"
+
+msgctxt "Languages::description::selling_all"
+msgid "selling_all"
+msgstr "selling_all"
+
+msgctxt "Languages::description::selling_pos"
+msgid "selling_pos"
+msgstr "selling_pos"
+
+msgctxt "Languages::description::selling_web"
+msgid "selling_web"
+msgstr "selling_web"
+
+msgctxt "Languages::description::note_id_login"
+msgid "note_id_login"
+msgstr "note_id_login"
+
+msgctxt "Languages::description::id"
+msgid "id"
+msgstr "id"
+
+msgctxt "Languages::description::required_field"
+msgid "required_field"
+msgstr "required_field"
+
+msgctxt "Languages::description::invalid_field"
+msgid "invalid_field"
+msgstr "invalid_field"
+
+msgctxt "Languages::description::min_0_field"
+msgid "min_0_field"
+msgstr "min_0_field"
+
+msgctxt "Languages::description::date_from_before_or_equal_date_to"
+msgid "date_from_before_or_equal_date_to"
+msgstr "date_from_before_or_equal_date_to"
+
+msgctxt "Languages::description::image_upload_exceed_error"
+msgid "image_upload_exceed_error"
+msgstr "image_upload_exceed_error"
+
+msgctxt "Languages::description::release_info_date"
+msgid "release_info_date"
+msgstr "release_info_date"
+
+msgctxt "Languages::description::api_date_format_field"
+msgid "api_date_format_field"
+msgstr "api_date_format_field"
+
+msgctxt "Languages::description::api_date_from_before_or_equal_date_to"
+msgid "api_date_from_before_or_equal_date_to"
+msgstr "api_date_from_before_or_equal_date_to"
+
+msgctxt "Languages::description::api_invalid_field"
+msgid "api_invalid_field"
+msgstr "api_invalid_field"
+
+msgctxt "Languages::description::text_cart_amount_limit"
+msgid "google translate"
+msgstr "google translate"
+
+msgctxt "Languages::description::date_from_before_date_to"
+msgid "date_from_before_date_to"
+msgstr "date_from_before_date_to"
+
+msgctxt "Languages::description::please_enter_start_tour_period"
+msgid "please_enter_start_tour_period"
+msgstr "please_enter_start_tour_period"
+
+msgctxt "Languages::description::please_enter_selling_class"
+msgid "please_enter_selling_class"
+msgstr "please_enter_selling_class"
+
+msgctxt "Languages::description::please_enter_start_receipt"
+msgid "please_enter_start_receipt"
+msgstr "please_enter_start_receipt"
+
+msgctxt "Languages::description::please_enter_end_selling_date"
+msgid "please_enter_end_selling_date"
+msgstr "please_enter_end_selling_date"
+
+msgctxt "Languages::description::please_enter_number"
+msgid "please_enter_number"
+msgstr "please_enter_number"
+
+msgctxt "Languages::description::please_add_a_seat_type"
+msgid "please_add_a_seat_type"
+msgstr "please_add_a_seat_type"
+
+msgctxt "Languages::description::do_you_want_delete_event"
+msgid "do_you_want_delete_event"
+msgstr "do_you_want_delete_event"
+
+msgctxt "Languages::description::are_you_sure_delete_selling_class"
+msgid "are_you_sure_delete_selling_class"
+msgstr "are_you_sure_delete_selling_class"
+
+msgctxt "Languages::description::are_sure_delete_seat"
+msgid "are_sure_delete_seat"
+msgstr "are_sure_delete_seat"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_0"
+msgid "please_enter_a_value_greater_than_or_equal_to_0"
+msgstr "please_enter_a_value_greater_than_or_equal_to_0"
+
+msgctxt "Languages::description::please_enter_venue_name"
+msgid "please_enter_venue_name"
+msgstr "please_enter_venue_name"
+
+msgctxt "Languages::description::please_enter_seat_type"
+msgid "please_enter_seat_type"
+msgstr "please_enter_seat_type"
+
+msgctxt "Languages::description::please_enter_stock"
+msgid "please_enter_stock"
+msgstr "please_enter_stock"
+
+msgctxt "Languages::description::please_enter_position"
+msgid "please_enter_position"
+msgstr "please_enter_position"
+
+msgctxt "Languages::description::are_you_sure_delete_event_time"
+msgid "are_you_sure_delete_event_time"
+msgstr "are_you_sure_delete_event_time"
+
+msgctxt "Languages::description::are_you_sure_delete_all_event_time"
+msgid "are_you_sure_delete_all_event_time"
+msgstr "are_you_sure_delete_all_event_time"
+
+msgctxt "Languages::description::please_add_a_event_time"
+msgid "please_add_a_event_time"
+msgstr "please_add_a_event_time"
+
+msgctxt "Languages::description::has_a_event_time_select_multi_times"
+msgid "has_a_event_time_select_multi_times"
+msgstr "has_a_event_time_select_multi_times"
+
+msgctxt "Languages::description::has_a_seat_type_input_multi_times"
+msgid "has_a_seat_type_input_multi_times"
+msgstr "has_a_seat_type_input_multi_times"
+
+msgctxt "Languages::description::has_a_selling_class_input_multi_times"
+msgid "has_a_selling_class_input_multi_times"
+msgstr "has_a_selling_class_input_multi_times"
+
+msgctxt "Languages::description::please_enter_event_priod_date"
+msgid "please_enter_event_priod_date"
+msgstr "please_enter_event_priod_date"
+
+msgctxt "Languages::description::please_select_a_date"
+msgid "please_select_a_date"
+msgstr "please_select_a_date"
+
+msgctxt "Languages::description::please_enter_reason"
+msgid "please_enter_reason"
+msgstr "please_enter_reason"
+
+msgctxt "Languages::description::event_time_has_seat_type_or_selling_class_is_sold"
+msgid "event_time_has_seat_type_or_selling_class_is_sold"
+msgstr "event_time_has_seat_type_or_selling_class_is_sold"
+
+msgctxt "Languages::description::please_enter_end_date_more_than_start_date"
+msgid "please_enter_end_date_more_than_start_date"
+msgstr "please_enter_end_date_more_than_start_date"
+
+msgctxt "Languages::description::please_enter_end_date_larger_than_start_date"
+msgid "please_enter_end_date_larger_than_start_date"
+msgstr "please_enter_end_date_larger_than_start_date"
+
+msgctxt "Languages::description::please_enter_start_reception"
+msgid "please_enter_start_reception"
+msgstr "please_enter_start_reception"
+
+msgctxt "Languages::description::please_choose_a_time_greater_than_or_equal_to_the_current_time"
+msgid "please_choose_a_time_greater_than_or_equal_to_the_current_time"
+msgstr "please_choose_a_time_greater_than_or_equal_to_the_current_time"
+
+msgctxt "Languages::description::please_enter_a_stock_greater_than_or_equal_to"
+msgid "please_enter_a_stock_greater_than_or_equal_to"
+msgstr "please_enter_a_stock_greater_than_or_equal_to"
+
+msgctxt "Languages::description::please_enter_end_tour_priod"
+msgid "please_enter_end_tour_priod"
+msgstr "please_enter_end_tour_priod"
+
+msgctxt "Languages::description::please_enter_start_tour_priod"
+msgid "please_enter_start_tour_priod"
+msgstr "please_enter_start_tour_priod"
+
+msgctxt "Languages::description::cant_delete_event"
+msgid "cant_delete_event"
+msgstr "cant_delete_event"
+
+msgctxt "Languages::description::select_all"
+msgid "select_all"
+msgstr "select_all"
+
+msgctxt "Languages::description::we_have_sold_tickets_already"
+msgid "we_have_sold_tickets_already"
+msgstr "we_have_sold_tickets_already"
+
+msgctxt "Languages::description::please_enter_end_reception"
+msgid "please_enter_end_reception"
+msgstr "please_enter_end_reception"
+
+msgctxt "Languages::description::event_time_stoping"
+msgid "event_time_stoping"
+msgstr "event_time_stoping"
+
+msgctxt "Languages::description::stop_selling"
+msgid "stop_selling"
+msgstr "stop_selling"
+
+msgctxt "Languages::description::restart_selling"
+msgid "restart_selling"
+msgstr "restart_selling"
+
+msgctxt "Languages::description::times_1_user_can_apply_for_this_tour"
+msgid "times_1_user_can_apply_for_this_tour"
+msgstr "times_1_user_can_apply_for_this_tour"
+
+msgctxt "Languages::description::tickets_1_user_can_purchase_at_a_time"
+msgid "tickets_1_user_can_purchase_at_a_time"
+msgstr "tickets_1_user_can_purchase_at_a_time"
+
+msgctxt "Languages::description::removed_from_stock_when_a_user_purchase_1_ticket"
+msgid "removed_from_stock_when_a_user_purchase_1_ticket"
+msgstr "removed_from_stock_when_a_user_purchase_1_ticket"
+
+msgctxt "Languages::description::reduces_3_stocks_when_a_user_purchase_1_ticket"
+msgid "reduces_3_stocks_when_a_user_purchase_1_ticket"
+msgstr "reduces_3_stocks_when_a_user_purchase_1_ticket"
+
+msgctxt "Languages::description::not_the_price_per_1_ticket"
+msgid "not_the_price_per_1_ticket"
+msgstr "not_the_price_per_1_ticket"
+
+msgctxt "Languages::description::tickets_to_be_sold_with"
+msgid "tickets_to_be_sold_with"
+msgstr "tickets_to_be_sold_with"
+
+msgctxt "Languages::description::user_can_purchase_tickets_with_2"
+msgid "user_can_purchase_tickets_with_2"
+msgstr "user_can_purchase_tickets_with_2"
+
+msgctxt "Languages::description::it_defines_the_order_to_shown_this_seat_type"
+msgid "it_defines_the_order_to_shown_this_seat_type"
+msgstr "it_defines_the_order_to_shown_this_seat_type"
+
+msgctxt "Languages::description::the_product_has_been_sold_out_you_can_not_delete_it"
+msgid "the_product_has_been_sold_out_you_can_not_delete_it"
+msgstr "the_product_has_been_sold_out_you_can_not_delete_it"
+
+msgctxt "Languages::description::cant_delete_because_seat_type_was_sold"
+msgid "cant_delete_because_seat_type_was_sold"
+msgstr "cant_delete_because_seat_type_was_sold"
+
+msgctxt "Languages::description::delete_seat_type_success"
+msgid "delete_seat_type_success"
+msgstr "delete_seat_type_success"
+
+msgctxt "Languages::description::delete_selling_class_success"
+msgid "delete_selling_class_success"
+msgstr "delete_selling_class_success"
+
+msgctxt "Languages::description::update_seat_type_success"
+msgid "update_seat_type_success"
+msgstr "update_seat_type_success"
+
+msgctxt "Languages::description::cant_add_selling_because_seat_type_was_sold"
+msgid "cant_add_selling_because_seat_type_was_sold"
+msgstr "cant_add_selling_because_seat_type_was_sold"
+
+msgctxt "Languages::description::update_selling_class_success"
+msgid "update_selling_class_success"
+msgstr "update_selling_class_success"
+
+msgctxt "Languages::description::cant_delete_selling_class_was_sold"
+msgid "cant_delete_selling_class_was_sold"
+msgstr "cant_delete_selling_class_was_sold"
+
+msgctxt "Languages::description::only_update_stock_for_seat_type_and_not_update_info_seat_type"
+msgid "only_update_stock_for_seat_type_and_not_update_info_seat_type"
+msgstr "only_update_stock_for_seat_type_and_not_update_info_seat_type"
+
+msgctxt "Languages::description::update_success_stock_seat_type_for_seat_type"
+msgid "update_success_stock_seat_type_for_seat_type"
+msgstr "update_success_stock_seat_type_for_seat_type"
+
+msgctxt "Languages::description::cant_update_because_seat_type_was_sold_and_new_stock_greater_than_or_equal_to_stock"
+msgid "cant_update_because_seat_type_was_sold_and_new_stock_greater_than_or_equal_to_stock"
+msgstr "cant_update_because_seat_type_was_sold_and_new_stock_greater_than_or_equal_to_stock"
+
+msgctxt "Languages::description::only_update_start_selling_and_end_selling_for_selling_class_cant_update_info_other"
+msgid "only_update_start_selling_and_end_selling_for_selling_class_cant_update_info_other"
+msgstr "only_update_start_selling_and_end_selling_for_selling_class_cant_update_info_other"
+
+msgctxt "Languages::description::cant_update_selling_class_start_selling_and_selling_incorrect"
+msgid "cant_update_selling_class_start_selling_and_selling_incorrect"
+msgstr "cant_update_selling_class_start_selling_and_selling_incorrect"
+
+msgctxt "Languages::description::cant_update_group_ticket_selling_class"
+msgid "cant_update_group_ticket_selling_class"
+msgstr "cant_update_group_ticket_selling_class"
+
+msgctxt "Languages::description::cant_update_group_ticket_seat_type"
+msgid "cant_update_group_ticket_seat_type"
+msgstr "cant_update_group_ticket_seat_type"
+
+msgctxt "Languages::description::the_event_time_has_been_sold_out_you_can_not_delete_it"
+msgid "the_event_time_has_been_sold_out_you_can_not_delete_it"
+msgstr "the_event_time_has_been_sold_out_you_can_not_delete_it"
+
+msgctxt "Languages::description::the_event_time_deleted_success"
+msgid "the_event_time_deleted_success"
+msgstr "the_event_time_deleted_success"
+
+msgctxt "Languages::description::cant_edit_basic_info_event_was_sold"
+msgid "cant_edit_basic_info_event_was_sold"
+msgstr "cant_edit_basic_info_event_was_sold"
+
+msgctxt "Languages::description::cant_add_event_time_event_was_sold"
+msgid "cant_add_event_time_event_was_sold"
+msgstr "cant_add_event_time_event_was_sold"
+
+msgctxt "Languages::description::please_enter_price_greater_than_0"
+msgid "please_enter_price_greater_than_0"
+msgstr "please_enter_price_greater_than_0"
+
+msgctxt "Languages::description::can_not_delete_the_last_event_time"
+msgid "can_not_delete_the_last_event_time"
+msgstr "can_not_delete_the_last_event_time"
+
+msgctxt "Languages::description::can_not_save_because_some_value_invalid"
+msgid "can_not_save_because_some_value_invalid"
+msgstr "can_not_save_because_some_value_invalid"
+
+msgctxt "Languages::description::no_contents_found"
+msgid "no_contents_found"
+msgstr "no_contents_found"
+
+msgctxt "Languages::description::item_was_deleted"
+msgid "item_was_deleted"
+msgstr "item_was_deleted"
+
+msgctxt "Languages::description::add_failed"
+msgid "add_failed"
+msgstr "add_failed"
+
+msgctxt "Languages::description::added_success"
+msgid "added_success"
+msgstr "added_success"
+
+msgctxt "Languages::description::file_upload_error"
+msgid "file_upload_error"
+msgstr "file_upload_error"
+
+msgctxt "Languages::description::file_uploaded"
+msgid "file_uploaded"
+msgstr "file_uploaded"
+
+msgctxt "Languages::description::monitor_id_not_found"
+msgid "monitor_id_not_found"
+msgstr "monitor_id_not_found"
+
+msgctxt "Languages::description::please_add_image"
+msgid "please_add_image"
+msgstr "please_add_image"
+
+msgctxt "Languages::description::please_add_movie"
+msgid "please_add_movie"
+msgstr "please_add_movie"
+
+msgctxt "Languages::description::please_input_data"
+msgid "please_input_data"
+msgstr "please_input_data"
+
+msgctxt "Languages::description::please_input_number"
+msgid "please_input_number"
+msgstr "please_input_number"
+
+msgctxt "Languages::description::please_input_order"
+msgid "please_input_order"
+msgstr "please_input_order"
+
+msgctxt "Languages::description::please_input_title"
+msgid "please_input_title"
+msgstr "please_input_title"
+
+msgctxt "Languages::description::please_select_layout"
+msgid "please_select_layout"
+msgstr "please_select_layout"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "please_select_tour"
+msgstr "please_select_tour"
+
+msgctxt "Languages::description::updated_success"
+msgid "updated_success"
+msgstr "updated_success"
+
+msgctxt "Languages::description::numerical_field"
+msgid "numerical_field"
+msgstr "numerical_field"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "text_cart_limit_number_ticket"
+msgstr "text_cart_limit_number_ticket"
+
+msgctxt "Languages::description::text_cart_maximum_order_quantity"
+msgid "text_cart_maximum_order_quantity"
+msgstr "text_cart_maximum_order_quantity"
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "text_cart_quantity_step"
+msgstr "text_cart_quantity_step"
+
+msgctxt "Languages::description::text_cart_amount_corrected"
+msgid "text_cart_amount_corrected"
+msgstr "text_cart_amount_corrected"
+
+msgctxt "Languages::description::text_cart_amount_changed"
+msgid "text_cart_amount_changed"
+msgstr "text_cart_amount_changed"
+
+msgctxt "Languages::description::min_qty_not_greater_than_max_qty"
+msgid "min_qty_not_greater_than_max_qty"
+msgstr "min_qty_not_greater_than_max_qty"
+
+msgctxt "Languages::description::start_selling_specify_date_after_or_equal_current_time"
+msgid "start_selling_specify_date_after_or_equal_current_time"
+msgstr "start_selling_specify_date_after_or_equal_current_time"
+
+msgctxt "Languages::description::end_selling_specify_date_after_or_equal_current_time"
+msgid "end_selling_specify_date_after_or_equal_current_time"
+msgstr "end_selling_specify_date_after_or_equal_current_time"
+
+msgctxt "Languages::description::start_scanning_specify_date_after_or_equal_current_time"
+msgid "start_scanning_specify_date_after_or_equal_current_time"
+msgstr "start_scanning_specify_date_after_or_equal_current_time"
+
+msgctxt "Languages::description::end_scanning_specify_date_after_or_equal_current_time"
+msgid "end_scanning_specify_date_after_or_equal_current_time"
+msgstr "end_scanning_specify_date_after_or_equal_current_time"
+
+msgctxt "Languages::description::validate_start_selling"
+msgid "validate_start_selling"
+msgstr "validate_start_selling"
+
+msgctxt "Languages::description::validate_end_selling"
+msgid "validate_end_selling"
+msgstr "validate_end_selling"
+
+msgctxt "Languages::description::validate_stop_selling"
+msgid "validate_stop_selling"
+msgstr "validate_stop_selling"
+
+msgctxt "Languages::description::validate_out_of_stock"
+msgid "validate_out_of_stock"
+msgstr "validate_out_of_stock"
+
+msgctxt "Languages::description::validate_overlap_time_danin"
+msgid "validate_overlap_time_danin"
+msgstr "validate_overlap_time_danin"
+
+msgctxt "Languages::description::validate_only_for_danin"
+msgid "validate_only_for_danin"
+msgstr "validate_only_for_danin"
+
+msgctxt "Languages::description::validate_required"
+msgid "validate_required"
+msgstr "validate_required"
+
+msgctxt "Languages::description::validate_widekana_space"
+msgid "validate_widekana_space"
+msgstr "validate_widekana_space"
+
+msgctxt "Languages::description::validate_phone_number"
+msgid "validate_phone_number"
+msgstr "validate_phone_number"
+
+msgctxt "Languages::description::validate_post_code"
+msgid "validate_post_code"
+msgstr "validate_post_code"
+
+msgctxt "Languages::description::validate_birth_year"
+msgid "validate_birth_year"
+msgstr "validate_birth_year"
+
+msgctxt "Languages::description::validate_maxlength"
+msgid "validate_maxlength"
+msgstr "validate_maxlength"
+
+msgctxt "Languages::description::validate_email"
+msgid "validate_email"
+msgstr "validate_email"
+
+msgctxt "Languages::description::validate_wide_char_space"
+msgid "validate_wide_char_space"
+msgstr "validate_wide_char_space"
+
+msgctxt "Languages::description::please_select_time_greater_than_current_time"
+msgid "please_select_time_greater_than_current_time"
+msgstr "please_select_time_greater_than_current_time"
+
+msgctxt "Languages::description::format_deep_link_incorrect"
+msgid "format_deep_link_incorrect"
+msgstr "format_deep_link_incorrect"
+
+msgctxt "Languages::description::cant_update_notification"
+msgid "cant_update_notification"
+msgstr "cant_update_notification"
+
+msgctxt "Languages::description::notification_sent_successfully"
+msgid "notification_sent_successfully"
+msgstr "notification_sent_successfully"
+
+msgctxt "Languages::description::delete_notification_success"
+msgid "delete_notification_success"
+msgstr "delete_notification_success"
+
+msgctxt "Languages::description::cant_delete_notification"
+msgid "cant_delete_notification"
+msgstr "cant_delete_notification"
+
+msgctxt "Languages::description::product_id_not_exist"
+msgid "product_id_not_exist"
+msgstr "product_id_not_exist"
+
+msgctxt "Languages::description::news_id_incorrect"
+msgid "news_id_incorrect"
+msgstr "news_id_incorrect"
+
+msgctxt "Languages::description::type_schedule_incorrect"
+msgid "type_schedule_incorrect"
+msgstr "type_schedule_incorrect"
+
+msgctxt "Languages::description::invitation_code_incorrect"
+msgid "invitation_code_incorrect"
+msgstr "invitation_code_incorrect"
+
+msgctxt "Languages::description::are_you_sure_delete_notification"
+msgid "are_you_sure_delete_notification"
+msgstr "are_you_sure_delete_notification"
+
+msgctxt "Languages::description::minute_number_must_be_in_range"
+msgid "minute_number_must_be_in_range"
+msgstr "minute_number_must_be_in_range"
+
+msgctxt "Languages::description::error_payment_limit_time"
+msgid "error_payment_limit_time"
+msgstr "error_payment_limit_time"
+
+msgctxt "Languages::description::invalidate_start_end_selling_schedule_time"
+msgid "invalidate_start_end_selling_schedule_time"
+msgstr "invalidate_start_end_selling_schedule_time"
+
+msgctxt "Languages::description::event_time_from_must_before_event_time_to"
+msgid "event_time_from_must_before_event_time_to"
+msgstr "event_time_from_must_before_event_time_to"
+

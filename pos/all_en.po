@@ -1,0 +1,3946 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Languages::description::start_selling"
+msgid "Start selling on"
+msgstr "Start selling on"
+
+msgctxt "Languages::description::specify_date"
+msgid "Specify date"
+msgstr "Specify date"
+
+msgctxt "Languages::description::specify_days"
+msgid "Specify days"
+msgstr "Specify days"
+
+msgctxt "Languages::description::days_before_event"
+msgid "Days before event"
+msgstr "Days before event"
+
+msgctxt "Languages::description::end_selling"
+msgid "End selling on"
+msgstr "End selling on"
+
+msgctxt "Languages::description::specify_hours"
+msgid "Specify hours"
+msgstr "Specify hours"
+
+msgctxt "Languages::description::hours"
+msgid "Hours"
+msgstr "Hours"
+
+msgctxt "Languages::description::after_event_is_started"
+msgid "After event is started"
+msgstr "After event is started"
+
+msgctxt "Languages::description::before_event_is_started"
+msgid "Before event is started"
+msgstr "Before event is started"
+
+msgctxt "Languages::description::start_scanning"
+msgid "Start scanning on"
+msgstr "Start scanning on"
+
+msgctxt "Languages::description::hours_before_event"
+msgid "Hours before"
+msgstr "Hours before"
+
+msgctxt "Languages::description::end_scanning"
+msgid "End scanning on"
+msgstr "End scanning on"
+
+msgctxt "Languages::description::show_event_schedule"
+msgid "Show event schedule"
+msgstr "Show event schedule"
+
+msgctxt "Languages::description::on"
+msgid "On"
+msgstr "On"
+
+msgctxt "Languages::description::off"
+msgid "Off"
+msgstr "Off"
+
+msgctxt "Languages::description::start_tour_period"
+msgid "Tour period (From)"
+msgstr "Tour period (From)"
+
+msgctxt "Languages::description::end_tour_period"
+msgid "Tour period (To)"
+msgstr "Tour period (To)"
+
+msgctxt "Languages::description::limit_number_ticket"
+msgid "Maximum application times"
+msgstr "Maximum application times"
+
+msgctxt "Languages::description::up_to_this_number"
+msgid "Up to this number"
+msgstr "Up to this number"
+
+msgctxt "Languages::description::only_a_few_ticket"
+msgid "Set number of ticket for (only a few)"
+msgstr "Set number of ticket for (only a few)"
+
+msgctxt "Languages::description::field_start_selling_type"
+msgid "start selling type"
+msgstr "start selling type"
+
+msgctxt "Languages::description::field_start_selling_specify_date"
+msgid "start selling specify date"
+msgstr "start selling specify date"
+
+msgctxt "Languages::description::field_start_selling_specify_time"
+msgid "start selling specify time"
+msgstr "start selling specify time"
+
+msgctxt "Languages::description::field_start_selling_day"
+msgid "start selling day"
+msgstr "start selling day"
+
+msgctxt "Languages::description::field_start_selling_time"
+msgid "start selling time"
+msgstr "start selling time"
+
+msgctxt "Languages::description::field_end_selling_type"
+msgid "end selling type"
+msgstr "end selling type"
+
+msgctxt "Languages::description::field_end_selling_specify_date"
+msgid "end selling specify date"
+msgstr "end selling specify date"
+
+msgctxt "Languages::description::field_end_selling_specify_time"
+msgid "end selling specify time"
+msgstr "end selling specify time"
+
+msgctxt "Languages::description::field_end_selling_hours"
+msgid "end selling hours"
+msgstr "end selling hours"
+
+msgctxt "Languages::description::field_end_selling_hours_type"
+msgid "end selling hours type"
+msgstr "end selling hours type"
+
+msgctxt "Languages::description::field_start_scanning_type"
+msgid "start scanning type"
+msgstr "start scanning type"
+
+msgctxt "Languages::description::field_start_scanning_specify_date"
+msgid "start scanning specify date"
+msgstr "start scanning specify date"
+
+msgctxt "Languages::description::field_start_scanning_specify_time"
+msgid "start scanning specify time"
+msgstr "start scanning specify time"
+
+msgctxt "Languages::description::field_start_scanning_hours"
+msgid "start scanning hours"
+msgstr "start scanning hours"
+
+msgctxt "Languages::description::field_end_scanning_type"
+msgid "end scanning type"
+msgstr "end scanning type"
+
+msgctxt "Languages::description::field_end_scanning_specify_date"
+msgid "end scanning specify date"
+msgstr "end scanning specify date"
+
+msgctxt "Languages::description::field_end_scanning_specify_time"
+msgid "end scanning specify time"
+msgstr "end scanning specify time"
+
+msgctxt "Languages::description::field_end_scanning_hours"
+msgid "end scanning hours"
+msgstr "end scanning hours"
+
+msgctxt "Languages::description::field_end_scanning_hours_type"
+msgid "end scanning hours type"
+msgstr "end scanning hours type"
+
+msgctxt "Languages::description::field_start_tour_period"
+msgid "tour period (from)"
+msgstr "tour period (from)"
+
+msgctxt "Languages::description::field_end_tour_period"
+msgid "tour period (to)"
+msgstr "tour period (to)"
+
+msgctxt "Languages::description::field_show_event_schedule"
+msgid "show event schedule"
+msgstr "show event schedule"
+
+msgctxt "Languages::description::field_limit_number_ticket"
+msgid "Maximum application times"
+msgstr "Maximum application times"
+
+msgctxt "Languages::description::field_only_a_few_ticket"
+msgid "only a few of ticket"
+msgstr "only a few of ticket"
+
+msgctxt "Languages::description::field_start_selling"
+msgid "start selling"
+msgstr "start selling"
+
+msgctxt "Languages::description::field_end_selling"
+msgid "end selling"
+msgstr "end selling"
+
+msgctxt "Languages::description::field_start_scanning"
+msgid "start scanning"
+msgstr "start scanning"
+
+msgctxt "Languages::description::field_end_scanning"
+msgid "end scanning"
+msgstr "end scanning"
+
+msgctxt "Languages::description::number_ticket"
+msgid "number ticket"
+msgstr "number ticket"
+
+msgctxt "Languages::description::tour_period"
+msgid "Tour period"
+msgstr "Tour period"
+
+msgctxt "Languages::description::holiday"
+msgid "Holiday"
+msgstr "Holiday"
+
+msgctxt "Languages::description::door"
+msgid "Door"
+msgstr "Door"
+
+msgctxt "Languages::description::price"
+msgid "Price"
+msgstr "Price"
+
+msgctxt "Languages::description::Notes"
+msgid "備考"
+msgstr "備考"
+
+msgctxt "Languages::description::What's group tickets"
+msgid "グループチケットとは"
+msgstr "グループチケットとは"
+
+msgctxt "Languages::description::How to play"
+msgid "遊び方"
+msgstr "遊び方"
+
+msgctxt "Languages::description::Time-limit"
+msgid "制限時間"
+msgstr "制限時間"
+
+msgctxt "Languages::description::Story"
+msgid "ストーリー"
+msgstr "ストーリー"
+
+msgctxt "Languages::description::Sales catch"
+msgid "セールスキャッチ"
+msgstr "セールスキャッチ"
+
+msgctxt "Languages::description::About this event"
+msgid "この公演について"
+msgstr "この公演について"
+
+msgctxt "Languages::description::Tab Price"
+msgid "料金"
+msgstr "料金"
+
+msgctxt "Languages::description::Tab Date"
+msgid "日程"
+msgstr "日程"
+
+msgctxt "Languages::description::Tab How To Play"
+msgid "遊び方"
+msgstr "遊び方"
+
+msgctxt "Languages::description::Tab Story"
+msgid "ストーリー"
+msgstr "ストーリー"
+
+msgctxt "Languages::description::Tab FAQ"
+msgid "FAQ"
+msgstr "FAQ"
+
+msgctxt "Languages::description::Overview"
+msgid "概要"
+msgstr "概要"
+
+msgctxt "Languages::description::Text"
+msgid "テキスト"
+msgstr "テキスト"
+
+msgctxt "Languages::description::no_data_available"
+msgid "NO DATA AVAILABLE"
+msgstr "NO DATA AVAILABLE"
+
+msgctxt "Languages::description::change_member_info"
+msgid "Change member’s info"
+msgstr "Change member’s info"
+
+msgctxt "Languages::description::available"
+msgid "Available"
+msgstr "Available"
+
+msgctxt "Languages::description::only_a_few_left"
+msgid "Only a few left"
+msgstr "Only a few left"
+
+msgctxt "Languages::description::priviledge"
+msgid "Priviledge"
+msgstr "Priviledge"
+
+msgctxt "Languages::description::number_of_ppl_per_team_how_to"
+msgid "number of ppl per team"
+msgstr "number of ppl per team"
+
+msgctxt "Languages::description::number_of_ppl_per_team_story"
+msgid "number of ppl per team"
+msgstr "number of ppl per team"
+
+msgctxt "Languages::description::ticket_sales"
+msgid "Ticket Sales"
+msgstr "Ticket Sales"
+
+msgctxt "Languages::description::field_start_selling_specify_hour"
+msgid "start selling specify hour"
+msgstr "start selling specify hour"
+
+msgctxt "Languages::description::field_start_selling_specify_minute"
+msgid "start selling specify minute"
+msgstr "start selling specify minute"
+
+msgctxt "Languages::description::field_start_selling_hour"
+msgid "start selling hour"
+msgstr "start selling hour"
+
+msgctxt "Languages::description::field_start_selling_minute"
+msgid "start selling minute"
+msgstr "start selling minute"
+
+msgctxt "Languages::description::field_end_selling_specify_hour"
+msgid "end selling specify hour"
+msgstr "end selling specify hour"
+
+msgctxt "Languages::description::field_end_selling_specify_minute"
+msgid "end selling specify minute"
+msgstr "end selling specify minute"
+
+msgctxt "Languages::description::field_start_scanning_specify_hour"
+msgid "start scanning specify hour"
+msgstr "start scanning specify hour"
+
+msgctxt "Languages::description::field_start_scanning_specify_minute"
+msgid "start scanning specify minute"
+msgstr "start scanning specify minute"
+
+msgctxt "Languages::description::field_end_scanning_specify_hour"
+msgid "end scanning specify hour"
+msgstr "end scanning specify hour"
+
+msgctxt "Languages::description::field_end_scanning_specify_minute"
+msgid "end scanning specify minute"
+msgstr "end scanning specify minute"
+
+msgctxt "Languages::description::release_info_date"
+msgid "Release information date"
+msgstr "Release information date"
+
+msgctxt "Languages::description::field_release_info_date"
+msgid "release information date"
+msgstr "release information date"
+
+msgctxt "Languages::description::field_release_info_hour"
+msgid "release information hour"
+msgstr "release information hour"
+
+msgctxt "Languages::description::field_release_info_minute"
+msgid "release information minute"
+msgstr "release information minute"
+
+msgctxt "Languages::description::field_position"
+msgid "position"
+msgstr "position"
+
+msgctxt "Languages::description::jp_availability"
+msgid "Remained seat"
+msgstr "Remained seat"
+
+msgctxt "Languages::description::search_tour"
+msgid "Search tour"
+msgstr "Search tour"
+
+msgctxt "Languages::description::get_social"
+msgid "Get social"
+msgstr "Get social"
+
+msgctxt "Languages::description::last"
+msgid "Last"
+msgstr "Last"
+
+msgctxt "Languages::description::first"
+msgid "First"
+msgstr "First"
+
+msgctxt "Languages::description::all"
+msgid "All"
+msgstr "All"
+
+msgctxt "Languages::description::coming_soon"
+msgid "Coming soon"
+msgstr "Coming soon"
+
+msgctxt "Languages::description::open_now"
+msgid "Open now"
+msgstr "Open now"
+
+msgctxt "Languages::description::add_event_time"
+msgid "Add event time"
+msgstr "Add event time"
+
+msgctxt "Languages::description::edit_event_time"
+msgid "Edit event time"
+msgstr "Edit event time"
+
+msgctxt "Languages::description::edit"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "Languages::description::create_schedule"
+msgid "Create schedule"
+msgstr "Create schedule"
+
+msgctxt "Languages::description::de_active"
+msgid "De acitve"
+msgstr "De acitve"
+
+msgctxt "Languages::description::edit_basic_info"
+msgid "Edit basic info"
+msgstr "Edit basic info"
+
+msgctxt "Languages::description::add_event"
+msgid "Add event"
+msgstr "Add event"
+
+msgctxt "Languages::description::venue_name"
+msgid "Venue name"
+msgstr "Venue name"
+
+msgctxt "Languages::description::event_term"
+msgid "Event term"
+msgstr "Event term"
+
+msgctxt "Languages::description::event_day_week_date"
+msgid "Event day (weekdays)"
+msgstr "Event day (weekdays)"
+
+msgctxt "Languages::description::event_time_holiday"
+msgid "Event time (holidays)"
+msgstr "Event time (holidays)"
+
+msgctxt "Languages::description::event_day_holiday"
+msgid "Event day (holidays)"
+msgstr "Event day (holidays)"
+
+msgctxt "Languages::description::event_time_week_day"
+msgid "Event time (weekdays)"
+msgstr "Event time (weekdays)"
+
+msgctxt "Languages::description::seat_type"
+msgid "Ticket type"
+msgstr "Ticket type"
+
+msgctxt "Languages::description::event_schedule"
+msgid "Event schedule"
+msgstr "Event schedule"
+
+msgctxt "Languages::description::basic_info"
+msgid "Basic info"
+msgstr "Basic info"
+
+msgctxt "Languages::description::add_seat_type"
+msgid "Add seat type"
+msgstr "Add seat type"
+
+msgctxt "Languages::description::event_date"
+msgid "Event date"
+msgstr "Event date"
+
+msgctxt "Languages::description::stock"
+msgid "Stock"
+msgstr "Stock"
+
+msgctxt "Languages::description::pre_tickets"
+msgid "tickets"
+msgstr "tickets"
+
+msgctxt "Languages::description::edit_seat_type"
+msgid "Edit seat type"
+msgstr "Edit seat type"
+
+msgctxt "Languages::description::reason"
+msgid "Reason"
+msgstr "Reason"
+
+msgctxt "Languages::description::new_selling"
+msgid "New selling"
+msgstr "New selling"
+
+msgctxt "Languages::description::name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::description::after_the_event"
+msgid "After the event"
+msgstr "After the event"
+
+msgctxt "Languages::description::before_the_event"
+msgid "Before the event"
+msgstr "Before the event"
+
+msgctxt "Languages::description::selling_class"
+msgid "Selling class"
+msgstr "Selling class"
+
+msgctxt "Languages::description::yen"
+msgid "Yen"
+msgstr "Yen"
+
+msgctxt "Languages::description::specity_date"
+msgid "Specify date"
+msgstr "Specify date"
+
+msgctxt "Languages::description::event_period"
+msgid "Event period"
+msgstr "Event period"
+
+msgctxt "Languages::description::select_date"
+msgid "Select date"
+msgstr "Select date"
+
+msgctxt "Languages::description::mon"
+msgid "Mon"
+msgstr "Mon"
+
+msgctxt "Languages::description::tue"
+msgid "Tue"
+msgstr "Tue"
+
+msgctxt "Languages::description::wed"
+msgid "Wed"
+msgstr "Wed"
+
+msgctxt "Languages::description::thu"
+msgid "Thu"
+msgstr "Thu"
+
+msgctxt "Languages::description::fri"
+msgid "Fri"
+msgstr "Fri"
+
+msgctxt "Languages::description::sat"
+msgid "Sat"
+msgstr "Sat"
+
+msgctxt "Languages::description::sun"
+msgid "Sun"
+msgstr "Sun"
+
+msgctxt "Languages::description::holidays"
+msgid "Holidays"
+msgstr "Holidays"
+
+msgctxt "Languages::description::previous_month"
+msgid "Prev. month"
+msgstr "Prev. month"
+
+msgctxt "Languages::description::next_month"
+msgid "Next month"
+msgstr "Next month"
+
+msgctxt "Languages::description::venue"
+msgid "Venue"
+msgstr "Venue"
+
+msgctxt "Languages::description::update_event_time"
+msgid "Update event time"
+msgstr "Update event time"
+
+msgctxt "Languages::description::booth"
+msgid "Booth"
+msgstr "Booth"
+
+msgctxt "Languages::description::date"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "Languages::description::delete_all"
+msgid "Delete all"
+msgstr "Delete all"
+
+msgctxt "Languages::description::limit_number_for_application"
+msgid "Maximum application times （limit number of times for application）"
+msgstr "Maximum application times （limit number of times for application）"
+
+msgctxt "Languages::description::start_reception_on"
+msgid "Start reception on"
+msgstr "Start reception on"
+
+msgctxt "Languages::description::event"
+msgid "Event"
+msgstr "Event"
+
+msgctxt "Languages::description::events"
+msgid "Events"
+msgstr "Events"
+
+msgctxt "Languages::description::specify_days_and_time"
+msgid "Specify days and time"
+msgstr "Specify days and time"
+
+msgctxt "Languages::description::selling_to"
+msgid "Selling to"
+msgstr "Selling to"
+
+msgctxt "Languages::description::normal_member"
+msgid "Normal member"
+msgstr "Normal member"
+
+msgctxt "Languages::description::NAKED_fc"
+msgid "NAKED FC"
+msgstr "NAKED FC"
+
+msgctxt "Languages::description::day_before_the_event"
+msgid "Day before the event"
+msgstr "Day before the event"
+
+msgctxt "Languages::description::end_reception_on"
+msgid "End reception on"
+msgstr "End reception on"
+
+msgctxt "Languages::description::quality_step"
+msgid "Quality step"
+msgstr "Quality step"
+
+msgctxt "Languages::description::max_application_times"
+msgid "Max application times"
+msgstr "Max application times"
+
+msgctxt "Languages::description::group_ticket"
+msgid "Stock that will be reduced per 1 ticket"
+msgstr "Stock that will be reduced per 1 ticket"
+
+msgctxt "Languages::description::no_events"
+msgid "No event is set"
+msgstr "No event is set"
+
+msgctxt "Languages::description::seat_type_was_sold"
+msgid "This seat type has sold (ordered) already"
+msgstr "This seat type has sold (ordered) already"
+
+msgctxt "Languages::description::times"
+msgid "times"
+msgstr "times"
+
+msgctxt "Languages::description::cant_edit_pre_date"
+msgid "You cannot edit date before today"
+msgstr "You cannot edit date before today"
+
+msgctxt "Languages::description::format_date_not_correct"
+msgid "Date format incorrect"
+msgstr "Date format incorrect"
+
+msgctxt "Languages::description::add_content"
+msgid "Add content"
+msgstr "Add content"
+
+msgctxt "Languages::description::add_image"
+msgid "Add image"
+msgstr "Add image"
+
+msgctxt "Languages::description::add_monitor"
+msgid "Add monitor"
+msgstr "Add monitor"
+
+msgctxt "Languages::description::edit_monitor"
+msgid "Edit monitor"
+msgstr "Edit monitor"
+
+msgctxt "Languages::description::layout_1_image_text"
+msgid "Layout 1 (image + text)"
+msgstr "Layout 1 (image + text)"
+
+msgctxt "Languages::description::layout_2_only_movie"
+msgid "Layout 2 (only movie)"
+msgstr "Layout 2 (only movie)"
+
+msgctxt "Languages::description::layout_3_only_text"
+msgid "Layout 3 (only text)"
+msgstr "Layout 3 (only text)"
+
+msgctxt "Languages::description::layout_4_slide_of_image"
+msgid "Layout 4 (slide of images)"
+msgstr "Layout 4 (slide of images)"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "Please select tour"
+msgstr "Please select tour"
+
+msgctxt "Languages::description::select_tour"
+msgid "Select tour"
+msgstr "Select tour"
+
+msgctxt "Languages::description::display_order"
+msgid "Display order"
+msgstr "Display order"
+
+msgctxt "Languages::description::manage_monitor"
+msgid "Manage monitors"
+msgstr "Manage monitors"
+
+msgctxt "Languages::description::movie"
+msgid "Movie"
+msgstr "Movie"
+
+msgctxt "Languages::description::monitor"
+msgid "Monitors"
+msgstr "Monitors"
+
+msgctxt "Languages::description::member_login_success"
+msgid "Member login success"
+msgstr "Member login success"
+
+msgctxt "Languages::description::member_logout"
+msgid "Member logout"
+msgstr "Member logout"
+
+msgctxt "Languages::description::member_logout_success"
+msgid "Member logout success"
+msgstr "Member logout success"
+
+msgctxt "Languages::description::logout_from_app"
+msgid "Logout from application"
+msgstr "Logout from application"
+
+msgctxt "Languages::description::logout"
+msgid "Logout"
+msgstr "Logout"
+
+msgctxt "Languages::description::change_basic_info"
+msgid "Change basic info"
+msgstr "Change basic info"
+
+msgctxt "Languages::description::change_email_address"
+msgid "Change email address"
+msgstr "Change email address"
+
+msgctxt "Languages::description::change_password"
+msgid "Change password"
+msgstr "Change password"
+
+msgctxt "Languages::description::forgot_password"
+msgid "Forgot password (or set new password)"
+msgstr "Forgot password (or set new password)"
+
+msgctxt "Languages::description::change_linked_service_registration"
+msgid "Change linked service registration"
+msgstr "Change linked service registration"
+
+msgctxt "Languages::description::withdraw"
+msgid "Withdraw"
+msgstr "Withdraw"
+
+msgctxt "Languages::description::member_info"
+msgid "Member info"
+msgstr "Member info"
+
+msgctxt "Languages::description::basic_name"
+msgid "name"
+msgstr "name"
+
+msgctxt "Languages::description::basic_phone"
+msgid "phone"
+msgstr "phone"
+
+msgctxt "Languages::description::basic_address"
+msgid "address"
+msgstr "address"
+
+msgctxt "Languages::description::basic_etc"
+msgid "etc"
+msgstr "etc"
+
+msgctxt "Languages::description::basic_connect"
+msgid "/"
+msgstr "/"
+
+msgctxt "Languages::description::you_can_easily_login_with_your_id"
+msgid "You can easily login with your ID!"
+msgstr "You can easily login with your ID!"
+
+msgctxt "Languages::description::tmc_e_member"
+msgid "e+ member"
+msgstr "e+ member"
+
+msgctxt "Languages::description::login_register"
+msgid "Login/register"
+msgstr "Login/register"
+
+msgctxt "Languages::description::note_login_fun_club"
+msgid "For [NAKED fun club] (official fun club run by NAKED Entertainment Inc.) members"
+msgstr "For [NAKED fun club] (official fun club run by NAKED Entertainment Inc.) members"
+
+msgctxt "Languages::description::cancel_login"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "Languages::description::register_new_link_members"
+msgid "Register new"
+msgstr "Register new"
+
+msgctxt "Languages::description::note_register_new_link_members"
+msgid "If you don't have any login ID, please register new and login as the flow below.</br>e+ member can link the ID with [OCEAN BY NAKED]"
+msgstr "If you don't have any login ID, please register new and login as the flow below.</br>e+ member can link the ID with [OCEAN BY NAKED]"
+
+msgctxt "Languages::description::register_new"
+msgid "Register new"
+msgstr "Register new"
+
+msgctxt "Languages::description::register_guide1"
+msgid "Register new"
+msgstr "Register new"
+
+msgctxt "Languages::description::register_guide1_note"
+msgid "Click [Register new] button"
+msgstr "Click [Register new] button"
+
+msgctxt "Languages::description::register_guide3"
+msgid "Please come back to this page, and login from the button below"
+msgstr "Please come back to this page, and login from the button below"
+
+msgctxt "Languages::description::link_login_eplus"
+msgid "Link with e+ ID"
+msgstr "Link with e+ ID"
+
+msgctxt "Languages::description::note_login_suku"
+msgid "For [SUKU ticket] (that is operated by NAKED Entertainment Inc.) members"
+msgstr "For [SUKU ticket] (that is operated by NAKED Entertainment Inc.) members"
+
+msgctxt "Languages::description::note_do_not_know_id_login"
+msgid "Register new from here"
+msgstr "Register new from here"
+
+msgctxt "Languages::description::note_login"
+msgid "「イープラス」IDをお持ちの方"
+msgstr "「イープラス」IDをお持ちの方"
+
+msgctxt "Languages::description::note_login_eplus"
+msgid "e+ members are required to link ID with [OCEAN BY NAKED]<br/>for the first time only."
+msgstr "e+ members are required to link ID with [OCEAN BY NAKED]<br/>for the first time only."
+
+msgctxt "Languages::description::for_the_first_time_users"
+msgid "For the first time users"
+msgstr "For the first time users"
+
+msgctxt "Languages::description::register_guide2"
+msgid "Member registration screen of e+ is opened. <br/> Please read and agree to the Terms of service and proceed.<br></br><strong>For e+ members</strong><br/>If you login with your e+ ID and password<br/>you can link your ID with [OCEAN BY NAKED].<br></br><strong>For non-e+ members</strong><br/>Please enter required information and complete member registration."
+msgstr "Member registration screen of e+ is opened. <br/> Please read and agree to the Terms of service and proceed.<br></br><strong>For e+ members</strong><br/>If you login with your e+ ID and password<br/>you can link your ID with [OCEAN BY NAKED].<br></br><strong>For non-e+ members</strong><br/>Please enter required information and complete member registration."
+
+msgctxt "Languages::description::member_register_mobile_phone"
+msgid "Member register mobile phone"
+msgstr "Member register mobile phone"
+
+msgctxt "Languages::description::member_consent_register_eplus"
+msgid "Member consent register eplus"
+msgstr "Member consent register eplus"
+
+msgctxt "Languages::description::register_mobile_phone_number"
+msgid "Register mobile phone number"
+msgstr "Register mobile phone number"
+
+msgctxt "Languages::description::note_register_mobile_phone_number"
+msgid "Please register mobile phone number to connect with e+ member."
+msgstr "Please register mobile phone number to connect with e+ member."
+
+msgctxt "Languages::description::mobile_phone_number"
+msgid "Mobile phone number"
+msgstr "Mobile phone number"
+
+msgctxt "Languages::description::default_register"
+msgid "Register"
+msgstr "Register"
+
+msgctxt "Languages::description::field_mobile_phone_number"
+msgid "mobile phone number"
+msgstr "mobile phone number"
+
+msgctxt "Languages::description::logout_1"
+msgid "Logout"
+msgstr "Logout"
+
+msgctxt "Languages::description::logout_2"
+msgid "Logout"
+msgstr "Logout"
+
+msgctxt "Languages::description::member_advance"
+msgid "Danin only"
+msgstr "Danin only"
+
+msgctxt "Languages::description::cart_attentions"
+msgid "!!PLEASE NOTE!! Tickets will be ensured after you complete your payment"
+msgstr "!!PLEASE NOTE!! Tickets will be ensured after you complete your payment"
+
+msgctxt "Languages::description::total_cost"
+msgid "Total cost"
+msgstr "Total cost"
+
+msgctxt "Languages::description::including_charge"
+msgid "* Service charge included."
+msgstr "* Service charge included."
+
+msgctxt "Languages::description::advanced_checkout_seat"
+msgid "Seat"
+msgstr "Seat"
+
+msgctxt "Languages::description::print"
+msgid "Print"
+msgstr "Print"
+
+msgctxt "Languages::description::booth_name"
+msgid "Area name"
+msgstr "Area name"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "The product <b>[product]</b> was ordered <b>[ordered]</b> time. It is limit order."
+msgstr "The product <b>[product]</b> was ordered <b>[ordered]</b> time. It is limit order."
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "The quantity step of the product <b>[product]</b> is <b>[quantity_step]</b>."
+msgstr "The quantity step of the product <b>[product]</b> is <b>[quantity_step]</b>."
+
+msgctxt "Languages::description::category_title"
+msgid "Category list"
+msgstr "Category list"
+
+msgctxt "Languages::description::complete_title"
+msgid "Checkout completed"
+msgstr "Checkout completed"
+
+msgctxt "Languages::description::order_history_title"
+msgid "Please click <span class='highlight'>#number</span> to show QR ticket"
+msgstr "Please click <span class='highlight'>#number</span> to show QR ticket"
+
+msgctxt "Languages::description::order_history"
+msgid "ORDER HISTORY"
+msgstr "ORDER HISTORY"
+
+msgctxt "Languages::description::order_detail_title"
+msgid "Order information"
+msgstr "Order information"
+
+msgctxt "Languages::description::tab_multi_field"
+msgid "Product tab multiple row"
+msgstr "Product tab multiple row"
+
+msgctxt "Languages::description::add_tab_row"
+msgid "Add row"
+msgstr "Add row"
+
+msgctxt "Languages::description::jp_back_in_stock_add_email"
+msgid "Add Email for notify when stock is back"
+msgstr "Add Email for notify when stock is back"
+
+msgctxt "Languages::description::schedule_no_result"
+msgid "We don't have any event<br/>Please search by another date"
+msgstr "We don't have any event<br/>Please search by another date"
+
+msgctxt "Languages::description::end_of_sale"
+msgid "Sales ended"
+msgstr "Sales ended"
+
+msgctxt "Languages::description::center"
+msgid "Center"
+msgstr "Center"
+
+msgctxt "Languages::description::login_fail"
+msgid "Login failed"
+msgstr "Login failed"
+
+msgctxt "Languages::description::coupon_title_share"
+msgid "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app"
+msgstr "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app"
+
+msgctxt "Languages::description::coupon_title_invite"
+msgid "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app \n招待コード [invitation_code]"
+msgstr "「リアル脱出ゲーム」や「リアル潜入ゲーム」が遊べるテーマパーク「東京ミステリーサーカス」のオトクなクーポン配信中！ \nアプリダウンロードはこちら→https://mysterycircus.jp/app \n招待コード [invitation_code]"
+
+msgctxt "Languages::description::coupon_how_to_use"
+msgid "How to use"
+msgstr "How to use"
+
+msgctxt "Languages::description::coupon_download_app"
+msgid "Download app"
+msgstr "Download app"
+
+msgctxt "Languages::description::coupon_share_sns"
+msgid "Share this app"
+msgstr "Share this app"
+
+msgctxt "Languages::description::coupon_user_invited"
+msgid "Enter invitation code"
+msgstr "Enter invitation code"
+
+msgctxt "Languages::description::coupon_invited_user"
+msgid "Invite friends"
+msgstr "Invite friends"
+
+msgctxt "Languages::description::promotion_template_delivery_timing"
+msgid "Delivery timing"
+msgstr "Delivery timing"
+
+msgctxt "Languages::description::promotion_template_delivery_period"
+msgid "Delivery period"
+msgstr "Delivery period"
+
+msgctxt "Languages::description::promotion_template_available_time"
+msgid "Available period"
+msgstr "Available period"
+
+msgctxt "Languages::description::coupon_status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Languages::description::promotion_template"
+msgid "Promotion (Coupon) screen"
+msgstr "Promotion (Coupon) screen"
+
+msgctxt "Languages::description::promotion_template_menu_description"
+msgid "Promotion menu description"
+msgstr "Promotion menu description"
+
+msgctxt "Languages::description::promotions"
+msgid "Coupon list"
+msgstr "Coupon list"
+
+msgctxt "Languages::description::currency_deleted"
+msgid "The coupon has been deleted successfully"
+msgstr "The coupon has been deleted successfully"
+
+msgctxt "Languages::description::successful"
+msgid "Notification"
+msgstr "Notification"
+
+msgctxt "Languages::description::coupon_type"
+msgid "Type of coupon"
+msgstr "Type of coupon"
+
+msgctxt "Languages::description::coupon_add_title"
+msgid "Add coupon screen"
+msgstr "Add coupon screen"
+
+msgctxt "Languages::description::coupon_yen"
+msgid "Yen"
+msgstr "Yen"
+
+msgctxt "Languages::description::coupon_detailed_description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Languages::description::use_avail_period"
+msgid "Use available period"
+msgstr "Use available period"
+
+msgctxt "Languages::description::coupon_edit_title"
+msgid "Edit coupon screen"
+msgstr "Edit coupon screen"
+
+msgctxt "Languages::description::coupon_use_avail_period"
+msgid "Use available period"
+msgstr "Use available period"
+
+msgctxt "Languages::description::coupon_condition"
+msgid "Condition"
+msgstr "Condition"
+
+msgctxt "Languages::description::coupon_notes"
+msgid "Notes"
+msgstr "Notes"
+
+msgctxt "Languages::description::coupon_bonus"
+msgid "Bonus"
+msgstr "Bonus"
+
+msgctxt "Languages::description::coupon_discount_amount"
+msgid "Discount amount"
+msgstr "Discount amount"
+
+msgctxt "Languages::description::promotion_template_delivery_time"
+msgid "Use delivery period"
+msgstr "Use delivery period"
+
+msgctxt "Languages::description::promotion_delivery_from"
+msgid "Delivery available from"
+msgstr "Delivery available from"
+
+msgctxt "Languages::description::promotion_delivery_to"
+msgid "Delivery available till"
+msgstr "Delivery available till"
+
+msgctxt "Languages::description::coupon_bonus_cash_back"
+msgid "Cash back"
+msgstr "Cash back"
+
+msgctxt "Languages::description::coupon_bonus_drink_good_present"
+msgid "Drink/goods present"
+msgstr "Drink/goods present"
+
+msgctxt "Languages::description::coupon_avail_from"
+msgid "Available from"
+msgstr "Available from"
+
+msgctxt "Languages::description::coupon_avail_to"
+msgid "Available till"
+msgstr "Available till"
+
+msgctxt "Languages::description::coming_soon_event"
+msgid "Coming soon"
+msgstr "Coming soon"
+
+msgctxt "Languages::description::text_combination_out_of_stock"
+msgid "The [product] is out of stock"
+msgstr "The [product] is out of stock"
+
+msgctxt "Languages::description::custom_guidance_mail"
+msgid "Guidance email for product"
+msgstr "Guidance email for product"
+
+msgctxt "Languages::description::product_national_resident_forbiden"
+msgid "Only non Japanese guests can use this ticketing system. Please use the <a href="http://eplus.jp" target="_blank">eplus booking system</a>."
+msgstr "Only non Japanese guests can use this ticketing system. Please use the <a href="http://eplus.jp" target="_blank">eplus booking system</a>."
+
+msgctxt "Languages::description::select_gender"
+msgid "Please select sex"
+msgstr "Please select sex"
+
+msgctxt "Languages::description::select_prefecture_code"
+msgid "Please select prefecture"
+msgstr "Please select prefecture"
+
+msgctxt "Languages::description::male"
+msgid "Male"
+msgstr "Male"
+
+msgctxt "Languages::description::female"
+msgid "Female"
+msgstr "Female"
+
+msgctxt "Languages::description::footer_1_1"
+msgid "Topics"
+msgstr "Topics"
+
+msgctxt "Languages::description::footer_1_2"
+msgid "Event list"
+msgstr "Event list"
+
+msgctxt "Languages::description::footer_1_3"
+msgid "Floor map"
+msgstr "Floor map"
+
+msgctxt "Languages::description::footer_1_4"
+msgid "Food"
+msgstr "Food"
+
+msgctxt "Languages::description::footer_1_5"
+msgid "Goods"
+msgstr "Goods"
+
+msgctxt "Languages::description::footer_2_1"
+msgid "How to enjoy"
+msgstr "How to enjoy"
+
+msgctxt "Languages::description::footer_2_2"
+msgid "What is OCEAN BY NAKED"
+msgstr "What is OCEAN BY NAKED"
+
+msgctxt "Languages::description::footer_2_3"
+msgid "What is Kumakey"
+msgstr "What is Kumakey"
+
+msgctxt "Languages::description::footer_2_4"
+msgid "Access"
+msgstr "Access"
+
+msgctxt "Languages::description::footer_2_5"
+msgid "Important Point"
+msgstr "Important Point"
+
+msgctxt "Languages::description::footer_3_1"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+msgctxt "Languages::description::footer_3_2"
+msgid "FAQ"
+msgstr "FAQ"
+
+msgctxt "Languages::description::footer_3_3"
+msgid "Private Session Booking"
+msgstr "Private Session Booking"
+
+msgctxt "Languages::description::footer_3_4"
+msgid "Press release"
+msgstr "Press release"
+
+msgctxt "Languages::description::footer_3_5"
+msgid "NAKED email magazine"
+msgstr "NAKED email magazine"
+
+msgctxt "Languages::description::footer_4_1"
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+msgctxt "Languages::description::footer_4_2"
+msgid "Act on Specified Commercial Transactions"
+msgstr "Act on Specified Commercial Transactions"
+
+msgctxt "Languages::description::footer_4_3"
+msgid "Careers"
+msgstr "Careers"
+
+msgctxt "Languages::description::footer_4_4"
+msgid "Inquiry"
+msgstr "Inquiry"
+
+msgctxt "Languages::description::top_menu_1"
+msgid "Top page"
+msgstr "Top page"
+
+msgctxt "Languages::description::top_menu_2"
+msgid "Topics"
+msgstr "Topics"
+
+msgctxt "Languages::description::top_menu_3"
+msgid "Event list"
+msgstr "Event list"
+
+msgctxt "Languages::description::top_menu_4"
+msgid "Floor map"
+msgstr "Floor map"
+
+msgctxt "Languages::description::top_menu_5"
+msgid "Access"
+msgstr "Access"
+
+msgctxt "Languages::description::top_menu_6"
+msgid "Food"
+msgstr "Food"
+
+msgctxt "Languages::description::top_menu_7"
+msgid "Goods"
+msgstr "Goods"
+
+msgctxt "Languages::description::top_menu_8"
+msgid "FAQ"
+msgstr "FAQ"
+
+msgctxt "Languages::description::tmc_app"
+msgid "About TMC app"
+msgstr "About TMC app"
+
+msgctxt "Languages::description::buy_ticket"
+msgid "Buy ticket"
+msgstr "Buy ticket"
+
+msgctxt "Languages::description::consent_for_connecting"
+msgid "Consent screen for registering OCEAN BY NAKED memberships"
+msgstr "Consent screen for registering OCEAN BY NAKED memberships"
+
+msgctxt "Languages::description::member_info_will_be_created"
+msgid "Please agree on the Terms of use and complete registration"
+msgstr "Please agree on the Terms of use and complete registration"
+
+msgctxt "Languages::description::successful_connect_e_plus"
+msgid "Connect OCEAN BY NAKED successful"
+msgstr "Connect OCEAN BY NAKED successful"
+
+msgctxt "Languages::description::register_for_a_membership"
+msgid "Register for a membership"
+msgstr "Register for a membership"
+
+msgctxt "Languages::description::please_register_e_plus"
+msgid "Please register the form below to connect with OCEAN BY NAKED member"
+msgstr "Please register the form below to connect with OCEAN BY NAKED member"
+
+msgctxt "Languages::description::agree"
+msgid "Agree"
+msgstr "Agree"
+
+msgctxt "Languages::description::email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "Languages::description::b_phone"
+msgid "Phone"
+msgstr "Phone"
+
+msgctxt "Languages::description::b_firstname"
+msgid "First name"
+msgstr "First name"
+
+msgctxt "Languages::description::b_lastname"
+msgid "Family name"
+msgstr "Family name"
+
+msgctxt "Languages::description::b_first_kana_name"
+msgid "First Kana Name"
+msgstr "First Kana Name"
+
+msgctxt "Languages::description::b_last_kana_name"
+msgid "Last Kana Name"
+msgstr "Last Kana Name"
+
+msgctxt "Languages::description::b_zipcode"
+msgid "Zip/postal code"
+msgstr "Zip/postal code"
+
+msgctxt "Languages::description::b_prefecture_code"
+msgid "Prefecture Code"
+msgstr "Prefecture Code"
+
+msgctxt "Languages::description::b_birth_year"
+msgid "Birth year"
+msgstr "Birth year"
+
+msgctxt "Languages::description::b_gender"
+msgid "Gender"
+msgstr "Gender"
+
+msgctxt "Languages::description::order_id"
+msgid "Order ID"
+msgstr "Order ID"
+
+msgctxt "Languages::description::description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Languages::description::jp_cc_method"
+msgid "Payment method"
+msgstr "Payment method"
+
+msgctxt "Languages::description::jp_cc_onetime"
+msgid "Lump sum payment"
+msgstr "Lump sum payment"
+
+msgctxt "Languages::description::connect_fail"
+msgid "Connect failed"
+msgstr "Connect failed"
+
+msgctxt "Languages::description::note_login_description"
+msgid "購入には「イープラス」のIDが必要です"
+msgstr "購入には「イープラス」のIDが必要です"
+
+msgctxt "Languages::description::register_new_guide1"
+msgid "「イープラス」IDをお持ちでない方"
+msgstr "「イープラス」IDをお持ちでない方"
+
+msgctxt "Languages::description::register_new_guide2"
+msgid "※If you already have e+ (e plus) membership, please click [Go to e+ login screen] and login to complete member registration for [TMC]."
+msgstr "※If you already have e+ (e plus) membership, please click [Go to e+ login screen] and login to complete member registration for [TMC]."
+
+msgctxt "Languages::description::register_new_guide3_1"
+msgid "When you complete registration, please login from"
+msgstr "When you complete registration, please login from"
+
+msgctxt "Languages::description::register_new_guide3_2"
+msgid "register_new_guide3_2"
+msgstr "register_new_guide3_2"
+
+msgctxt "Languages::description::footer_5_1"
+msgid "Act on Specified commercial transactions"
+msgstr "Act on Specified commercial transactions"
+
+msgctxt "Languages::description::footer_5_2"
+msgid "FAQ ABOUT TICKET PURCHASE"
+msgstr "FAQ ABOUT TICKET PURCHASE"
+
+msgctxt "Languages::description::footer_5_3"
+msgid "Terms of Use ABOUT TICKET PURCHASE"
+msgstr "Terms of Use ABOUT TICKET PURCHASE"
+
+msgctxt "Languages::description::footer_5_4"
+msgid "Recommended browser"
+msgstr "Recommended browser"
+
+msgctxt "Languages::description::fan_club"
+msgid "Fan Club"
+msgstr "Fan Club"
+
+msgctxt "Languages::description::title_print_invoice"
+msgid "Print invoice"
+msgstr "Print invoice"
+
+msgctxt "Languages::description::coming_soon_fan_club"
+msgid "Coming soon"
+msgstr "Coming soon"
+
+msgctxt "Languages::description::general"
+msgid "General setting"
+msgstr "General setting"
+
+msgctxt "Languages::description::elm_connection_information"
+msgid "Connection setting"
+msgstr "Connection setting"
+
+msgctxt "Languages::description::merchant_id"
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgctxt "Languages::description::merchant_pass"
+msgid "Merchant password"
+msgstr "Merchant password"
+
+msgctxt "Languages::description::tenant_id"
+msgid "Tenant code (optional)"
+msgstr "Tenant code (optional)"
+
+msgctxt "Languages::description::pending_status"
+msgid "Order status for an order which payment is not completed properly"
+msgstr "Order status for an order which payment is not completed properly"
+
+msgctxt "Languages::description::jp_sln_cc_1auth"
+msgid "Credit authorization"
+msgstr "Credit authorization"
+
+msgctxt "Languages::description::jp_sln_cc_1gathering"
+msgid "Credit authorization sales"
+msgstr "Credit authorization sales"
+
+msgctxt "Languages::description::jp_sln_cc_approve_no"
+msgid "Approval number"
+msgstr "Approval number"
+
+msgctxt "Languages::description::jp_sln_cc_auth"
+msgid "Credit authorization"
+msgstr "Credit authorization"
+
+msgctxt "Languages::description::jp_sln_cc_auth_amount"
+msgid "Credit authorization amount"
+msgstr "Credit authorization amount"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel"
+msgid "Cancel authorization credit"
+msgstr "Cancel authorization credit"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_error"
+msgid "Cancel credit authorization error"
+msgstr "Cancel credit authorization error"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancel_failed"
+msgid "Credit cancellation failed for order number [oid]"
+msgstr "Credit cancellation failed for order number [oid]"
+
+msgctxt "Languages::description::jp_sln_cc_auth_cancelled"
+msgid "Credit authorization is cancelled"
+msgstr "Credit authorization is cancelled"
+
+msgctxt "Languages::description::jp_sln_cc_auth_ng"
+msgid "Credit authorization NG"
+msgstr "Credit authorization NG"
+
+msgctxt "Languages::description::jp_sln_cc_auth_only"
+msgid "Only credit authorization"
+msgstr "Only credit authorization"
+
+msgctxt "Languages::description::jp_sln_cc_bonus"
+msgid "Lump sum payment with bonus"
+msgstr "Lump sum payment with bonus"
+
+msgctxt "Languages::description::jp_sln_cc_capture"
+msgid "Sales"
+msgstr "Sales"
+
+msgctxt "Languages::description::jp_sln_cc_change"
+msgid "Change used amount"
+msgstr "Change used amount"
+
+msgctxt "Languages::description::jp_sln_cc_check"
+msgid "Card check"
+msgstr "Card check"
+
+msgctxt "Languages::description::jp_sln_cc_company_code"
+msgid "Credit card brand code"
+msgstr "Credit card brand code"
+
+msgctxt "Languages::description::jp_sln_cc_data_not_exists"
+msgid "There was no order to execute the specified process"
+msgstr "There was no order to execute the specified process"
+
+msgctxt "Languages::description::jp_sln_cc_delete"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "Languages::description::jp_sln_cc_error"
+msgid "Credit card settlement error"
+msgstr "Credit card settlement error"
+
+msgctxt "Languages::description::jp_sln_cc_error_code"
+msgid "Error code"
+msgstr "Error code"
+
+msgctxt "Languages::description::jp_sln_cc_failed"
+msgid "Failed to settle with credit card. <br /> Please enter card information again or select another payment method and order."
+msgstr "Failed to settle with credit card. <br /> Please enter card information again or select another payment method and order."
+
+msgctxt "Languages::description::jp_sln_cc_gathering"
+msgid "Credit authorization sales"
+msgstr "Credit authorization sales"
+
+msgctxt "Languages::description::jp_sln_cc_invalid"
+msgid "The card information entered is incorrect. <br /> Please enter card information again or select another payment method and order."
+msgstr "The card information entered is incorrect. <br /> Please enter card information again or select another payment method and order."
+
+msgctxt "Languages::description::jp_sln_cc_manager"
+msgid "Credit claim management"
+msgstr "Credit claim management"
+
+msgctxt "Languages::description::jp_sln_cc_notice"
+msgid "Please enter the setting information on Sony payment service (credit card payment)."
+msgstr "Please enter the setting information on Sony payment service (credit card payment)."
+
+msgctxt "Languages::description::jp_sln_cc_payment_settings"
+msgid "Credit card setting"
+msgstr "Credit card setting"
+
+msgctxt "Languages::description::jp_sln_cc_process_type"
+msgid "Method of processing settlement data"
+msgstr "Method of processing settlement data"
+
+msgctxt "Languages::description::jp_sln_cc_reauth"
+msgid "Re-authorization"
+msgstr "Re-authorization"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info"
+msgid "Keep credit card information function"
+msgstr "Keep credit card information function"
+
+msgctxt "Languages::description::jp_sln_cc_register_card_info_use"
+msgid "Use this card information for next shopping"
+msgstr "Use this card information for next shopping"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel"
+msgid "Cancel sales"
+msgstr "Cancel sales"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_error"
+msgid "Credit card sales cancellation error"
+msgstr "Credit card sales cancellation error"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancel_failed"
+msgid "Sales cancellation failed for order number [oid]"
+msgstr "Sales cancellation failed for order number [oid]"
+
+msgctxt "Languages::description::jp_sln_cc_sales_cancelled"
+msgid "Sales is cancelled"
+msgstr "Sales is cancelled"
+
+msgctxt "Languages::description::jp_sln_cc_sales_completed"
+msgid "The claim is confirmed"
+msgstr "The claim is confirmed"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm"
+msgid "Sales"
+msgstr "Sales"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_error"
+msgid "Credit sales error"
+msgstr "Credit sales error"
+
+msgctxt "Languages::description::jp_sln_cc_sales_confirm_failed"
+msgid "Sales of order number [oid] is not recorded"
+msgstr "Sales of order number [oid] is not recorded"
+
+msgctxt "Languages::description::jp_sln_cc_search"
+msgid "Transaction reference"
+msgstr "Transaction reference"
+
+msgctxt "Languages::description::jp_sln_cc_status"
+msgid "Claim status"
+msgstr "Claim status"
+
+msgctxt "Languages::description::jp_sln_cc_use_cvv"
+msgid "Use security code (CVV2)"
+msgstr "Use security code (CVV2)"
+
+msgctxt "Languages::description::jp_sln_cc_what_is_security_code"
+msgid "What is security code"
+msgstr "What is security code"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_card_info"
+msgid "Delete credit card information"
+msgstr "Delete credit card information"
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_failed"
+msgid "Failed to delete credit card information. <br /> Sorry for your inconvenience but please try again or contact this shop."
+msgstr "Failed to delete credit card information. <br /> Sorry for your inconvenience but please try again or contact this shop."
+
+msgctxt "Languages::description::jp_sln_ccreg_delete_success"
+msgid "Credit card information is deleted"
+msgstr "Credit card information is deleted"
+
+msgctxt "Languages::description::jp_sln_ccreg_error"
+msgid "Credit card information registration error"
+msgstr "Credit card information registration error"
+
+msgctxt "Languages::description::jp_sln_ccreg_error_code"
+msgid "Error code"
+msgstr "Error code"
+
+msgctxt "Languages::description::jp_sln_ccreg_no_card_info"
+msgid "Credit card information is not registered"
+msgstr "Credit card information is not registered"
+
+msgctxt "Languages::description::jp_sln_ccreg_notice"
+msgid "Please enter the setting information on Sony payment service (registered credit card payment)."
+msgstr "Please enter the setting information on Sony payment service (registered credit card payment)."
+
+msgctxt "Languages::description::jp_sln_ccreg_register_failed"
+msgid "Failed to register credit card information"
+msgstr "Failed to register credit card information"
+
+msgctxt "Languages::description::jp_sln_ccreg_register_success"
+msgid "Credit card information is registered"
+msgstr "Credit card information is registered"
+
+msgctxt "Languages::description::jp_sln_ccreg_registered_card"
+msgid "Registered credit card information"
+msgstr "Registered credit card information"
+
+msgctxt "Languages::description::jp_sln_connections_settings"
+msgid "Connection setting"
+msgstr "Connection setting"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_atm"
+msgid "Pay-easy (ATM)"
+msgstr "Pay-easy (ATM)"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_cck"
+msgid "CircleK"
+msgstr "CircleK"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_day"
+msgid "Daily Yamazaki"
+msgstr "Daily Yamazaki"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_ebk"
+msgid "Rakuten Bank"
+msgstr "Rakuten Bank"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_edy"
+msgid "Edy"
+msgstr "Edy"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fam"
+msgid "Family Mart"
+msgstr "Family Mart"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_fff"
+msgid "Three F"
+msgstr "Three F"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jib"
+msgid "Jibun Bank"
+msgstr "Jibun Bank"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_jnb"
+msgid "Japan net Bank"
+msgstr "Japan net Bank"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lnk"
+msgid "Pay-easy (information link)"
+msgstr "Pay-easy (information link)"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_lsn"
+msgid "Lawson"
+msgstr "Lawson"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_mns"
+msgid "Ministop"
+msgstr "Ministop"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_onl"
+msgid "Pay-easy（online）"
+msgstr "Pay-easy（online）"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sak"
+msgid "Sunkus"
+msgstr "Sunkus"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_scm"
+msgid "Seicomart"
+msgstr "Seicomart"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sev"
+msgid "Seven Eleven"
+msgstr "Seven Eleven"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_snb"
+msgid "SBI Sumishin Net Bank"
+msgstr "SBI Sumishin Net Bank"
+
+msgctxt "Languages::description::jp_sln_daiko_cvscd_sui"
+msgid "Suica"
+msgstr "Suica"
+
+msgctxt "Languages::description::jp_sln_daiko_cvsname"
+msgid "Storage agency"
+msgstr "Storage agency"
+
+msgctxt "Languages::description::jp_sln_daiko_deleted"
+msgid "Online storage substitution data was deleted"
+msgstr "Online storage substitution data was deleted"
+
+msgctxt "Languages::description::jp_sln_daiko_error"
+msgid "Online storage substitution error"
+msgstr "Online storage substitution error"
+
+msgctxt "Languages::description::jp_sln_daiko_error_code"
+msgid "Error code"
+msgstr "Error code"
+
+msgctxt "Languages::description::jp_sln_daiko_failed"
+msgid "Failed in the settlement on the online storage agency. <br /> Please re-order or choose another payment method and order."
+msgstr "Failed in the settlement on the online storage agency. <br /> Please re-order or choose another payment method and order."
+
+msgctxt "Languages::description::jp_sln_daiko_info"
+msgid "【オンライン収納代行について】"
+msgstr "【オンライン収納代行について】"
+
+msgctxt "Languages::description::jp_sln_daiko_instruction"
+msgid "お支払いが完了していない場合は、以下のURLにアクセスして支払方法を確認のうえ、お手続きをお願いいたします。"
+msgstr "お支払いが完了していない場合は、以下のURLにアクセスして支払方法を確認のうえ、お手続きをお願いいたします。"
+
+msgctxt "Languages::description::jp_sln_daiko_invalid"
+msgid "Failed to connect to the online storage agency. <br /> Please select another payment method, please contact the shop though it is sorry to trouble you."
+msgstr "Failed to connect to the online storage agency. <br /> Please select another payment method, please contact the shop though it is sorry to trouble you."
+
+msgctxt "Languages::description::jp_sln_daiko_kessai_number"
+msgid "Settlement number"
+msgstr "Settlement number"
+
+msgctxt "Languages::description::jp_sln_daiko_not_changeable"
+msgid "Processing can not be executed because substitution storage data has already been changed or deleted."
+msgstr "Processing can not be executed because substitution storage data has already been changed or deleted."
+
+msgctxt "Languages::description::jp_sln_daiko_notice"
+msgid "Please enter the setting information on Sony payment service (online storage substitution service)."
+msgstr "Please enter the setting information on Sony payment service (online storage substitution service)."
+
+msgctxt "Languages::description::jp_sln_daiko_nyukindate"
+msgid "Date of deposit"
+msgstr "Date of deposit"
+
+msgctxt "Languages::description::jp_sln_daiko_paid_amount"
+msgid "Payment amount"
+msgstr "Payment amount"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit"
+msgid "Payment deadline"
+msgstr "Payment deadline"
+
+msgctxt "Languages::description::jp_sln_daiko_order_note"
+msgid "下記URLよりコンビニ支払いに必要な番号を確認して期限内にお支払いください。"
+msgstr "下記URLよりコンビニ支払いに必要な番号を確認して期限内にお支払いください。"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_note"
+msgid "（期限を過ぎますとお申込みをキャンセルさせていただきます）"
+msgstr "（期限を過ぎますとお申込みをキャンセルさせていただきます）"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_prefix"
+msgid "order date"
+msgstr "order date"
+
+msgctxt "Languages::description::jp_sln_daiko_paylimit_suffix"
+msgid "days after"
+msgstr "days after"
+
+msgctxt "Languages::description::jp_sln_daiko_payment_settings"
+msgid "Online storage agency service setting"
+msgstr "Online storage agency service setting"
+
+msgctxt "Languages::description::jp_sln_daiko_recvnum"
+msgid "Reception number"
+msgstr "Reception number"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp"
+msgid "Revenue stamp"
+msgstr "Revenue stamp"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_no"
+msgid "No revenue stamp"
+msgstr "No revenue stamp"
+
+msgctxt "Languages::description::jp_sln_daiko_stamp_yes"
+msgid "Have revenue stamp"
+msgstr "Have revenue stamp"
+
+msgctxt "Languages::description::jp_sln_daiko_tenant_code"
+msgid "Tenant code"
+msgstr "Tenant code"
+
+msgctxt "Languages::description::jp_sln_security_code"
+msgid "Security code"
+msgstr "Security code"
+
+msgctxt "Languages::description::jp_sln_security_code_is_empty"
+msgid "Security code is not entered"
+msgstr "Security code is not entered"
+
+msgctxt "Languages::description::jp_sln_transaction_date"
+msgid "Transaction date"
+msgstr "Transaction date"
+
+msgctxt "Languages::description::jp_sln_transaction_id"
+msgid "Processing sequence number"
+msgstr "Processing sequence number"
+
+msgctxt "Languages::description::in_stock"
+msgid "◎ Available"
+msgstr "◎ Available"
+
+msgctxt "Languages::description::sold_out"
+msgid "Sold out"
+msgstr "Sold out"
+
+msgctxt "Languages::description::option_name_0"
+msgid "Venue name"
+msgstr "Venue name"
+
+msgctxt "Languages::description::option_name_1"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "Languages::description::event_time_seat_type"
+msgid "Event time"
+msgstr "Event time"
+
+msgctxt "Languages::description::option_name_2"
+msgid "Tickets"
+msgstr "Tickets"
+
+msgctxt "Languages::description::text_out_of_stock"
+msgid "×　Sold out"
+msgstr "×　Sold out"
+
+msgctxt "Languages::description::placeholder_b_firstname"
+msgid "Tarou"
+msgstr "Tarou"
+
+msgctxt "Languages::description::placeholder_b_lastname"
+msgid "Ex: Yamada"
+msgstr "Ex: Yamada"
+
+msgctxt "Languages::description::placeholder_b_last_kana_name"
+msgid "Ex: Yamada"
+msgstr "Ex: Yamada"
+
+msgctxt "Languages::description::placeholder_b_first_kana_name"
+msgid "Tarou"
+msgstr "Tarou"
+
+msgctxt "Languages::description::placeholder_b_birth_year"
+msgid "1900"
+msgstr "1900"
+
+msgctxt "Languages::description::placeholder_email"
+msgid "tarou@example.com"
+msgstr "tarou@example.com"
+
+msgctxt "Languages::description::placeholder_b_phone"
+msgid "090********"
+msgstr "090********"
+
+msgctxt "Languages::description::placeholder_b_zipcode"
+msgid "Ex: 1506005"
+msgstr "Ex: 1506005"
+
+msgctxt "Languages::description::promoter_export_order_list"
+msgid "Export order list"
+msgstr "Export order list"
+
+msgctxt "Languages::description::status_update"
+msgid "Status update"
+msgstr "Status update"
+
+msgctxt "Languages::description::sbps_memo"
+msgid "SBPS memo"
+msgstr "SBPS memo"
+
+msgctxt "Languages::description::skip_connect"
+msgid "Skip"
+msgstr "Skip"
+
+msgctxt "Languages::description::return_connect"
+msgid "Return"
+msgstr "Return"
+
+msgctxt "Languages::description::warning_no_available_ticket"
+msgid "No ticket is available right now"
+msgstr "No ticket is available right now"
+
+msgctxt "Languages::description::description_start_selling_specify_date"
+msgid "Reception will start at the date and time set"
+msgstr "Reception will start at the date and time set"
+
+msgctxt "Languages::description::description_start_selling_specify_days"
+msgid "Reception will start at the set time on the set days before an event</br>Ex: If you set 0 days before 00:00, reception will start on the event date"
+msgstr "Reception will start at the set time on the set days before an event</br>Ex: If you set 0 days before 00:00, reception will start on the event date"
+
+msgctxt "Languages::description::description_end_selling_specify_date"
+msgid "Reception will end at the date and time set"
+msgstr "Reception will end at the date and time set"
+
+msgctxt "Languages::description::description_end_selling_specify_hours"
+msgid "Reception will end at the set hours before (after) an event</br>Ex: If you set 0 hours before, reception will end on the event time"
+msgstr "Reception will end at the set hours before (after) an event</br>Ex: If you set 0 hours before, reception will end on the event time"
+
+msgctxt "Languages::description::advanced_product_payment_invalid"
+msgid "Payment info invalid"
+msgstr "Payment info invalid"
+
+msgctxt "Languages::description::advanced_product_out_of_start_selling"
+msgid "[product] is not started selling now"
+msgstr "[product] is not started selling now"
+
+msgctxt "Languages::description::advanced_product_out_of_end_selling"
+msgid "[product] out of end selling"
+msgstr "[product] out of end selling"
+
+msgctxt "Languages::description::advanced_product_price_is_changed"
+msgid "Price of [product] is changed"
+msgstr "Price of [product] is changed"
+
+msgctxt "Languages::description::advanced_product_group_ticket_is_changed"
+msgid "Group ticket of [product] is changed"
+msgstr "Group ticket of [product] is changed"
+
+msgctxt "Languages::description::advanced_product_item_is_changed"
+msgid "Item of [product] is changed"
+msgstr "Item of [product] is changed"
+
+msgctxt "Languages::description::my_account"
+msgid "My account"
+msgstr "My account"
+
+msgctxt "Languages::description::account_type_tmc"
+msgid "OCEAN BY NAKED"
+msgstr "OCEAN BY NAKED"
+
+msgctxt "Languages::description::account_type_danin"
+msgid "NAKED FUN CLUB"
+msgstr "NAKED FUN CLUB"
+
+msgctxt "Languages::description::account_type_suku"
+msgid "NAKED ticket"
+msgstr "NAKED ticket"
+
+msgctxt "Languages::description::account_type_text_2"
+msgid "You are logged in"
+msgstr "You are logged in"
+
+msgctxt "Languages::description::account_type_member_info_danin"
+msgid "NAKED FUN CLUB"
+msgstr "NAKED FUN CLUB"
+
+msgctxt "Languages::description::account_type_member_info_suku"
+msgid "NAKED ticket"
+msgstr "NAKED ticket"
+
+msgctxt "Languages::description::members"
+msgid "Members"
+msgstr "Members"
+
+msgctxt "Languages::description::manage_member"
+msgid "Manage member"
+msgstr "Manage member"
+
+msgctxt "Languages::description::eplus_id"
+msgid "Eplus id"
+msgstr "Eplus id"
+
+msgctxt "Languages::description::external_id"
+msgid "External id"
+msgstr "External id"
+
+msgctxt "Languages::description::external_type"
+msgid "External type"
+msgstr "External type"
+
+msgctxt "Languages::description::suku_ticket"
+msgid "Suku member"
+msgstr "Suku member"
+
+msgctxt "Languages::description::NAKED_fun_club"
+msgid "NAKED FUN CLUB member"
+msgstr "NAKED FUN CLUB member"
+
+msgctxt "Languages::description::total_number_of_ticket"
+msgid "Total number of ticket"
+msgstr "Total number of ticket"
+
+msgctxt "Languages::description::tickets"
+msgid "&nbsp;tickets"
+msgstr "&nbsp;tickets"
+
+msgctxt "Languages::description::warning_proceed_to_checkout"
+msgid "You are checking out [total_number_of_ticket] tickets across [total_number_of_product] events. You cannot cancel after purchase."
+msgstr "You are checking out [total_number_of_ticket] tickets across [total_number_of_product] events. You cannot cancel after purchase."
+
+msgctxt "Languages::description::advanced_product_product_not_found"
+msgid "Product is not found"
+msgstr "Product is not found"
+
+msgctxt "Languages::description::notification"
+msgid "Notifications"
+msgstr "Notifications"
+
+msgctxt "Languages::description::add_notification"
+msgid "Add notification"
+msgstr "Add notification"
+
+msgctxt "Languages::description::add_contents_screen"
+msgid "Add contents screen"
+msgstr "Add contents screen"
+
+msgctxt "Languages::description::message_to_send"
+msgid "Message to send"
+msgstr "Message to send"
+
+msgctxt "Languages::description::schedule"
+msgid "Schedule"
+msgstr "Schedule"
+
+msgctxt "Languages::description::deep_link"
+msgid "Deeplink"
+msgstr "Deeplink"
+
+msgctxt "Languages::description::admin_account_email"
+msgid "Admin account email"
+msgstr "Admin account email"
+
+msgctxt "Languages::description::immediate"
+msgid "Immediate"
+msgstr "Immediate"
+
+msgctxt "Languages::description::specify_time"
+msgid "Specify time"
+msgstr "Specify time"
+
+msgctxt "Languages::description::test_delivery"
+msgid "Test delivery"
+msgstr "Test delivery"
+
+msgctxt "Languages::description::description_deeplink"
+msgid "Sample deeplinks <br/>　News：/news/{news_ID} <br/>　Coupon：/coupon/{coupon_config_ID} <br/>　Individual tour：/event/{event_ID} <br/>※Please change the text in {} to the ID <br/>ex）When sending notification for news with ID_001, enter「/news/001」in {}"
+msgstr "Sample deeplinks <br/>　News：/news/{news_ID} <br/>　Coupon：/coupon/{coupon_config_ID} <br/>　Individual tour：/event/{event_ID} <br/>※Please change the text in {} to the ID <br/>ex）When sending notification for news with ID_001, enter「/news/001」in {}"
+
+msgctxt "Languages::description::status_notification_not_send"
+msgid "not send"
+msgstr "not send"
+
+msgctxt "Languages::description::status_notification_scheduled"
+msgid "scheduled"
+msgstr "scheduled"
+
+msgctxt "Languages::description::status_notification_cancel"
+msgid "cancel"
+msgstr "cancel"
+
+msgctxt "Languages::description::status_notification_completed"
+msgid "completed"
+msgstr "completed"
+
+msgctxt "Languages::description::status_notification_processing"
+msgid "processing"
+msgstr "processing"
+
+msgctxt "Languages::description::edit_detail"
+msgid "Edit detail"
+msgstr "Edit detail"
+
+msgctxt "Languages::description::delete_notification"
+msgid "Delete notification"
+msgstr "Delete notification"
+
+msgctxt "Languages::description::invitation_code"
+msgid "Invitation code"
+msgstr "Invitation code"
+
+msgctxt "Languages::description::coupon_config_id"
+msgid "Coupon config id"
+msgstr "Coupon config id"
+
+msgctxt "Languages::description::coupon_delivery_time_invalid"
+msgid "Delivery time invalid"
+msgstr "Delivery time invalid"
+
+msgctxt "Languages::description::coupon_avail_time_invalid"
+msgid "Available time invalid"
+msgstr "Available time invalid"
+
+msgctxt "Languages::description::coupon_delivery_timing_invalid"
+msgid "Delivery timing is invalid"
+msgstr "Delivery timing is invalid"
+
+msgctxt "Languages::description::coupon_bonuses_invalid"
+msgid "Bonus is invalid"
+msgstr "Bonus is invalid"
+
+msgctxt "Languages::description::coupon_status_invalid"
+msgid "Status is invalid"
+msgstr "Status is invalid"
+
+msgctxt "Languages::description::coupon_is_used"
+msgid "Coupon is used"
+msgstr "Coupon is used"
+
+msgctxt "Languages::description::advanced_product_only_sell_for_danin"
+msgid "Product [product] only sell for DANIN"
+msgstr "Product [product] only sell for DANIN"
+
+msgctxt "Languages::description::pos_jp_sln_cc_failed"
+msgid "Failed to settle with credit card. <br /> Please enter card information again or select another payment method and order."
+msgstr "Failed to settle with credit card. <br /> Please enter card information again or select another payment method and order."
+
+msgctxt "Languages::description::jp_sln_cc_company_name"
+msgid "Credit card branch name"
+msgstr "Credit card branch name"
+
+msgctxt "Languages::description::min_order_quantity_seat_type_invalidate"
+msgid "Minimum order must be multiple of quantity step if it is > 0 and quantity step is > 1"
+msgstr "Minimum order must be multiple of quantity step if it is > 0 and quantity step is > 1"
+
+msgctxt "Languages::description::maximum_order_quantity_seat_type_invalidate"
+msgid "Maximum order must be > minimum order and it must be multiple of quantity step if it is > 0 and quantity step > 1"
+msgstr "Maximum order must be > minimum order and it must be multiple of quantity step if it is > 0 and quantity step > 1"
+
+msgctxt "Languages::description::min_order_quantity_selling_invalidate"
+msgid "Minimum order must be multiple of quantity step if it is > 0 and quantity step is > 1"
+msgstr "Minimum order must be multiple of quantity step if it is > 0 and quantity step is > 1"
+
+msgctxt "Languages::description::maximum_order_quantity_selling_invalidate"
+msgid "Maximum order must be > minimum order and it must be multiple of quantity step if it is > 0 and quantity step > 1"
+msgstr "Maximum order must be > minimum order and it must be multiple of quantity step if it is > 0 and quantity step > 1"
+
+msgctxt "Languages::description::scanapp_never_come_gate"
+msgid "Never come gate"
+msgstr "Never come gate"
+
+msgctxt "Languages::description::bulk_update_seat_type_event_time"
+msgid "Bulk update for seat type•Event time"
+msgstr "Bulk update for seat type•Event time"
+
+msgctxt "Languages::description::language_ja"
+msgid "(Japanese)"
+msgstr "(Japanese)"
+
+msgctxt "Languages::description::cannot_edit_at_once_later"
+msgid "※You cannot edit at once later (including edit language)"
+msgstr "※You cannot edit at once later (including edit language)"
+
+msgctxt "Languages::description::text_order_placed_attention_cvs"
+msgid "【注意事項】<br />※お申込み完了のメールをお送りしました。支払方法等が記載されていますので、必ずご確認ください。メールが届かない場合は、お手数ですが<a href="https://mysterycircus.jp/contact" style="font-size: 16px;font-weight: bold;text-decoration: underline;">お問い合わせフォーム</a>からお問い合わせください。<br />※記載の入金期限までにお支払をお済ませください。期限を過ぎますと、入金ができず、お申込み頂いたチケットは無効となります。"
+msgstr "【注意事項】<br />※お申込み完了のメールをお送りしました。支払方法等が記載されていますので、必ずご確認ください。メールが届かない場合は、お手数ですが<a href="https://mysterycircus.jp/contact" style="font-size: 16px;font-weight: bold;text-decoration: underline;">お問い合わせフォーム</a>からお問い合わせください。<br />※記載の入金期限までにお支払をお済ませください。期限を過ぎますと、入金ができず、お申込み頂いたチケットは無効となります。"
+
+msgctxt "Languages::description::text_order_placed_attention"
+msgid "【Please note】</br>*After your purchase is confirmed, we could not accept any changes in the contents and cancellations.</br>*We send you the QR code ticket(s) as an attachment to the e-mail."
+msgstr "【Please note】</br>*After your purchase is confirmed, we could not accept any changes in the contents and cancellations.</br>*We send you the QR code ticket(s) as an attachment to the e-mail."
+
+msgctxt "Languages::description::checkout_attentions"
+msgid "【Please note】</br>*After your purchase is confirmed, we could not accept any changes in the contents and cancellations."
+msgstr "【Please note】</br>*After your purchase is confirmed, we could not accept any changes in the contents and cancellations."
+
+msgctxt "Languages::description::promoter_export_order_list_credit_cart"
+msgid "Export order list (only credit card)"
+msgstr "Export order list (only credit card)"
+
+msgctxt "Languages::description::please_select_start_and_end_date_does_not_included_date_that_has_events"
+msgid "Please select date that does not have any event for start and end date"
+msgstr "Please select date that does not have any event for start and end date"
+
+msgctxt "Languages::description::text_order_placed_backordered"
+msgid "We are very sorry to tell you that the tickets has been sold out during proceeding your payment.<br>\r\nWe will put you on a waiting list and it takes 2 to 3 working days to confirm whether we can ensure your ticket or not. The results will be sent by e-mail.<br>\r\nIf the tickets cannot be ensured, we will refund the full price.<br>\r\nPlease be patient.<br>"
+msgstr "We are very sorry to tell you that the tickets has been sold out during proceeding your payment.<br>\r\nWe will put you on a waiting list and it takes 2 to 3 working days to confirm whether we can ensure your ticket or not. The results will be sent by e-mail.<br>\r\nIf the tickets cannot be ensured, we will refund the full price.<br>\r\nPlease be patient.<br>"
+
+msgctxt "Languages::description::text_order_backordered"
+msgid "We are very sorry to tell you that the tickets has been sold out during proceeding your payment.\r\nWe will put you on a waiting list and it takes 2 to 3 working days to confirm whether we can ensure your ticket or not. The results will be sent by e-mail."
+msgstr "We are very sorry to tell you that the tickets has been sold out during proceeding your payment.\r\nWe will put you on a waiting list and it takes 2 to 3 working days to confirm whether we can ensure your ticket or not. The results will be sent by e-mail."
+
+msgctxt "Languages::description::landing_header_backordered"
+msgid "waiting list"
+msgstr "waiting list"
+
+msgctxt "Languages::description::text_order_placed_backordered_to_canceled"
+msgid "We are very sorry to tell you that the ticket has been sold out during proceeding your payment.<br>\r\nYour order has been canceled. Please try with different event date or time."
+msgstr "We are very sorry to tell you that the ticket has been sold out during proceeding your payment.<br>\r\nYour order has been canceled. Please try with different event date or time."
+
+msgctxt "Languages::description::coupon_bonus_invitation_ticket"
+msgid "Invitation Ticket"
+msgstr "Invitation Ticket"
+
+msgctxt "Languages::description::coupon_delivery_all_user"
+msgid "Deliver to all user"
+msgstr "Deliver to all user"
+
+msgctxt "Languages::description::add_events"
+msgid "Add product"
+msgstr "Add product"
+
+msgctxt "Languages::description::event_time"
+msgid "Time"
+msgstr "Time"
+
+msgctxt "Languages::description::add_all_events"
+msgid "Add all events"
+msgstr "Add all events"
+
+msgctxt "Languages::description::add_selected_events"
+msgid "Add selected events"
+msgstr "Add selected events"
+
+msgctxt "Languages::description::product_ids_invalid"
+msgid "Please select at least one product and its connected events before saving"
+msgstr "Please select at least one product and its connected events before saving"
+
+msgctxt "Languages::description::coupon_all"
+msgid "All"
+msgstr "All"
+
+msgctxt "Languages::description::coupon_user_type"
+msgid "Account to link"
+msgstr "Account to link"
+
+msgctxt "Languages::description::coupon_user_is_login"
+msgid "App Login"
+msgstr "App Login"
+
+msgctxt "Languages::description::coupon_user_login"
+msgid "Logined"
+msgstr "Logined"
+
+msgctxt "Languages::description::coupon_user_not_login"
+msgid "Not login"
+msgstr "Not login"
+
+msgctxt "Languages::description::coupon_user_login_time"
+msgid "User login at"
+msgstr "User login at"
+
+msgctxt "Languages::description::coupon_user_login_period"
+msgid "Period login"
+msgstr "Period login"
+
+msgctxt "Languages::description::coupon_user_login_from"
+msgid "Login from"
+msgstr "Login from"
+
+msgctxt "Languages::description::coupon_user_login_to"
+msgid "Login to"
+msgstr "Login to"
+
+msgctxt "Languages::description::coupon_user_purchased_times"
+msgid "# of times purchased"
+msgstr "# of times purchased"
+
+msgctxt "Languages::description::coupon_user_times_from"
+msgid "Times from"
+msgstr "Times from"
+
+msgctxt "Languages::description::coupon_user_times_to"
+msgid "Times to"
+msgstr "Times to"
+
+msgctxt "Languages::description::coupon_user_purchased_amount"
+msgid "Purchased amount (Total prices in cart)"
+msgstr "Purchased amount (Total prices in cart)"
+
+msgctxt "Languages::description::coupon_user_amount_from"
+msgid "Enter price (¥)"
+msgstr "Enter price (¥)"
+
+msgctxt "Languages::description::coupon_user_amount_to"
+msgid "Enter price (¥)"
+msgstr "Enter price (¥)"
+
+msgctxt "Languages::description::coupon_user_is_purchased"
+msgid "User purchased"
+msgstr "User purchased"
+
+msgctxt "Languages::description::coupon_user_purchased"
+msgid "Purchased"
+msgstr "Purchased"
+
+msgctxt "Languages::description::coupon_user_purchased_period"
+msgid "Period purchased"
+msgstr "Period purchased"
+
+msgctxt "Languages::description::coupon_user_purchased_payment_method"
+msgid "Payment method"
+msgstr "Payment method"
+
+msgctxt "Languages::description::coupon_user_not_purchased"
+msgid "Not purchased"
+msgstr "Not purchased"
+
+msgctxt "Languages::description::coupon_user_not_purchased_period"
+msgid "Period never purchased"
+msgstr "Period never purchased"
+
+msgctxt "Languages::description::coupon_user_count_orders"
+msgid "Total orders"
+msgstr "Total orders"
+
+msgctxt "Languages::description::coupon_user_type_eplus"
+msgid "イープラス"
+msgstr "イープラス"
+
+msgctxt "Languages::description::coupon_user_type_suku"
+msgid "-"
+msgstr "-"
+
+msgctxt "Languages::description::coupon_user_type_danin"
+msgid "-"
+msgstr "-"
+
+msgctxt "Languages::description::promotion_extract_user"
+msgid "Manage member"
+msgstr "Manage member"
+
+msgctxt "Languages::description::promotion_extract_user_menu_description"
+msgid "Extract user list menu description"
+msgstr "Extract user list menu description"
+
+msgctxt "Languages::description::batch_exporter"
+msgid "Exporter"
+msgstr "Exporter"
+
+msgctxt "Languages::description::batch_name"
+msgid "Export name"
+msgstr "Export name"
+
+msgctxt "Languages::description::batch_timestamp"
+msgid "Export timestamp"
+msgstr "Export timestamp"
+
+msgctxt "Languages::description::batch_status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "Languages::description::batch_status_new"
+msgid "New"
+msgstr "New"
+
+msgctxt "Languages::description::batch_status_done"
+msgid "Done"
+msgstr "Done"
+
+msgctxt "Languages::description::batch_status_processing"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "Languages::description::batch_status_stop"
+msgid "Stop"
+msgstr "Stop"
+
+msgctxt "Languages::description::batch_link_to_download"
+msgid "Link to download"
+msgstr "Link to download"
+
+msgctxt "Languages::description::batch_handle_processing"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "Languages::description::show_selected_events"
+msgid "Show selected events"
+msgstr "Show selected events"
+
+msgctxt "Languages::description::show_all_events"
+msgid "Show All"
+msgstr "Show All"
+
+msgctxt "Languages::description::no_events_selected"
+msgid "No events time selected"
+msgstr "No events time selected"
+
+msgctxt "Languages::description::coupon_upload_csv"
+msgid "CSV Upload"
+msgstr "CSV Upload"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid"
+msgid "Missing csv file"
+msgstr "Missing csv file"
+
+msgctxt "Languages::description::coupon_list_user_uploaded_csv"
+msgid "List of the user"
+msgstr "List of the user"
+
+msgctxt "Languages::description::coupon_upload_csv_invalid_format"
+msgid "CSV file has wrong format content"
+msgstr "CSV file has wrong format content"
+
+msgctxt "Languages::description::promo_code"
+msgid "Coupon code"
+msgstr "Coupon code"
+
+msgctxt "Languages::description::error_coupon_cant_open_file"
+msgid "Cant open uploaded csv file"
+msgstr "Cant open uploaded csv file"
+
+msgctxt "Languages::description::error_coupon_file_doesnt_exist"
+msgid "Cant find uploaded csv file"
+msgstr "Cant find uploaded csv file"
+
+msgctxt "Languages::description::url"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "Languages::description::coupon_invitation_ticket_duplicate"
+msgid "Since discount has already been applied, coupons can not be added"
+msgstr "Since discount has already been applied, coupons can not be added"
+
+msgctxt "Languages::description::from"
+msgid "from"
+msgstr "from"
+
+msgctxt "Languages::description::to"
+msgid "to"
+msgstr "to"
+
+msgctxt "Languages::description::no_valid_users_in_uploaded_csv_file"
+msgid "No valid users in uploaded CSV file"
+msgstr "No valid users in uploaded CSV file"
+
+msgctxt "Languages::description::coupon_export_csv"
+msgid "Export extract user"
+msgstr "Export extract user"
+
+msgctxt "Languages::description::coupon_user_credit_card"
+msgid "Credit card"
+msgstr "Credit card"
+
+msgctxt "Languages::description::coupon_user_credit_cvs"
+msgid "CVS"
+msgstr "CVS"
+
+msgctxt "Languages::description::coupon_used"
+msgid "Used coupon"
+msgstr "Used coupon"
+
+msgctxt "Languages::description::coupon_not_used"
+msgid "Not used coupon"
+msgstr "Not used coupon"
+
+msgctxt "Languages::description::coupon_user_not_purchased_label"
+msgid "Not purchased"
+msgstr "Not purchased"
+
+msgctxt "Languages::description::coupon_user_purchased_label"
+msgid "Purchased"
+msgstr "Purchased"
+
+msgctxt "Languages::description::coupon_user_id"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "Languages::description::coupon_enter_user_id"
+msgid "Enter ID"
+msgstr "Enter ID"
+
+msgctxt "Languages::description::coupon_enter_username"
+msgid "Enter user name"
+msgstr "Enter user name"
+
+msgctxt "Languages::description::coupon_enter_email"
+msgid "Enter email address"
+msgstr "Enter email address"
+
+msgctxt "Languages::description::coupon_yes"
+msgid "yes"
+msgstr "yes"
+
+msgctxt "Languages::description::coupon_no"
+msgid "no"
+msgstr "no"
+
+msgctxt "Languages::description::coupon_extract_users"
+msgid "Coupon Extract User"
+msgstr "Coupon Extract User"
+
+msgctxt "Languages::description::order_list_reports"
+msgid "Order List Reports"
+msgstr "Order List Reports"
+
+msgctxt "Languages::description::date_range"
+msgid "Date Range"
+msgstr "Date Range"
+
+msgctxt "Languages::description::date_range_type"
+msgid "Date Range Type"
+msgstr "Date Range Type"
+
+msgctxt "Languages::description::report_range"
+msgid "Report Range Type"
+msgstr "Report Range Type"
+
+msgctxt "Languages::description::view_coupon_export_csv_status"
+msgid "View Extract User Status"
+msgstr "View Extract User Status"
+
+msgctxt "Languages::description::applied_invitation_description"
+msgid "Invitation tickets have been applied to [event_date] [seat_name] of [product_name]"
+msgstr "Invitation tickets have been applied to [event_date] [seat_name] of [product_name]"
+
+msgctxt "Languages::description::coupon_discount_invalid"
+msgid "Discount invalid"
+msgstr "Discount invalid"
+
+msgctxt "Languages::description::coupon_delivery_from_is_empty"
+msgid "Delivery from is empty"
+msgstr "Delivery from is empty"
+
+msgctxt "Languages::description::coupon_delivery_to_is_empty"
+msgid "Delivery to is empty"
+msgstr "Delivery to is empty"
+
+msgctxt "Languages::description::coupon_from_date_is_empty"
+msgid "Available from is empty"
+msgstr "Available from is empty"
+
+msgctxt "Languages::description::coupon_to_date_is_empty"
+msgid "Available to is empty"
+msgstr "Available to is empty"
+
+msgctxt "Languages::description::coupon_scan_qr_code"
+msgid "Scan QR and deliver coupon"
+msgstr "Scan QR and deliver coupon"
+
+msgctxt "Languages::description::coupon_show_qr_code"
+msgid "Show QR"
+msgstr "Show QR"
+
+msgctxt "Languages::description::cannot_get_coupon_by_token"
+msgid "This code is not available"
+msgstr "This code is not available"
+
+msgctxt "Languages::description::coupon_is_not_found"
+msgid "This code is not available"
+msgstr "This code is not available"
+
+msgctxt "Languages::description::coupon_code_is_empty"
+msgid "This code is not available"
+msgstr "This code is not available"
+
+msgctxt "Languages::description::coupon_order_id_is_empty"
+msgid "Order id invalid"
+msgstr "Order id invalid"
+
+msgctxt "Languages::description::coupon_is_expired"
+msgid "This coupon can not be used outside of the available period"
+msgstr "This coupon can not be used outside of the available period"
+
+msgctxt "Languages::description::coupon_was_applied"
+msgid "This coupon can not be used because it has been used"
+msgstr "This coupon can not be used because it has been used"
+
+msgctxt "Languages::description::open_get_coupon_page"
+msgid "Open Get coupon page"
+msgstr "Open Get coupon page"
+
+msgctxt "Languages::description::coupon_delivery_url"
+msgid "Access to URL and deliver coupon"
+msgstr "Access to URL and deliver coupon"
+
+msgctxt "Languages::description::coupon_url_header"
+msgid "Get coupons that can be <br> used at OCEAN BY NAKED!"
+msgstr "Get coupons that can be <br> used at OCEAN BY NAKED!"
+
+msgctxt "Languages::description::coupon_url_description_1"
+msgid "If you do not have a TMC app <br> download the application first"
+msgstr "If you do not have a TMC app <br> download the application first"
+
+msgctxt "Languages::description::coupon_url_description_2"
+msgid "Those who have a TMC app"
+msgstr "Those who have a TMC app"
+
+msgctxt "Languages::description::coupon_url_description_3"
+msgid "Get coupon by <br/> open app"
+msgstr "Get coupon by <br/> open app"
+
+msgctxt "Languages::description::coupon_url_description_4"
+msgid "Scan the QR with app and <br> coupon will be delivered"
+msgstr "Scan the QR with app and <br> coupon will be delivered"
+
+msgctxt "Languages::description::coupon_url_description_5"
+msgid "You can access QR shooting screen <br> from Menu> Coupon of app"
+msgstr "You can access QR shooting screen <br> from Menu> Coupon of app"
+
+msgctxt "Languages::description::user_scan_url_got_coupon"
+msgid "You already got this coupon"
+msgstr "You already got this coupon"
+
+msgctxt "Languages::description::order_only_has_one_coupon"
+msgid "An order just has only one coupon"
+msgstr "An order just has only one coupon"
+
+msgctxt "Languages::description::coupon_avail_to_gte_delivery_to"
+msgid "Available To DateTime must be greater or equals to Delivery To DateTime"
+msgstr "Available To DateTime must be greater or equals to Delivery To DateTime"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_1"
+msgid "Please enter a value greater than or equal to 1"
+msgstr "Please enter a value greater than or equal to 1"
+
+msgctxt "Languages::description::coupon_avail_until_is_empty"
+msgid "Available Until is empty"
+msgstr "Available Until is empty"
+
+msgctxt "Languages::description::coupon_avail_until"
+msgid "After got"
+msgstr "After got"
+
+msgctxt "Languages::description::coupon_avail_until_desc"
+msgid "hours"
+msgstr "hours"
+
+msgctxt "Languages::description::event_detail_url"
+msgid "Event Detail"
+msgstr "Event Detail"
+
+msgctxt "Languages::description::custom_price_text"
+msgid "Price on schedule (text)"
+msgstr "Price on schedule (text)"
+
+msgctxt "Languages::description::custom_event_detail_url"
+msgid "Event Detail URL"
+msgstr "Event Detail URL"
+
+msgctxt "Languages::description::field_custom_event_detail_url"
+msgid "event detail url"
+msgstr "event detail url"
+
+msgctxt "Languages::description::cannot_get_coupon_by_qr_code"
+msgid "You cannot get coupon \n with this QR code"
+msgstr "You cannot get coupon \n with this QR code"
+
+msgctxt "Languages::description::coupon_bonus_cash_back_events"
+msgid "Cash back (specific product)"
+msgstr "Cash back (specific product)"
+
+msgctxt "Languages::description::filter_condition_and_export_order_list"
+msgid "Export order list with filter conditions"
+msgstr "Export order list with filter conditions"
+
+msgctxt "Languages::description::order_report_filter"
+msgid "Order report filter"
+msgstr "Order report filter"
+
+msgctxt "Languages::description::order_created_date"
+msgid "Order created date"
+msgstr "Order created date"
+
+msgctxt "Languages::description::settlement_date"
+msgid "Settlement date"
+msgstr "Settlement date"
+
+msgctxt "Languages::description::used_coupon_only"
+msgid "Used coupon only"
+msgstr "Used coupon only"
+
+msgctxt "Languages::description::export_order_list_with_conditions"
+msgid "Export order list with the conditions"
+msgstr "Export order list with the conditions"
+
+msgctxt "Languages::description::coupon_delivery_period_is_ended"
+msgid "Delivery period is ended"
+msgstr "Delivery period is ended"
+
+msgctxt "Languages::description::coupon_delivery_period_is_not_started"
+msgid "Delivery period is not started"
+msgstr "Delivery period is not started"
+
+msgctxt "Languages::description::coupon_available_period_is_ended"
+msgid "Available period is ended"
+msgstr "Available period is ended"
+
+msgctxt "Languages::description::order_created_date_from_must_be_before_or_same_order_created_date_to"
+msgid "The order created date (from) must be before or same the order created date (to)"
+msgstr "The order created date (from) must be before or same the order created date (to)"
+
+msgctxt "Languages::description::settlement_date_from_must_be_before_or_same_settlement_date_to"
+msgid "The settlement date (from) must be before or same the settlement date (to)"
+msgstr "The settlement date (from) must be before or same the settlement date (to)"
+
+msgctxt "Languages::description::event_date_from_must_be_before_or_same_event_date_to"
+msgid "The event date (from) must be before or same the event date (to)"
+msgstr "The event date (from) must be before or same the event date (to)"
+
+msgctxt "Languages::description::user_access_url_got_coupon"
+msgid "You already got this coupon"
+msgstr "You already got this coupon"
+
+msgctxt "Languages::description::choose_at_least_one_payment_method_to_export"
+msgid "Please choose at least one payment method to export"
+msgstr "Please choose at least one payment method to export"
+
+msgctxt "Languages::description::pay_using_cash"
+msgid "Cash"
+msgstr "Cash"
+
+msgctxt "Languages::description::pay_using_cvs"
+msgid "CVS"
+msgstr "CVS"
+
+msgctxt "Languages::description::order_report_filter_desc"
+msgid "Filter order list by conditions"
+msgstr "Filter order list by conditions"
+
+msgctxt "Languages::description::download_order_list_reports"
+msgid "Download list of order list"
+msgstr "Download list of order list"
+
+msgctxt "Languages::description::coupon_specify_hours"
+msgid "Specify hours"
+msgstr "Specify hours"
+
+msgctxt "Languages::description::product_export_order_list"
+msgid "View download order list"
+msgstr "View download order list"
+
+msgctxt "Languages::description::applied_cash_back_events_description"
+msgid "Cash back tickets have been applied to [event_date] [seat_name] of [product_name]"
+msgstr "Cash back tickets have been applied to [event_date] [seat_name] of [product_name]"
+
+msgctxt "Languages::description::return_unused_coupon"
+msgid "Return unused coupon [coupon_name] [coupon_code]"
+msgstr "Return unused coupon [coupon_name] [coupon_code]"
+
+msgctxt "Languages::description::cannot_create_combination_hash_register_events"
+msgid "There are errors on registering event."
+msgstr "There are errors on registering event."
+
+msgctxt "Languages::description::keep_shopping"
+msgid "Keep Shopping"
+msgstr "Keep Shopping"
+
+msgctxt "Languages::description::no_events_in_day"
+msgid "Events for today is over"
+msgstr "Events for today is over"
+
+msgctxt "Languages::description::danin_pre_sales"
+msgid "Danin pre sales"
+msgstr "Danin pre sales"
+
+msgctxt "Languages::description::search_by_keyword"
+msgid "Search by keyword"
+msgstr "Search by keyword"
+
+msgctxt "Languages::description::search_by_period"
+msgid "Search by period"
+msgstr "Search by period"
+
+msgctxt "Languages::description::this_week"
+msgid "This week"
+msgstr "This week"
+
+msgctxt "Languages::description::next_week"
+msgid "Next week"
+msgstr "Next week"
+
+msgctxt "Languages::description::this_month"
+msgid "This month"
+msgstr "This month"
+
+msgctxt "Languages::description::date_search"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "Languages::description::ty_product_empty"
+msgid "Event not found."
+msgstr "Event not found."
+
+msgctxt "Languages::description::ty_product_empty_sub"
+msgid "Please change the conditions and search"
+msgstr "Please change the conditions and search"
+
+msgctxt "Languages::description::additional_settings"
+msgid "Additional Settings"
+msgstr "Additional Settings"
+
+msgctxt "Languages::description::event_period_from"
+msgid "Period (From)"
+msgstr "Period (From)"
+
+msgctxt "Languages::description::event_period_to"
+msgid "Period (To)"
+msgstr "Period (To)"
+
+msgctxt "Languages::description::additional_event_period"
+msgid "Event period"
+msgstr "Event period"
+
+msgctxt "Languages::description::additional_event_guide"
+msgid "Event guide"
+msgstr "Event guide"
+
+msgctxt "Languages::description::event_guide_limited_time"
+msgid "Limited time"
+msgstr "Limited time"
+
+msgctxt "Languages::description::event_guide_number_members"
+msgid "number of members"
+msgstr "number of members"
+
+msgctxt "Languages::description::event_guide_duration"
+msgid "Duration time"
+msgstr "Duration time"
+
+msgctxt "Languages::description::event_guide_place_type"
+msgid "Type of place"
+msgstr "Type of place"
+
+msgctxt "Languages::description::event_guide_venue_type"
+msgid "Type of venue"
+msgstr "Type of venue"
+
+msgctxt "Languages::description::event_guide_started_type"
+msgid "How to get started"
+msgstr "How to get started"
+
+msgctxt "Languages::description::additional_sticker"
+msgid "Sticker"
+msgstr "Sticker"
+
+msgctxt "Languages::description::show_tmc_sticker"
+msgid "Only TMC"
+msgstr "Only TMC"
+
+msgctxt "Languages::description::show_play_english_sticker"
+msgid "Play English"
+msgstr "Play English"
+
+msgctxt "Languages::description::addtional_price_desc"
+msgid "“Price on schedule (text)” of General setting tab is shown"
+msgstr "“Price on schedule (text)” of General setting tab is shown"
+
+msgctxt "Languages::description::indoor"
+msgid "Indoor"
+msgstr "Indoor"
+
+msgctxt "Languages::description::outdoor"
+msgid "Outdoor"
+msgstr "Outdoor"
+
+msgctxt "Languages::description::all_at_once"
+msgid "All at once"
+msgstr "All at once"
+
+msgctxt "Languages::description::at_any_time"
+msgid "At any time"
+msgstr "At any time"
+
+msgctxt "Languages::description::field_event_period_from"
+msgid "Period (From)"
+msgstr "Period (From)"
+
+msgctxt "Languages::description::field_event_period_to"
+msgid "Period (To)"
+msgstr "Period (To)"
+
+msgctxt "Languages::description::do_not_show"
+msgid "Do not show"
+msgstr "Do not show"
+
+msgctxt "Languages::description::promotion_view_export_batch_list"
+msgid "View download order list of coupon list"
+msgstr "View download order list of coupon list"
+
+msgctxt "Languages::description::promotion_filter_condition_and_export"
+msgid "Export coupon used list with filter conditions"
+msgstr "Export coupon used list with filter conditions"
+
+msgctxt "Languages::description::coupon_used_date"
+msgid "Used date"
+msgstr "Used date"
+
+msgctxt "Languages::description::promotion_export_batch_list"
+msgid "Download list of coupon list"
+msgstr "Download list of coupon list"
+
+msgctxt "Languages::description::coupon_report_filter_title"
+msgid "Coupon report filter"
+msgstr "Coupon report filter"
+
+msgctxt "Languages::description::promotion_template_id"
+msgid "Coupon Config ID"
+msgstr "Coupon Config ID"
+
+msgctxt "Languages::description::promotion_id"
+msgid "Promotion ID"
+msgstr "Promotion ID"
+
+msgctxt "Languages::description::coupon_used_date_from_must_be_before_or_same_order_created_date_to"
+msgid "The coupon used date (from) must be before or same the coupon used date (to)"
+msgstr "The coupon used date (from) must be before or same the coupon used date (to)"
+
+msgctxt "Languages::description::coupon_list_reports"
+msgid "Coupon List Reports"
+msgstr "Coupon List Reports"
+
+msgctxt "Languages::description::this_field_just_include_commas_and_numbers"
+msgid "This field just include commas and numbers"
+msgstr "This field just include commas and numbers"
+
+msgctxt "Languages::description::checkout_change_email"
+msgid "My email address to receive tickets is [email]. *Please change it [terms_href], if it is wrong email address displayed."
+msgstr "My email address to receive tickets is [email]. *Please change it [terms_href], if it is wrong email address displayed."
+
+msgctxt "Languages::description::checkout_change_email_alert"
+msgid "Click "SUBMIT ORDER" after check the check box."
+msgstr "Click "SUBMIT ORDER" after check the check box."
+
+msgctxt "Languages::description::here"
+msgid "HERE"
+msgstr "HERE"
+
+msgctxt "Languages::description::cvs_info_text"
+msgid "cvs_info_text"
+msgstr "cvs_info_text"
+
+msgctxt "Languages::description::cvs_expire"
+msgid "cvs_expire"
+msgstr "cvs_expire"
+
+msgctxt "Languages::description::cvs_url"
+msgid "<a href=[cvs_url] class='cl-blue link'>[cvs_url]</a>"
+msgstr "<a href=[cvs_url] class='cl-blue link'>[cvs_url]</a>"
+
+msgctxt "Languages::description::delivery_email"
+msgid "E-ticket (QR code) delivery address"
+msgstr "E-ticket (QR code) delivery address"
+
+msgctxt "Languages::description::available_ticket"
+msgid "Available: [tickets]"
+msgstr "Available: [tickets]"
+
+msgctxt "Languages::description::receipt_issue"
+msgid "Receipt issue"
+msgstr "Receipt issue"
+
+msgctxt "Languages::description::receipt"
+msgid "領収書<br>Receipt"
+msgstr "領収書<br>Receipt"
+
+msgctxt "Languages::description::confirm_info_receipt"
+msgid "下記を確かに領収しました。<br>This is to certify that we have received the following."
+msgstr "下記を確かに領収しました。<br>This is to certify that we have received the following."
+
+msgctxt "Languages::description::receipt_from"
+msgid "宛名 (Received from) <strong>[receipt_from]</strong>"
+msgstr "宛名 (Received from) <strong>[receipt_from]</strong>"
+
+msgctxt "Languages::description::receipt_of_recipient"
+msgid "様"
+msgstr "様"
+
+msgctxt "Languages::description::amount_price"
+msgid "金額 (The sum of) <strong>[total]円</strong> (JPY / tax-included)"
+msgstr "金額 (The sum of) <strong>[total]円</strong> (JPY / tax-included)"
+
+msgctxt "Languages::description::payment_date"
+msgid "お支払い日 (Payment date) <strong>[date]</strong>"
+msgstr "お支払い日 (Payment date) <strong>[date]</strong>"
+
+msgctxt "Languages::description::receipt_payment_method"
+msgid "お支払い方法 (Payment method) <strong>[payment]</strong>"
+msgstr "お支払い方法 (Payment method) <strong>[payment]</strong>"
+
+msgctxt "Languages::description::receipt_order_id"
+msgid "内容 (In payment of) <strong>チケット代 (TICKET)</strong> Order #[order_id]"
+msgstr "内容 (In payment of) <strong>チケット代 (TICKET)</strong> Order #[order_id]"
+
+msgctxt "Languages::description::receipt_time_now"
+msgid "電子領収書表示日 (Date of display) <strong>[time_now]</strong>"
+msgstr "電子領収書表示日 (Date of display) <strong>[time_now]</strong>"
+
+msgctxt "Languages::description::receipt_note"
+msgid "本領収書は電子表示したものです。<br>This is an electronic display of receipt data."
+msgstr "本領収書は電子表示したものです。<br>This is an electronic display of receipt data."
+
+msgctxt "Languages::description::receipt_company"
+msgid "「バンクシー展 天才か反逆者か BANKSY -GENIUS OR VANDAL?」Ticket Service by eplus, Inc.（株式会社イープラス）"
+msgstr "「バンクシー展 天才か反逆者か BANKSY -GENIUS OR VANDAL?」Ticket Service by eplus, Inc.（株式会社イープラス）"
+
+msgctxt "Languages::description::receipt_download"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "Languages::description::receipt_error_entry_name"
+msgid "The 宛名 (Received from) field is mandatory."
+msgstr "The 宛名 (Received from) field is mandatory."
+
+msgctxt "Languages::description::export_coupon_list_instruction"
+msgid "<p>Output record unit: Promotion ID</p><p>number of deliveries: number of push notification (Total number of corresponding coupon IDs)</p><p>number of received: <br/>(1)App download: number of log in users <br/>(2)App share: number of shares on and friends SNS <br/>(3)Invite code: Numer of log in users <br/>(4)Invite friends: number of friend who input the invitation code <br/>(5)Send to all of users: number of log in users <br/>(6)CSV upload: number of log in users <br/>(7)Sending by QR scan: number of QR scan <br/>(8)By URL access: number of URL scheme taken <br/></p><p>Using number: number of input coupon, scan QR by the device</p>"
+msgstr "<p>Output record unit: Promotion ID</p><p>number of deliveries: number of push notification (Total number of corresponding coupon IDs)</p><p>number of received: <br/>(1)App download: number of log in users <br/>(2)App share: number of shares on and friends SNS <br/>(3)Invite code: Numer of log in users <br/>(4)Invite friends: number of friend who input the invitation code <br/>(5)Send to all of users: number of log in users <br/>(6)CSV upload: number of log in users <br/>(7)Sending by QR scan: number of QR scan <br/>(8)By URL access: number of URL scheme taken <br/></p><p>Using number: number of input coupon, scan QR by the device</p>"
+
+msgctxt "Languages::description::cart_note"
+msgid "*Any coupons issued at OCEAN BY NAKED Ticket are not available"
+msgstr "*Any coupons issued at OCEAN BY NAKED Ticket are not available"
+
+msgctxt "Languages::description::no_such_coupon"
+msgid "You can not use this coupon code. Try it again by another code.<br>"
+msgstr "You can not use this coupon code. Try it again by another code.<br>"
+
+msgctxt "Languages::description::continue_shopping_btn"
+msgid "CONTINUE SHOPPING"
+msgstr "CONTINUE SHOPPING"
+
+msgctxt "Languages::description::remove_from_cart"
+msgid "Remove from cart"
+msgstr "Remove from cart"
+
+msgctxt "Languages::description::cancel_my_order"
+msgid "CLEAR CART"
+msgstr "CLEAR CART"
+
+msgctxt "Languages::description::order_buy_now"
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+msgctxt "Languages::description::view_my_e_ticket"
+msgid "VIEW MY TICKET"
+msgstr "VIEW MY TICKET"
+
+msgctxt "Languages::description::btn_ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "Languages::description::note_save_qr_code"
+msgid "Show tickets on your smartphone or show this QR code in printed."
+msgstr "Show tickets on your smartphone or show this QR code in printed."
+
+msgctxt "Languages::description::add_to_cart"
+msgid "ADD TO CART"
+msgstr "ADD TO CART"
+
+msgctxt "Languages::description::proceed_to_checkout"
+msgid "PROCEED TO PAYMENT"
+msgstr "PROCEED TO PAYMENT"
+
+msgctxt "Languages::description::order_id_lbl"
+msgid "Order"
+msgstr "Order"
+
+msgctxt "Languages::description::print_order_btn"
+msgid "Invoice"
+msgstr "Invoice"
+
+msgctxt "Languages::description::account_order_history"
+msgid "Order history"
+msgstr "Order history"
+
+msgctxt "Languages::description::clear_cart_notify"
+msgid "Are you sure you want to clear cart?"
+msgstr "Are you sure you want to clear cart?"
+
+msgctxt "Languages::description::proceed_to_checkout_notify"
+msgid "Are you sure you want to proceed?"
+msgstr "Are you sure you want to proceed?"
+
+msgctxt "Languages::description::receipt_require"
+msgid "The <b>宛名 (Received from) </b> field is mandatory."
+msgstr "The <b>宛名 (Received from) </b> field is mandatory."
+
+msgctxt "Languages::description::button_login_text"
+msgid "IDでログイン"
+msgstr "IDでログイン"
+
+msgctxt "Languages::description::confirm_content_my_purchase"
+msgid "I confirmed the contents of my purchase and I agreed that tickets could not any changes in the contents and cancellations."
+msgstr "I confirmed the contents of my purchase and I agreed that tickets could not any changes in the contents and cancellations."
+
+msgctxt "Languages::description::checkout_terms_content_my_purchase_alert"
+msgid "Click "SUBMIT ORDER" after check the check box."
+msgstr "Click "SUBMIT ORDER" after check the check box."
+
+msgctxt "Languages::description::checkout_terms_n_conditions"
+msgid "I agree the [terms_href]"
+msgstr "I agree the [terms_href]"
+
+msgctxt "Languages::description::billing_address_custom"
+msgid "PLEASE NOTE <br>Please fill in the same name as your passport/ID card."
+msgstr "PLEASE NOTE <br>Please fill in the same name as your passport/ID card."
+
+msgctxt "Languages::description::final_confirmation"
+msgid "CONFIRMATION"
+msgstr "CONFIRMATION"
+
+msgctxt "Languages::description::final_confirmation_content"
+msgid "Click “SUBMIT MY ORDER” after select all check-boxes to accept them."
+msgstr "Click “SUBMIT MY ORDER” after select all check-boxes to accept them."
+
+msgctxt "Languages::description::total_quantity"
+msgid "Total Quantity: [total_quantity] ticket(s)"
+msgstr "Total Quantity: [total_quantity] ticket(s)"
+
+msgctxt "Languages::description::total_price"
+msgid "Total Price: [total_price] JPY"
+msgstr "Total Price: [total_price] JPY"
+
+msgctxt "Languages::description::text_order_placed_attention_note_2"
+msgid "After your purchase is confirmed, we could not accept any changes in the contents and cancellations."
+msgstr "After your purchase is confirmed, we could not accept any changes in the contents and cancellations."
+
+msgctxt "Languages::description::text_order_placed_attention_note_3"
+msgid "We send you the QR code ticket(s) as an attachment to the e-mail."
+msgstr "We send you the QR code ticket(s) as an attachment to the e-mail."
+
+msgctxt "Languages::description::payment_by"
+msgid "Payment by"
+msgstr "Payment by"
+
+msgctxt "Languages::description::see_my_order"
+msgid "See my order"
+msgstr "See my order"
+
+msgctxt "Languages::description::register_eplus"
+msgid "新規会員登録"
+msgstr "新規会員登録"
+
+msgctxt "Languages::description::date_format_1"
+msgid "%Y/%m/%/%d (%a)"
+msgstr "%Y/%m/%/%d (%a)"
+
+msgctxt "Languages::description::weekday_abr_0"
+msgid "Sun"
+msgstr "Sun"
+
+msgctxt "Languages::description::weekday_abr_1"
+msgid "Mon"
+msgstr "Mon"
+
+msgctxt "Languages::description::weekday_abr_2"
+msgid "Tue"
+msgstr "Tue"
+
+msgctxt "Languages::description::weekday_abr_3"
+msgid "Wed"
+msgstr "Wed"
+
+msgctxt "Languages::description::weekday_abr_4"
+msgid "Thu"
+msgstr "Thu"
+
+msgctxt "Languages::description::weekday_abr_5"
+msgid "Fri"
+msgstr "Fri"
+
+msgctxt "Languages::description::weekday_abr_6"
+msgid "Sat"
+msgstr "Sat"
+
+msgctxt "Languages::description::weekday_0"
+msgid "Sunday"
+msgstr "Sunday"
+
+msgctxt "Languages::description::weekday_1"
+msgid "Monday"
+msgstr "Monday"
+
+msgctxt "Languages::description::weekday_2"
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgctxt "Languages::description::weekday_3"
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgctxt "Languages::description::weekday_4"
+msgid "Thurday"
+msgstr "Thurday"
+
+msgctxt "Languages::description::weekday_5"
+msgid "Friday"
+msgstr "Friday"
+
+msgctxt "Languages::description::weekday_6"
+msgid "Saturday"
+msgstr "Saturday"
+
+msgctxt "Languages::description::month_name_abr_1"
+msgid "Jan"
+msgstr "Jan"
+
+msgctxt "Languages::description::month_name_abr_2"
+msgid "Feb"
+msgstr "Feb"
+
+msgctxt "Languages::description::month_name_abr_3"
+msgid "Mar"
+msgstr "Mar"
+
+msgctxt "Languages::description::month_name_abr_4"
+msgid "Apr"
+msgstr "Apr"
+
+msgctxt "Languages::description::month_name_abr_5"
+msgid "May"
+msgstr "May"
+
+msgctxt "Languages::description::month_name_abr_6"
+msgid "Jun"
+msgstr "Jun"
+
+msgctxt "Languages::description::month_name_abr_7"
+msgid "Jul"
+msgstr "Jul"
+
+msgctxt "Languages::description::month_name_abr_8"
+msgid "Aug"
+msgstr "Aug"
+
+msgctxt "Languages::description::month_name_abr_9"
+msgid "Sep"
+msgstr "Sep"
+
+msgctxt "Languages::description::month_name_abr_10"
+msgid "Oct"
+msgstr "Oct"
+
+msgctxt "Languages::description::month_name_abr_11"
+msgid "Nov"
+msgstr "Nov"
+
+msgctxt "Languages::description::month_name_abr_12"
+msgid "Dec"
+msgstr "Dec"
+
+msgctxt "Languages::description::month_name_1"
+msgid "January"
+msgstr "January"
+
+msgctxt "Languages::description::month_name_2"
+msgid "February"
+msgstr "February"
+
+msgctxt "Languages::description::month_name_3"
+msgid "March"
+msgstr "March"
+
+msgctxt "Languages::description::month_name_4"
+msgid "April"
+msgstr "April"
+
+msgctxt "Languages::description::month_name_5"
+msgid "May"
+msgstr "May"
+
+msgctxt "Languages::description::month_name_6"
+msgid "Jun"
+msgstr "Jun"
+
+msgctxt "Languages::description::month_name_7"
+msgid "July"
+msgstr "July"
+
+msgctxt "Languages::description::month_name_8"
+msgid "August"
+msgstr "August"
+
+msgctxt "Languages::description::month_name_9"
+msgid "September"
+msgstr "September"
+
+msgctxt "Languages::description::month_name_10"
+msgid "October"
+msgstr "October"
+
+msgctxt "Languages::description::month_name_11"
+msgid "November"
+msgstr "November"
+
+msgctxt "Languages::description::month_name_12"
+msgid "December"
+msgstr "December"
+
+msgctxt "Languages::description::mini_cart_total_price"
+msgid "Total Price"
+msgstr "Total Price"
+
+msgctxt "Languages::description::total_quantity_order_label"
+msgid "Total Quantity"
+msgstr "Total Quantity"
+
+msgctxt "Languages::description::total_quantity_order_value"
+msgid "[value] ticket(s)"
+msgstr "[value] ticket(s)"
+
+msgctxt "Languages::description::place_of_residence"
+msgid "Place of residence"
+msgstr "Place of residence"
+
+msgctxt "Languages::description::cart_attention_1"
+msgid "PLEASE NOTICE"
+msgstr "PLEASE NOTICE"
+
+msgctxt "Languages::description::cart_attention_2"
+msgid "Tickets will be ensured after your payment"
+msgstr "Tickets will be ensured after your payment"
+
+msgctxt "Languages::description::other"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "Languages::description::decline_to_state"
+msgid "Decline to state"
+msgstr "Decline to state"
+
+msgctxt "Languages::description::cart_contents"
+msgid "Cart contents"
+msgstr "Cart contents"
+
+msgctxt "Languages::description::weekday_format"
+msgid "(%a)"
+msgstr "(%a)"
+
+msgctxt "Languages::description::select_date_option"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "Languages::description::billing_shipping_address"
+msgid "Customer Information"
+msgstr "Customer Information"
+
+msgctxt "Languages::description::currency_jpy_symbol"
+msgid "&nbsp;JPY"
+msgstr "&nbsp;JPY"
+
+msgctxt "Languages::description::total_products_order"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "Languages::description::product_items"
+msgid "&nbsp;items"
+msgstr "&nbsp;items"
+
+msgctxt "Languages::description::more"
+msgid "See more"
+msgstr "See more"
+
+msgctxt "Languages::description::pos_order_is_canceled"
+msgid "POS Order is canceled"
+msgstr "POS Order is canceled"
+
+msgctxt "Languages::description::pos_order_not_found"
+msgid "POS Order Not Found"
+msgstr "POS Order Not Found"
+
+msgctxt "Languages::description::pos_can_not_cancel_order"
+msgid "POS Cannot cancel order"
+msgstr "POS Cannot cancel order"
+
+msgctxt "Languages::description::mail_logs_to"
+msgid "Mail to"
+msgstr "Mail to"
+
+msgctxt "Languages::description::advanced_product_price_is_lower_discount"
+msgid "[product] The discount amount [discount] can not greater than the ticket price [price]"
+msgstr "[product] The discount amount [discount] can not greater than the ticket price [price]"
+
+msgctxt "Languages::description::product_credit"
+msgid "Credit"
+msgstr "Credit"
+
+msgctxt "Languages::description::invalid_field"
+msgid "The [field] is invalid."
+msgstr "The [field] is invalid."
+
+msgctxt "Languages::description::product_credit_greater_max_len"
+msgid "Credit is greater than 512 bytes"
+msgstr "Credit is greater than 512 bytes"
+
+msgctxt "Languages::description::tickets_qr_code"
+msgid "tickets"
+msgstr "tickets"
+
+msgctxt "Languages::description::preview_qr_code"
+msgid "Preview QR Ticket"
+msgstr "Preview QR Ticket"
+
+msgctxt "Languages::description::owner_cc_card_notice"
+msgid "Your credit card statement will be described “イープラスショップ(eplus shop)” as our shop name."
+msgstr "Your credit card statement will be described “イープラスショップ(eplus shop)” as our shop name."
+
+msgctxt "Languages::description::gender_other"
+msgid "Other"
+msgstr "Other"
+
+msgctxt "Languages::description::selling_all"
+msgid "ALL"
+msgstr "ALL"
+
+msgctxt "Languages::description::selling_pos"
+msgid "POS"
+msgstr "POS"
+
+msgctxt "Languages::description::selling_web"
+msgid "WEB"
+msgstr "WEB"
+
+msgctxt "Languages::description::note_id_login"
+msgid "*※ご登録の携帯電話番号/メールアドレスをログインIDとして使用できます*"
+msgstr "*※ご登録の携帯電話番号/メールアドレスをログインIDとして使用できます*"
+
+msgctxt "Languages::description::id"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "Languages::description::required_field"
+msgid "The [field] is mandatory."
+msgstr "The [field] is mandatory."
+
+msgctxt "Languages::description::invalid_field"
+msgid "The selected [field] is invalid."
+msgstr "The selected [field] is invalid."
+
+msgctxt "Languages::description::min_0_field"
+msgid "The [field] must be at least 0."
+msgstr "The [field] must be at least 0."
+
+msgctxt "Languages::description::date_from_before_or_equal_date_to"
+msgid "The [field_from] must be a date before or equal [field_to]."
+msgstr "The [field_from] must be a date before or equal [field_to]."
+
+msgctxt "Languages::description::image_upload_exceed_error"
+msgid "The image you have uploaded has exceeded the maximum upload size for this site"
+msgstr "The image you have uploaded has exceeded the maximum upload size for this site"
+
+msgctxt "Languages::description::release_info_date"
+msgid "Release information date"
+msgstr "Release information date"
+
+msgctxt "Languages::description::api_date_format_field"
+msgid "The [field] does not match the format yyyy/mm/dd."
+msgstr "The [field] does not match the format yyyy/mm/dd."
+
+msgctxt "Languages::description::api_date_from_before_or_equal_date_to"
+msgid "The [field_from] must be a date before or equal [field_to]."
+msgstr "The [field_from] must be a date before or equal [field_to]."
+
+msgctxt "Languages::description::api_invalid_field"
+msgid "The [field] is invalid."
+msgstr "The [field] is invalid."
+
+msgctxt "Languages::description::text_cart_amount_limit"
+msgid "The quantity of the product <b>[product]</b> is limit to buy today."
+msgstr "The quantity of the product <b>[product]</b> is limit to buy today."
+
+msgctxt "Languages::description::date_from_before_date_to"
+msgid "The [field_from] must be a date before [field_to]."
+msgstr "The [field_from] must be a date before [field_to]."
+
+msgctxt "Languages::description::please_enter_start_tour_period"
+msgid "Please enter start tour period"
+msgstr "Please enter start tour period"
+
+msgctxt "Languages::description::please_enter_selling_class"
+msgid "Please enter selling class"
+msgstr "Please enter selling class"
+
+msgctxt "Languages::description::please_enter_start_receipt"
+msgid "Please enter start receiption"
+msgstr "Please enter start receiption"
+
+msgctxt "Languages::description::please_enter_end_selling_date"
+msgid "Please enter end selling date"
+msgstr "Please enter end selling date"
+
+msgctxt "Languages::description::please_enter_number"
+msgid "Please enter number"
+msgstr "Please enter number"
+
+msgctxt "Languages::description::please_add_a_seat_type"
+msgid "Please add a seat type"
+msgstr "Please add a seat type"
+
+msgctxt "Languages::description::do_you_want_delete_event"
+msgid "Do you want delete event ?"
+msgstr "Do you want delete event ?"
+
+msgctxt "Languages::description::are_you_sure_delete_selling_class"
+msgid "Are you sure delete selling class ?"
+msgstr "Are you sure delete selling class ?"
+
+msgctxt "Languages::description::are_sure_delete_seat"
+msgid "Are sure delete seat type ?"
+msgstr "Are sure delete seat type ?"
+
+msgctxt "Languages::description::please_enter_a_value_greater_than_or_equal_to_0"
+msgid "Please enter a value greater than or equal to 0"
+msgstr "Please enter a value greater than or equal to 0"
+
+msgctxt "Languages::description::please_enter_venue_name"
+msgid "Please enter venue name"
+msgstr "Please enter venue name"
+
+msgctxt "Languages::description::please_enter_seat_type"
+msgid "Please enter seat type"
+msgstr "Please enter seat type"
+
+msgctxt "Languages::description::please_enter_stock"
+msgid "Please enter stock"
+msgstr "Please enter stock"
+
+msgctxt "Languages::description::please_enter_position"
+msgid "Please enter position"
+msgstr "Please enter position"
+
+msgctxt "Languages::description::are_you_sure_delete_event_time"
+msgid "Are you sure delete event time ?"
+msgstr "Are you sure delete event time ?"
+
+msgctxt "Languages::description::are_you_sure_delete_all_event_time"
+msgid "Are you sure delete all event time ?"
+msgstr "Are you sure delete all event time ?"
+
+msgctxt "Languages::description::please_add_a_event_time"
+msgid "Please add a event time"
+msgstr "Please add a event time"
+
+msgctxt "Languages::description::has_a_event_time_select_multi_times"
+msgid "The event time field has a duplicate value."
+msgstr "The event time field has a duplicate value."
+
+msgctxt "Languages::description::has_a_seat_type_input_multi_times"
+msgid "The seat type name field has a duplicate value."
+msgstr "The seat type name field has a duplicate value."
+
+msgctxt "Languages::description::has_a_selling_class_input_multi_times"
+msgid "The selling class field has a duplicate value."
+msgstr "The selling class field has a duplicate value."
+
+msgctxt "Languages::description::please_enter_event_priod_date"
+msgid "Please enter event priod date"
+msgstr "Please enter event priod date"
+
+msgctxt "Languages::description::please_select_a_date"
+msgid "Please select a date"
+msgstr "Please select a date"
+
+msgctxt "Languages::description::please_enter_reason"
+msgid "Please enter reason"
+msgstr "Please enter reason"
+
+msgctxt "Languages::description::event_time_has_seat_type_or_selling_class_is_sold"
+msgid "Event time has seat type or selling class was sold"
+msgstr "Event time has seat type or selling class was sold"
+
+msgctxt "Languages::description::please_enter_end_date_more_than_start_date"
+msgid "Please enter end date more than start date"
+msgstr "Please enter end date more than start date"
+
+msgctxt "Languages::description::please_enter_end_date_larger_than_start_date"
+msgid "The time earlier than the current time cannot be set"
+msgstr "The time earlier than the current time cannot be set"
+
+msgctxt "Languages::description::please_enter_start_reception"
+msgid "Please enter start receiption"
+msgstr "Please enter start receiption"
+
+msgctxt "Languages::description::please_choose_a_time_greater_than_or_equal_to_the_current_time"
+msgid "Please choose a time greater than or equal to the current time"
+msgstr "Please choose a time greater than or equal to the current time"
+
+msgctxt "Languages::description::please_enter_a_stock_greater_than_or_equal_to"
+msgid "Please enter a stock greater than or equal to {0}"
+msgstr "Please enter a stock greater than or equal to {0}"
+
+msgctxt "Languages::description::please_enter_end_tour_priod"
+msgid "Please enter end tour period"
+msgstr "Please enter end tour period"
+
+msgctxt "Languages::description::please_enter_start_tour_priod"
+msgid "Please enter start tour period"
+msgstr "Please enter start tour period"
+
+msgctxt "Languages::description::cant_delete_event"
+msgid "Can't delete event"
+msgstr "Can't delete event"
+
+msgctxt "Languages::description::select_all"
+msgid "Select all"
+msgstr "Select all"
+
+msgctxt "Languages::description::we_have_sold_tickets_already"
+msgid "We have sold tickets already. You cannot edit information."
+msgstr "We have sold tickets already. You cannot edit information."
+
+msgctxt "Languages::description::please_enter_end_reception"
+msgid "Please enter end receiption"
+msgstr "Please enter end receiption"
+
+msgctxt "Languages::description::event_time_stoping"
+msgid "This event is stopped"
+msgstr "This event is stopped"
+
+msgctxt "Languages::description::stop_selling"
+msgid "Stop selling"
+msgstr "Stop selling"
+
+msgctxt "Languages::description::restart_selling"
+msgid "Start selling"
+msgstr "Start selling"
+
+msgctxt "Languages::description::times_1_user_can_apply_for_this_tour"
+msgid "It defines how many times 1 user can apply for this tour"
+msgstr "It defines how many times 1 user can apply for this tour"
+
+msgctxt "Languages::description::tickets_1_user_can_purchase_at_a_time"
+msgid "It defines how many tickets 1 user can purchase at a time"
+msgstr "It defines how many tickets 1 user can purchase at a time"
+
+msgctxt "Languages::description::removed_from_stock_when_a_user_purchase_1_ticket"
+msgid "It defines how many tickets are removed from stock when a user purchase 1 ticket <br/> ※When you set this field as 3, it reduces 3 stocks when a user purchase 1 ticket <br/>"
+msgstr "It defines how many tickets are removed from stock when a user purchase 1 ticket <br/> ※When you set this field as 3, it reduces 3 stocks when a user purchase 1 ticket <br/>"
+
+msgctxt "Languages::description::reduces_3_stocks_when_a_user_purchase_1_ticket"
+msgid "※When you set this field as 3, it reduces 3 stocks when a user purchase 1 ticket"
+msgstr "※When you set this field as 3, it reduces 3 stocks when a user purchase 1 ticket"
+
+msgctxt "Languages::description::not_the_price_per_1_ticket"
+msgid "※Please input total amount for price. Not the price per 1 ticket."
+msgstr "※Please input total amount for price. Not the price per 1 ticket."
+
+msgctxt "Languages::description::tickets_to_be_sold_with"
+msgid "It defines how many tickets to be sold with <br/> ※When you set this field as 2, a user can purchase tickets with 2, 4, 6...tickets"
+msgstr "It defines how many tickets to be sold with <br/> ※When you set this field as 2, a user can purchase tickets with 2, 4, 6...tickets"
+
+msgctxt "Languages::description::user_can_purchase_tickets_with_2"
+msgid "※When you set this field as 2, a user can purchase tickets with 2, 4, 6...tickets"
+msgstr "※When you set this field as 2, a user can purchase tickets with 2, 4, 6...tickets"
+
+msgctxt "Languages::description::it_defines_the_order_to_shown_this_seat_type"
+msgid "It defines the order to shown this seat type (selling class) at Storefront when we have multiple seat type (selling class)"
+msgstr "It defines the order to shown this seat type (selling class) at Storefront when we have multiple seat type (selling class)"
+
+msgctxt "Languages::description::the_product_has_been_sold_out_you_can_not_delete_it"
+msgid "The product has been sold out, you can't delete it"
+msgstr "The product has been sold out, you can't delete it"
+
+msgctxt "Languages::description::cant_delete_because_seat_type_was_sold"
+msgid "The seat type [seat_type] has been sold, you can't delete it."
+msgstr "The seat type [seat_type] has been sold, you can't delete it."
+
+msgctxt "Languages::description::delete_seat_type_success"
+msgid "The seat type [seat_type] has been deleted successfully."
+msgstr "The seat type [seat_type] has been deleted successfully."
+
+msgctxt "Languages::description::delete_selling_class_success"
+msgid "The selling class [selling_class] has been deleted successfully."
+msgstr "The selling class [selling_class] has been deleted successfully."
+
+msgctxt "Languages::description::update_seat_type_success"
+msgid "The seat type [seat_type] has been updated successfully."
+msgstr "The seat type [seat_type] has been updated successfully."
+
+msgctxt "Languages::description::cant_add_selling_because_seat_type_was_sold"
+msgid "The seat type [seat_type] has been sold, can't add more selling class"
+msgstr "The seat type [seat_type] has been sold, can't add more selling class"
+
+msgctxt "Languages::description::update_selling_class_success"
+msgid "The selling class [selling_class] has been updated successfully."
+msgstr "The selling class [selling_class] has been updated successfully."
+
+msgctxt "Languages::description::cant_delete_selling_class_was_sold"
+msgid "The selling class[selling_class] has been sold, you can't delete it."
+msgstr "The selling class[selling_class] has been sold, you can't delete it."
+
+msgctxt "Languages::description::only_update_stock_for_seat_type_and_not_update_info_seat_type"
+msgid "The seat type [seat_type] has been sold, updated stock, can't update other infomation!"
+msgstr "The seat type [seat_type] has been sold, updated stock, can't update other infomation!"
+
+msgctxt "Languages::description::update_success_stock_seat_type_for_seat_type"
+msgid "The seat type [seat_type] has been updated stock successfully."
+msgstr "The seat type [seat_type] has been updated stock successfully."
+
+msgctxt "Languages::description::cant_update_because_seat_type_was_sold_and_new_stock_greater_than_or_equal_to_stock"
+msgid "The seat type [seat_type] can't update because seat type was sold and new stock greater than or equal to [numbder_ticket_sold] ticket sold"
+msgstr "The seat type [seat_type] can't update because seat type was sold and new stock greater than or equal to [numbder_ticket_sold] ticket sold"
+
+msgctxt "Languages::description::only_update_start_selling_and_end_selling_for_selling_class_cant_update_info_other"
+msgid "The selling class [selling_class] has been sold, updated start/end selling, can't update other infomation!"
+msgstr "The selling class [selling_class] has been sold, updated start/end selling, can't update other infomation!"
+
+msgctxt "Languages::description::cant_update_selling_class_start_selling_and_selling_incorrect"
+msgid "The selling class [selling_class] can't update, start/end selling incorrect!"
+msgstr "The selling class [selling_class] can't update, start/end selling incorrect!"
+
+msgctxt "Languages::description::cant_update_group_ticket_selling_class"
+msgid "Can't change the Group Ticket of <b>[selling_class]</b>"
+msgstr "Can't change the Group Ticket of <b>[selling_class]</b>"
+
+msgctxt "Languages::description::cant_update_group_ticket_seat_type"
+msgid "Can't change the Group Ticket of <b>[seat_type]</b>"
+msgstr "Can't change the Group Ticket of <b>[seat_type]</b>"
+
+msgctxt "Languages::description::the_event_time_has_been_sold_out_you_can_not_delete_it"
+msgid "The event time [event_time] has been sold, you can't delete it."
+msgstr "The event time [event_time] has been sold, you can't delete it."
+
+msgctxt "Languages::description::the_event_time_deleted_success"
+msgid "The event time [event_time] has been deleted successfully."
+msgstr "The event time [event_time] has been deleted successfully."
+
+msgctxt "Languages::description::cant_edit_basic_info_event_was_sold"
+msgid "Can not edit basic info of event because it has been sold"
+msgstr "Can not edit basic info of event because it has been sold"
+
+msgctxt "Languages::description::cant_add_event_time_event_was_sold"
+msgid "Can not edit event time of event because it has been sold"
+msgstr "Can not edit event time of event because it has been sold"
+
+msgctxt "Languages::description::please_enter_price_greater_than_0"
+msgid "Please enter price greater than 0"
+msgstr "Please enter price greater than 0"
+
+msgctxt "Languages::description::can_not_delete_the_last_event_time"
+msgid "Can't delete the last event time"
+msgstr "Can't delete the last event time"
+
+msgctxt "Languages::description::can_not_save_because_some_value_invalid"
+msgid "Can't save because some value invalid"
+msgstr "Can't save because some value invalid"
+
+msgctxt "Languages::description::no_contents_found"
+msgid "No contents found"
+msgstr "No contents found"
+
+msgctxt "Languages::description::item_was_deleted"
+msgid "Item was deleted"
+msgstr "Item was deleted"
+
+msgctxt "Languages::description::add_failed"
+msgid "Add failed"
+msgstr "Add failed"
+
+msgctxt "Languages::description::added_success"
+msgid "Added successful"
+msgstr "Added successful"
+
+msgctxt "Languages::description::file_upload_error"
+msgid "File upload error"
+msgstr "File upload error"
+
+msgctxt "Languages::description::file_uploaded"
+msgid "File uploaded"
+msgstr "File uploaded"
+
+msgctxt "Languages::description::monitor_id_not_found"
+msgid "Please input id"
+msgstr "Please input id"
+
+msgctxt "Languages::description::please_add_image"
+msgid "Please add a image"
+msgstr "Please add a image"
+
+msgctxt "Languages::description::please_add_movie"
+msgid "Please add a movie"
+msgstr "Please add a movie"
+
+msgctxt "Languages::description::please_input_data"
+msgid "Please input data"
+msgstr "Please input data"
+
+msgctxt "Languages::description::please_input_number"
+msgid "Please input number"
+msgstr "Please input number"
+
+msgctxt "Languages::description::please_input_order"
+msgid "Please input order"
+msgstr "Please input order"
+
+msgctxt "Languages::description::please_input_title"
+msgid "Please input title"
+msgstr "Please input title"
+
+msgctxt "Languages::description::please_select_layout"
+msgid "Please select layout"
+msgstr "Please select layout"
+
+msgctxt "Languages::description::please_select_tour"
+msgid "Please select tour"
+msgstr "Please select tour"
+
+msgctxt "Languages::description::updated_success"
+msgid "Updated successful"
+msgstr "Updated successful"
+
+msgctxt "Languages::description::numerical_field"
+msgid "The [field] is only numerical"
+msgstr "The [field] is only numerical"
+
+msgctxt "Languages::description::text_cart_limit_number_ticket"
+msgid "The product <b>[product]</b> was ordered <b>[ordered]</b> time. It is limit order."
+msgstr "The product <b>[product]</b> was ordered <b>[ordered]</b> time. It is limit order."
+
+msgctxt "Languages::description::text_cart_maximum_order_quantity"
+msgid "The maximun order quantity of the product <b>[product]</b> is <b>[max]</b>."
+msgstr "The maximun order quantity of the product <b>[product]</b> is <b>[max]</b>."
+
+msgctxt "Languages::description::text_cart_quantity_step"
+msgid "The quantity step of the product <b>[product]</b> is <b>[quantity_step]</b>."
+msgstr "The quantity step of the product <b>[product]</b> is <b>[quantity_step]</b>."
+
+msgctxt "Languages::description::text_cart_amount_corrected"
+msgid "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
+msgstr "The number of products in the inventory is not enough for your order. The quantity of the product <b>[product]</b> has been changed in your cart."
+
+msgctxt "Languages::description::text_cart_amount_changed"
+msgid "The quantity of the product <b>[product]</b> in your cart has been changed to allowable."
+msgstr "The quantity of the product <b>[product]</b> in your cart has been changed to allowable."
+
+msgctxt "Languages::description::min_qty_not_greater_than_max_qty"
+msgid "The min order quantity may not be greater than max order quantity."
+msgstr "The min order quantity may not be greater than max order quantity."
+
+msgctxt "Languages::description::start_selling_specify_date_after_or_equal_current_time"
+msgid "Please choose start selling specify date greater than or equal to the current time"
+msgstr "Please choose start selling specify date greater than or equal to the current time"
+
+msgctxt "Languages::description::end_selling_specify_date_after_or_equal_current_time"
+msgid "Please choose end selling specify date greater than or equal to the current time"
+msgstr "Please choose end selling specify date greater than or equal to the current time"
+
+msgctxt "Languages::description::start_scanning_specify_date_after_or_equal_current_time"
+msgid "Please choose start scanning specify date greater than or equal to the current time"
+msgstr "Please choose start scanning specify date greater than or equal to the current time"
+
+msgctxt "Languages::description::end_scanning_specify_date_after_or_equal_current_time"
+msgid "Please choose end scanning specify date greater than or equal to the current time"
+msgstr "Please choose end scanning specify date greater than or equal to the current time"
+
+msgctxt "Languages::description::validate_start_selling"
+msgid "[product] [event_time] [seat_type] is not sold yet. The ticket is removed from your cart."
+msgstr "[product] [event_time] [seat_type] is not sold yet. The ticket is removed from your cart."
+
+msgctxt "Languages::description::validate_end_selling"
+msgid "The [product] [event_time] [seat_type] has been end selling. The ticket is removed from your cart."
+msgstr "The [product] [event_time] [seat_type] has been end selling. The ticket is removed from your cart."
+
+msgctxt "Languages::description::validate_stop_selling"
+msgid "The sales of [product] [event_time] [seat_type] has stopped. The ticket is removed from your cart."
+msgstr "The sales of [product] [event_time] [seat_type] has stopped. The ticket is removed from your cart."
+
+msgctxt "Languages::description::validate_out_of_stock"
+msgid "The [product] is out of stock"
+msgstr "The [product] is out of stock"
+
+msgctxt "Languages::description::validate_overlap_time_danin"
+msgid "For now, The [product] just sale for Danin"
+msgstr "For now, The [product] just sale for Danin"
+
+msgctxt "Languages::description::validate_only_for_danin"
+msgid "The selected [seat_type] of the [product] is for danin only"
+msgstr "The selected [seat_type] of the [product] is for danin only"
+
+msgctxt "Languages::description::validate_required"
+msgid "This field is required."
+msgstr "This field is required."
+
+msgctxt "Languages::description::validate_widekana_space"
+msgid "You can enter only full-width Kana in {0}"
+msgstr "You can enter only full-width Kana in {0}"
+
+msgctxt "Languages::description::validate_phone_number"
+msgid "The format you entered is invalid. Please enter {0}."
+msgstr "The format you entered is invalid. Please enter {0}."
+
+msgctxt "Languages::description::validate_post_code"
+msgid "{0}Post code must be 7 digits"
+msgstr "{0}Post code must be 7 digits"
+
+msgctxt "Languages::description::validate_birth_year"
+msgid "You can enter {0} in YYYY format only"
+msgstr "You can enter {0} in YYYY format only"
+
+msgctxt "Languages::description::validate_maxlength"
+msgid "No more than {0} characters"
+msgstr "No more than {0} characters"
+
+msgctxt "Languages::description::validate_email"
+msgid "Not valid email address"
+msgstr "Not valid email address"
+
+msgctxt "Languages::description::validate_wide_char_space"
+msgid "You can only enter full-width character in {0} (exclude old characters and device dependent characters)"
+msgstr "You can only enter full-width character in {0} (exclude old characters and device dependent characters)"
+
+msgctxt "Languages::description::please_select_time_greater_than_current_time"
+msgid "Please select a time greater than the current time"
+msgstr "Please select a time greater than the current time"
+
+msgctxt "Languages::description::format_deep_link_incorrect"
+msgid "Format deep link incorrect"
+msgstr "Format deep link incorrect"
+
+msgctxt "Languages::description::cant_update_notification"
+msgid "Can't update notification"
+msgstr "Can't update notification"
+
+msgctxt "Languages::description::notification_sent_successfully"
+msgid "Notification sent successfully"
+msgstr "Notification sent successfully"
+
+msgctxt "Languages::description::delete_notification_success"
+msgid "Delete notification successfully"
+msgstr "Delete notification successfully"
+
+msgctxt "Languages::description::cant_delete_notification"
+msgid "Can't delete notification"
+msgstr "Can't delete notification"
+
+msgctxt "Languages::description::product_id_not_exist"
+msgid "Product id not exist"
+msgstr "Product id not exist"
+
+msgctxt "Languages::description::news_id_incorrect"
+msgid "News id incorrect"
+msgstr "News id incorrect"
+
+msgctxt "Languages::description::type_schedule_incorrect"
+msgid "Type schedule incorrect"
+msgstr "Type schedule incorrect"
+
+msgctxt "Languages::description::invitation_code_incorrect"
+msgid "Invitation code incorrect"
+msgstr "Invitation code incorrect"
+
+msgctxt "Languages::description::are_you_sure_delete_notification"
+msgid "Are you sure delete notification?"
+msgstr "Are you sure delete notification?"
+
+msgctxt "Languages::description::minute_number_must_be_in_range"
+msgid "Minute number must be in range 0 - 59"
+msgstr "Minute number must be in range 0 - 59"
+
+msgctxt "Languages::description::error_payment_limit_time"
+msgid "The deadline for convenience store settlement for [product name] [date time] has expired. Please select another payment method."
+msgstr "The deadline for convenience store settlement for [product name] [date time] has expired. Please select another payment method."
+
+msgctxt "Languages::description::invalidate_start_end_selling_schedule_time"
+msgid "Invalidate event schedule time [date_time] because it has the start selling [start_selling] greater than or equal to end selling [end_selling]"
+msgstr "Invalidate event schedule time [date_time] because it has the start selling [start_selling] greater than or equal to end selling [end_selling]"
+
+msgctxt "Languages::description::event_time_from_must_before_event_time_to"
+msgid "Event time from must before event time to"
+msgstr "Event time from must before event time to"
+
